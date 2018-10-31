@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default " en " }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/semantic.min.css">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/styles.css">
+  <link rel="shortcut icon" href="{{ $.Site.BaseURL }}/favicon.png" type="image/x-icon"> {{ partial "meta.html" . }}
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/jquery.min.js"></script>
+</head>
+
+<body>
+  {{ partial "header.html" . }}
+  <main role="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/semantic.min.js"></script>
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/slippry.min.js"></script>
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/slippry.min.css">
+  <script type="text/javascript">
+    $(function () {
+      $('#slider').slippry({
+        // general elements & wrapper
+        slippryWrapper: '<div class="sy-box topslider" />', // wrapper to wrap everything, including pager
+        elements: 'li', // elments cointaining slide content
+
+        // options
+        adaptiveHeight: false, // height of the sliders adapts to current 
+        captions: false,
+        loop: true,
+        // pager
+        pager: false,
+        start: 2,
+        // transitions
+        slideMargin: 0, // spacing between slides (in %)
+        useCSS: true,
+        transition: 'horizontal',
+        pause: 3000,
+        speed: 650,
+        // slideshow
+        autoDirection: 'next'
+      });
+      $('.ui.embed').embed();
+    });
+  </script>
+</body>
+
+</html>

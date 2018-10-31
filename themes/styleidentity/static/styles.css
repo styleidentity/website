@@ -1,0 +1,14 @@
+/*
+@red:rgb(178,35,43);
+@grey:rgb(92,92,92);
+@grey_light:rgb(231,231,231 );
+@grey_light237:rgb(237,237,237 );
+*/
+body {
+  font-family: Arial, Helvetica, sans-serif, serif;
+  color: #414141;
+  background: white;
+}
+body *:not(i) {
+  font-family: Arial, Helvetica, sans-serif important;
+}

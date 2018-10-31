@@ -1,0 +1,128 @@
+---
+label: Home
+hide_body: true
+is_partial: false
+fields:
+- type: field_group_list
+  name: slider
+  label: Slider
+  config:
+    min: '1'
+  fields:
+  - type: file
+    name: bild
+    label: Bild
+  - type: textarea
+    name: titel
+    label: Titel
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: intro
+  label: Intro
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: titel_content_oben
+  label: Titel Content oben
+- type: textarea
+  name: content_oben
+  label: Content oben
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group_list
+  name: bereiche
+  label: Bereiche
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+    config:
+      required: true
+  - type: file
+    name: icon
+    label: Icon
+  - type: select
+    name: link
+    config:
+      source:
+        type: pages
+    label: Link
+  - type: text
+    name: untertitel
+    label: Untertitel
+- type: field_group
+  name: daniela_kielkowski
+  label: Daniela Kielkowski
+  fields:
+  - type: file
+    name: bild_links
+    label: Bild links
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: file
+    name: unterschrift
+    label: Unterschrift
+  - type: textarea
+    name: unterschrift_text
+    label: Unterschrift Text
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group
+  name: termin
+  label: Termin
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: buttonbeschriftung
+    label: Buttonbeschriftung
+  - type: text
+    name: link
+    label: Link
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: field_group
+  name: kontakt
+  label: Kontakt
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: karte
+    label: Karte
+  - type: file
+    name: karte_bild
+    label: Karte Bild
+pages:
+- content/_index.md
