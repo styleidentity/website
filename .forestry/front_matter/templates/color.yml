@@ -1,0 +1,29 @@
+---
+label: Color
+hide_body: true
+is_partial: true
+fields:
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - weiss:#ffffff
+    - weiss75:rgba(255,255,255,0.75)
+    - creme:rgb(255,250,245)
+    - creme75:rgba(255,250,245,0.98)
+    - ecru:#DDD8CE
+    - grano:#EEE3CE
+    - chameau:#D5C1A0
+    - chameau75:rgba(213,193,160,0.75)
+    - pietra:#E8E8E8
+    - esche:#A7A7A7
+    - charbon:#656565
+    - graphite:#404040
+    - malachit:#1D2642
+    - siena:#8F0000
+    - grege:#AA998
+    - mokka:#766446
+    - transparent:rgba(255,255,255,0)
+  label: Farbe
+  name: farbe
