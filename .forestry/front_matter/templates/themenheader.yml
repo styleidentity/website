@@ -4,3 +4,10 @@ hide_body: true
 is_partial: true
 fields:
 - type: include
+  label: Farbe
+  name: farbe
+  template: color
+- type: include
+  name: textfarbe
+  label: Textfarbe
+  template: color
