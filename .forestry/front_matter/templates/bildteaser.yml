@@ -1,0 +1,16 @@
+---
+label: BildTeaser
+hide_body: true
+is_partial: true
+display_field: text
+fields:
+- type: file
+  name: bild
+  label: Bild
+- type: textarea
+  name: text
+  label: Text
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
