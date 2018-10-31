@@ -1,0 +1,31 @@
+---
+label: Themenabschnitt
+hide_body: false
+is_partial: true
+display_field: titel
+fields:
+- type: include
+  name: hintergrundfarbe
+  label: Hintergrundfarbe
+  template: color
+- type: textarea
+  name: titel
+  label: Titel
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: untertitel
+  label: Untertitel
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: text
+  label: Text
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
