@@ -36,3 +36,7 @@ fields:
   label: type
   name: type
   default: ta
+- type: include
+  name: textfarbe
+  label: Textfarbe
+  template: color
