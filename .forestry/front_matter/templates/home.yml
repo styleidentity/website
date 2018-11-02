@@ -3,4 +3,17 @@ label: Home
 hide_body: true
 is_partial: false
 fields:
-- type: include
+- type: field_group_list
+  name: page-sections
+  label: Page-Sections
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: blocks
+    name: sub_sections
+    label: Sub Sections
+    template_types:
+    - bildteaser
+    - themenheader
+    - themenabschnitt
