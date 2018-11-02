@@ -13,9 +13,6 @@ page-sections:
       farbe: weiss:#ffffff
     teaser: "<p>IHRE MITARBEITER SIND<br>IHR GRÖSSTES KAPITAL?</p><p>WIR KLEIDEN SIE
       EIN.</p>"
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Idee und Leitgedanke</p>"
 - {}
 
 ---
