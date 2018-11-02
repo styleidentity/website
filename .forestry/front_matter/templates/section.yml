@@ -1,0 +1,13 @@
+---
+label: Section
+hide_body: true
+is_partial: true
+display_field: section
+fields:
+- type: blocks
+  name: section
+  label: Section
+  template_types:
+  - themenheader
+  - bildteaser
+  - themenabschnitt
