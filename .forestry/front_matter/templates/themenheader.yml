@@ -3,14 +3,22 @@ label: ThemenHeader
 hide_body: true
 is_partial: true
 fields:
-- type: include
-  label: Farbe
+- type: field_group
   name: farbe
-  template: color
-- type: include
+  label: Farbe
+  fields:
+  - type: include
+    template: color
+    label: Farbe
+    name: farbe
+- type: field_group
   name: textfarbe
   label: Textfarbe
-  template: color
+  fields:
+  - type: include
+    name: farbe
+    label: Farbe
+    template: color
 - type: file
   name: hintergrundbild
   label: Hintergrundbild
@@ -21,19 +29,3 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
-- type: field_group
-  name: farbe
-  label: Farbe
-  fields:
-  - type: include
-    template: color
-    label: Farbe
-    name: farbe
-- type: field_group
-  name: textfarbe
-  label: Textfarbe
-  fields:
-  - type: include
-    name: farbe
-    label: Farbe
-    template: color
