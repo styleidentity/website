@@ -17,3 +17,5 @@ fields:
     - bildteaser
     - themenheader
     - themenabschnitt
+pages:
+- content/_index.md
