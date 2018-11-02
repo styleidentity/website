@@ -7,9 +7,12 @@ page-sections:
 - name: Philosophie
   sub_sections:
   - template: themenheader
-    farbe: weiss:#ffffff
-    teaser: "<p>IHRE MITARBEITER SIND <br>IHR GRÖSSTES KAPITAL?</p><p>WIR KLEIDEN
-      SIE EIN.</p>"
+    farbe:
+      farbe: chameau:#D5C1A0
+    textfarbe:
+      farbe: weiss:#ffffff
+    teaser: "<p>IHRE MITARBEITER SIND<br>IHR GRÖSSTES KAPITAL?</p><p>WIR KLEIDEN SIE
+      EIN.</p>"
 - {}
 
 ---
