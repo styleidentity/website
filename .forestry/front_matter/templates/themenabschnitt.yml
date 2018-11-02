@@ -29,3 +29,10 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+- type: text
+  hidden: true
+  config:
+    required: true
+  label: type
+  name: type
+  default: ta
