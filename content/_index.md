@@ -110,5 +110,24 @@ page-sections:
       Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
       eröffnet StyleIdentity diesen Service auch Unternehmen für deren Arbeits- und
       Geschäftskleidung.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>TRACHT IM BUSINESS</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>EINE HERZENSANGELEGENHEIT</p>"
+    text: <p>Die sogenannte "Tracht" ist ein Thema voller Missverständnisse, beladen
+      mit Vorurteilen und Klischees. Für uns ist Tracht einfach eine andere, besondere
+      Form der Gesellschafts-, Business-, oder Festkleidung - gleichermaßen beheimatet
+      im Privaten wie im Geschäftsleben. Einzig und allein nach Regeln des guten Geschmacks.</p><p>Zu
+      zeigen, wie Sie diesen schmalen Grat finden und stilsicher beschreiten, liegt
+      uns ganz besonders am Herzen.</p>
+  - template: bildteaser
+    type: bt
+    text: "<p>TRACHT IST IN WIRKLICHKEIT NUR EIN KONSTRUKT, EINE IDEE.</p><p>VIELE
+      LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
+      ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
+    bild: "/uploads/2018/11/02/tracht_7.jpg"
 
 ---
