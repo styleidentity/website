@@ -4,6 +4,54 @@ date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
 page-sections:
+- name: Über uns
+  sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: malachit:#1D2642
+    textfarbe:
+      farbe: weiss:#ffffff
+    teaser: "<p>Wer wir sind,</p><p>wofür wir stehen</p>"
+    hintergrundbild: "/uploads/2018/11/02/website_1.jpg"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Unser Antrieb</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Was uns bewegt</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Leistungsversprechen</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Team style identity</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
 - name: Philosophie
   sub_sections:
   - template: themenheader
