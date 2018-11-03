@@ -71,5 +71,17 @@ page-sections:
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
       und dem Design bis zur »Arbeit« an Ihren Mitarbeitern bei der Einkleidung sind
       wir an Ihrer Seite.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>CONSULTING</p>"
+    untertitel: "<p>ERWEITERUNG IHRER <br>MARKETING-STRATEGIEN</p>"
+    farbe: creme:rgb(255,250,245)
+    text: "<p>Die Erarbeitung von Strategien zur Corporate Office-Wear - zum Beispiel
+      innerhalb von Change-Management Prozessen - zusammen mit Ihrer Organisationsentwicklung
+      und die Umsetzung von Inhouse-Kommunikationsverfahren mit Ihren Marketing- und
+      PR-Entscheidern sind unsere Kernkompetenzen.</p><p>CI-konforme Looks bedeuten
+      nämlich keineswegs das Aus der Individualität Ihrer Mitarbeiter und Mitarbeiterinnen.
+      Entscheidend für das funktionierende Nebeneinander von Eigenständigkeit und
+      Identifikation mit dem Unternehmen ist die richtige Form der Kommunikation.</p>"
 
 ---
