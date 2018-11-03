@@ -3,6 +3,12 @@ label: Home
 hide_body: true
 is_partial: false
 fields:
+- type: file
+  name: startgrafik
+  label: Startgrafik
+- type: file
+  label: Startgrafik Logo
+  name: startgrafik_logo
 - type: field_group_list
   name: page-sections
   label: Page-Sections
