@@ -129,5 +129,37 @@ page-sections:
       LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
       ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
     bild: "/uploads/2018/11/02/tracht_7.jpg"
+- name: Referenzen
+  sub_sections:
+  - template: themenheader
+    teaser: "<p></p>"
+    farbe:
+      farbe: graphite:#404040
+    textfarbe:
+      farbe: weiss:#ffffff
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Projekte</p>"
+    farbe: graphite:#404040
+    textfarbe_titel_und_content:
+      farbe: weiss:#ffffff
+    untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
+    text: "<p><em>BMW Welt &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Gross+Fuchs
+      - Group &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Oldorid Kunststoffe
+      GmbH Käfer Gut Kaltenbrunn GmbH &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;shoepassion.com
+      &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Juwelier Hilscher Allergika
+      GmbH &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Tusket Messermanufaktur</em></p>"
+  - template: themenabschnitt
+    type: ta
+    farbe: graphite:#404040
+    textfarbe_titel_und_content:
+      farbe: weiss:#ffffff
+    titel: "<p>Partner</p>"
+    untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN. VON
+      HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
+    text: "<p><em>b-coding UG &amp; Co. KG &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;elvira.beck
+      | design &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;ProService GmbH Greif
+      Trachten &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;GMUND Papier &nbsp;&nbsp;&nbsp;&nbsp;·
+      &nbsp;&nbsp;&nbsp;&nbsp;fabrik 3</em></p>"
 
 ---
