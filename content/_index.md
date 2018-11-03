@@ -83,5 +83,32 @@ page-sections:
       nämlich keineswegs das Aus der Individualität Ihrer Mitarbeiter und Mitarbeiterinnen.
       Entscheidend für das funktionierende Nebeneinander von Eigenständigkeit und
       Identifikation mit dem Unternehmen ist die richtige Form der Kommunikation.</p>"
+  - template: bildteaser
+    type: bt
+    text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
+      GEKLEIDETER MITARBEITER.</p>"
+    bild: "/uploads/2018/11/02/scabal_leistungen.jpg"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:rgb(255,250,245)
+    titel: "<p>PRODUKTION</p>"
+    untertitel: "<p>HERSTELLUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
+    text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
+      der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
+      Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
+      erfolgt nach höchsten ökolgischen Standards und unter fairsten Bedingungen für
+      die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
+      in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
+      beauftragen.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Design</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>INDIVIDUELLE BRAND-FASHION<br>IN EINER IMMER MONOTONEREN MODEWELT.</p>"
+    text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
+      und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
+      Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
+      eröffnet StyleIdentity diesen Service auch Unternehmen für deren Arbeits- und
+      Geschäftskleidung.</p>"
 
 ---
