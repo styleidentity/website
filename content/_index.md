@@ -4,72 +4,6 @@ date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
 page-sections:
-- name: Über uns
-  sub_sections:
-  - template: themenheader
-    farbe:
-      farbe: malachit:#1D2642
-    textfarbe:
-      farbe: weiss:#ffffff
-    teaser: "<p>Wer wir sind,</p><p>wofür wir stehen</p>"
-    hintergrundbild: "/uploads/2018/11/02/website_1.jpg"
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Unser Antrieb</p>"
-    farbe: creme:rgb(255,250,245)
-    untertitel: "<p>Was uns bewegt</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Leistungsversprechen</p>"
-    farbe: creme:rgb(255,250,245)
-    untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Team style identity</p>"
-    farbe: creme:rgb(255,250,245)
-    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
-  - template: bildteaser
-    type: bt
-    bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
-  - template: themenabschnitt
-    type: ta
-    farbe: creme:rgb(255,250,245)
-    titel: "<p>Markus Goss</p>"
-    untertitel: "<p>Gründer und Style-Professional</p>"
-    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p>"
-  - template: themenabschnitt
-    type: ta
-    farbe: nautique:#1D2642
-    titel: "<p>Andere über uns</p>"
-    untertitel: "<p>Kundenfeedback</p>"
-    text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
-      KUNSTSTOFFE GmbH </p>
-    textfarbe_titel_und_content:
-      farbe: weiss:#ffffff
 - name: Philosophie
   sub_sections:
   - template: themenheader
@@ -227,5 +161,88 @@ page-sections:
       | design &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;ProService GmbH Greif
       Trachten &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;GMUND Papier &nbsp;&nbsp;&nbsp;&nbsp;·
       &nbsp;&nbsp;&nbsp;&nbsp;fabrik 3</em></p>"
+- name: Über uns
+  sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: malachit:#1D2642
+    textfarbe:
+      farbe: weiss:#ffffff
+    teaser: "<p>Wer wir sind,</p><p>wofür wir stehen</p>"
+    hintergrundbild: "/uploads/2018/11/02/website_1.jpg"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Unser Antrieb</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Was uns bewegt</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Leistungsversprechen</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Team style identity</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: bildteaser
+    type: bt
+    bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:rgb(255,250,245)
+    titel: "<p>Markus Goss</p>"
+    untertitel: "<p>Gründer und Style-Professional</p>"
+    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p>"
+  - template: themenabschnitt
+    type: ta
+    farbe: nautique:#1D2642
+    titel: "<p>Andere über uns</p>"
+    untertitel: "<p>Kundenfeedback</p>"
+    text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
+      KUNSTSTOFFE GmbH </p>
+    textfarbe_titel_und_content:
+      farbe: weiss:#ffffff
+- name: Kontakt
+  sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: siena:#8F0000
+    textfarbe:
+      farbe: weiss:#ffffff
+    hintergrundbild: "/uploads/2018/11/02/slice_4.jpg"
+    teaser: "<p>Ihre Nachricht an uns</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Anfrage</p>"
+    untertitel: "<p>Wir freuen uns auf Ihre Nachricht</p>"
+    text: <p>Für Informationen, Terminanfragen und sonstige Nachrichten stehen wir
+      Ihnen unter <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
+      gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
+      Nachricht eine Rückmeldung von uns.</p>
 
 ---
