@@ -4,6 +4,27 @@ date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
 page-sections:
+- name: Gesetzliche Angaben
+  sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: pietra:#E8E8E8
+    textfarbe:
+      farbe: graphite:#404040
+    hintergrundbild: "/uploads/2018/11/02/slice_5.jpg"
+    teaser: "<p>Impressum, Haftungsausschluss, Datenschutz</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Impressum</p>"
+    untertitel: "<p>Angaben gemäß §5 TMG</p>"
+    farbe: creme:rgb(255,250,245)
+    text: '<p>goss | style.identity ist ein Unternehmen von <br>Goss - Beratung und
+      Vermittlung <br>Grub <br>Dorfstraße 12a &nbsp;D-83626 Valley &nbsp;  </p><p>Inhaber:
+      Markus Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012
+      <br>E-Mail: <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
+      <br>Umsatzsteuer-ID gemäß §27 a UStG: in Bearbeitung <br>Amtsgericht Miesbach
+      &nbsp;  </p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
+      einer Verbraucherschlichtungsstelle teil.</p>'
 - name: Philosophie
   sub_sections:
   - template: themenheader
