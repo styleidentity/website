@@ -36,3 +36,11 @@ fields:
   label: type
   name: type
   default: ta
+- type: field_group
+  label: Textfarbe Titel und Content
+  name: textfarbe_titel_und_content
+  fields:
+  - type: include
+    template: color
+    label: Farbe
+    name: farbe
