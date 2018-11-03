@@ -13,6 +13,7 @@ page-sections:
       farbe: weiss:#ffffff
     teaser: "<p>IHRE MITARBEITER SIND<br>IHR GRÖSSTES KAPITAL?</p><p>WIR KLEIDEN SIE
       EIN.</p>"
+    hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
   - template: themenabschnitt
     type: ta
     farbe: creme:rgb(255,250,245)
@@ -28,6 +29,10 @@ page-sections:
       die Idee von StyleIdentity: Individuelle, CI-konforme Geschäftskleidung ohne
       Uniformcharakter. Ganz nach unserem Leitsatz:</p><p><strong>INSPIRATION, KONZEPTION,
       KREATION - PERFEKTION.</strong></p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Style Identity</p>"
+    farbe: creme:rgb(255,250,245)
 - {}
 
 ---
