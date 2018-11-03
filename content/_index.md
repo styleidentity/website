@@ -720,7 +720,7 @@ page-sections:
       von den Bremen externer Datenschutzbeauftragter in Kooperation mit der RC GmbH,
       die gebrauchte Notebooks wiederverwertet und den Filesharing Rechtsanwälten
       von WBS-LAW erstellt.</p>"
-startgrafik: ''
-startgrafik_logo: ''
+startgrafik: "/uploads/2018/11/02/startbild.jpg"
+startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
 
 ---
