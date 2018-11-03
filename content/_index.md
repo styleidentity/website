@@ -50,6 +50,26 @@ page-sections:
       ist die Kunst - und die Domäne unseres Hauses. Um zwischen uniformen Kleidungsstilen
       und businesskonformer, CI-Basierter Mitarbeiterbekleidung zu differenzieren,
       kreierten wir für letztere den Terminus <br><strong>STYLE IDENTITY</strong></p>"
-- {}
+- name: Leistungen
+  sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: mokka:#766446
+    textfarbe:
+      farbe: weiss:#ffffff
+    hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
+    teaser: "<p>UNIFORM ODER CI-KONFORM? <br>WIR MACHEN DEN UNTERSCHIED.</p>"
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>CORPORATE BUSINESS-WEAR</p>"
+    farbe: creme:rgb(255,250,245)
+    untertitel: "<p>ENTWICKLUNG CI-KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
+    text: "<p>Corporate Style Guiding ist das maßgeschneiderte Konzept für Ihr Unternehmen,
+      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:</p><p>Ihre
+      ganz eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
+      für Board, Key-Accounts, Sales und viele weitere Bereiche.</p><p>Vom Brainstorming
+      über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
+      und dem Design bis zur »Arbeit« an Ihren Mitarbeitern bei der Einkleidung sind
+      wir an Ihrer Seite.</p>"
 
 ---
