@@ -33,6 +33,23 @@ page-sections:
     type: ta
     titel: "<p>Style Identity</p>"
     farbe: creme:rgb(255,250,245)
+    untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
+      Unternehmens-Identität</p>"
+    text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
+      Ein Mitarbieter, der die Identifikation seiner Company gegenüber nicht nur
+      durch seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt,
+      signalisiert Verbundenheit und Loyalität.</p><p>Was im Bereich der sog. Work-Wear
+      längst selbstverständlich ist - nämlich die optimale Verbindung von Funktion
+      und optischer Ausgestaltung nach Unternehmensrichtlinien - ist StyleIdentity
+      für die Office-Bereiche: Businesskleidung in perfekter Abstimmung mit Ihrer
+      Corporate Identity. Einen Mitarbeiter, eine Mitarbeiterin als »Botschafter«
+      Ihres Unternehmens zu erkennen, noch bevor die Visitenkarte gereicht wird -
+      schlechtin die Maßnahme zur Steigerung des Wiedererkennungswertes.</p><p>Dabei
+      soll eine Unternehmensbekleidung die Funktion einer gemeinsamen Identität erfüllen,
+      jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg zu finden
+      ist die Kunst - und die Domäne unseres Hauses. Um zwischen uniformen Kleidungsstilen
+      und businesskonformer, CI-Basierter Mitarbeiterbekleidung zu differenzieren,
+      kreierten wir für letztere den Terminus <br><strong>STYLE IDENTITY</strong></p>"
 - {}
 
 ---
