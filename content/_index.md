@@ -52,6 +52,24 @@ page-sections:
       labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
       et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
       sanctus est Lorem ipsum dolor sit amet.</p>"
+  - template: bildteaser
+    type: bt
+    bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:rgb(255,250,245)
+    titel: "<p>Markus Goss</p>"
+    untertitel: "<p>Gründer und Style-Professional</p>"
+    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p>"
+  - template: themenabschnitt
+    type: ta
+    farbe: nautique:#1D2642
+    titel: "<p>Andere über uns</p>"
+    untertitel: "<p>Kundenfeedback</p>"
+    text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
+      KUNSTSTOFFE GmbH </p>
+    textfarbe_titel_und_content:
+      farbe: weiss:#ffffff
 - name: Philosophie
   sub_sections:
   - template: themenheader
