@@ -25,5 +25,6 @@ fields:
     - grege:#AA998
     - mokka:#766446
     - transparent:rgba(255,255,255,0)
+    - nautique:#1D2642
   label: Farbe
   name: farbe
