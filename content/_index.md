@@ -52,6 +52,9 @@ page-sections:
       ist die Kunst - und die Domäne unseres Hauses. Um zwischen uniformen Kleidungsstilen
       und businesskonformer, CI-Basierter Mitarbeiterbekleidung zu differenzieren,
       kreierten wir für letztere den Terminus <br><strong>STYLE IDENTITY</strong></p>"
+  menue: true
+  farbe_menu:
+    farbe: chameau:#D5C1A0
 - name: Leistungen
   sub_sections:
   - template: themenheader
@@ -131,6 +134,9 @@ page-sections:
       LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
       ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
     bild: "/uploads/2018/11/02/tracht_7.jpg"
+  menue: true
+  farbe_menu:
+    farbe: mokka:#766446
 - name: Referenzen
   sub_sections:
   - template: themenheader
@@ -163,6 +169,9 @@ page-sections:
       | design &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;ProService GmbH Greif
       Trachten &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;GMUND Papier &nbsp;&nbsp;&nbsp;&nbsp;·
       &nbsp;&nbsp;&nbsp;&nbsp;fabrik 3</em></p>"
+  menue: true
+  farbe_menu:
+    farbe: graphite:#404040
 - name: Über uns
   sub_sections:
   - template: themenheader
@@ -229,6 +238,9 @@ page-sections:
       KUNSTSTOFFE GmbH </p>
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
+  menue: true
+  farbe_menu:
+    farbe: malachit:#1D2642
 - name: Kontakt
   sub_sections:
   - template: themenheader
@@ -246,6 +258,9 @@ page-sections:
       Ihnen unter <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
       gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
       Nachricht eine Rückmeldung von uns.</p>
+  menue: true
+  farbe_menu:
+    farbe: siena:#8F0000
 - name: Gesetzliche Angaben
   sub_sections:
   - template: themenheader

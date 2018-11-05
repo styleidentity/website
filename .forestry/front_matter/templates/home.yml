@@ -16,6 +16,10 @@ fields:
   - type: text
     name: name
     label: Name
+  - type: boolean
+    name: menue
+    label: Anzeige in Menü
+    default: false
   - type: blocks
     name: sub_sections
     label: Sub Sections
@@ -23,5 +27,13 @@ fields:
     - bildteaser
     - themenheader
     - themenabschnitt
+  - type: field_group
+    name: farbe_menu
+    label: Farbe Menü
+    fields:
+    - type: include
+      template: color
+      label: Farbe
+      name: farbe
 pages:
 - content/_index.md
