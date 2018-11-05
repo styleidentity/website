@@ -10,7 +10,7 @@ fields:
   label: Startgrafik Logo
   name: startgrafik_logo
 - type: field_group_list
-  name: page-sections
+  name: page_sections
   label: Page-Sections
   fields:
   - type: text
