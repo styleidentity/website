@@ -3,9 +3,7 @@ title: Home
 date: 2018-07-06 18:19:54 +0000
 type: page
 seo_description: ''
-[menu.main]
-weight = 2
-page-sections:
+page_sections:
 - name: Philosophie
   sub_sections:
   - template: themenheader

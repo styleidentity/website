@@ -32,3 +32,174 @@ h5,
 h6 {
   font-family: 'SackersGothicW01-Light', "Times New Roman", serif;
 }
+#headercontainer {
+  position: fixed;
+  width: 100vw;
+  border-bottom: 1px solid #ffffff;
+  z-index: 999;
+}
+#headercontainer.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 70px;
+}
+@media only screen and (max-width: 768px) {
+  #headercontainer {
+    background: transparent!important;
+    border: none!important;
+  }
+}
+#headercontainer #contentlayer {
+  width: 100vw;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 1;
+}
+#headercontainer #contentlayer.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer #contentlayer.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 70px;
+}
+#headercontainer #blurlayer {
+  background: rgba(255, 255, 255, 0.7);
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  z-index: 0;
+  position: absolute;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+@media only screen and (max-width: 768px) {
+  #headercontainer #blurlayer {
+    background: transparent!important;
+  }
+}
+#headercontainer #blurlayer.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer #blurlayer.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 70px;
+}
+#headercontainer #mainnavgrid {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  background: white;
+  left: calc(18vw);
+  top: 0;
+  margin: 0!important;
+  position: absolute;
+  z-index: 1;
+}
+@media only screen and (max-width: 768px) {
+  #headercontainer #mainnavgrid {
+    width: 100vw;
+    left: 0!important;
+  }
+}
+#headercontainer #mainnavgrid.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer #mainnavgrid.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 50px;
+}
+#headercontainer .mainnavgridcolumn {
+  padding: 0 2rem!important;
+  min-width: 110px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 768px) {
+  #headercontainer .mainnavgridcolumn {
+    padding: 0 6px!important;
+    width: auto;
+    min-width: auto;
+  }
+}
+#headercontainer .mainnavgridcolumncontent {
+  width: 100%;
+  color: black;
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  font-family: 'Termina W00 Regular', sans-serif;
+  text-transform: uppercase;
+}
+#headercontainer .mainnavgridcolumncontent.scrolled {
+  border-top: 3px solid;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  line-height: 37px;
+  font-size: 0.9rem;
+}
+#headercontainer .mainnavgridcolumncontent.unscrolled {
+  border-top: 7px solid;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  line-height: 40px;
+}
+@media only screen and (max-width: 768px) {
+  #headercontainer .mainnavgridcolumncontent.scrolled {
+    border-top: 2px solid;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    line-height: 20px;
+    font-size: 0.9rem;
+  }
+  #headercontainer .mainnavgridcolumncontent.unscrolled {
+    border-top: 2px solid;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    line-height: 35px;
+  }
+}
+#headercontainer #logo {
+  position: absolute;
+  width: 20vw;
+  background: no-repeat center center white;
+  background-size: contain;
+  z-index: 3;
+}
+#headercontainer #logo.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer #logo.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 70px;
+}
