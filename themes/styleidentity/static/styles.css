@@ -1,9 +1,3 @@
-/*
-@red:rgb(178,35,43);
-@grey:rgb(92,92,92);
-@grey_light:rgb(231,231,231 );
-@grey_light237:rgb(237,237,237 );
-*/
 html,
 body {
   min-height: 100vh;
@@ -102,17 +96,35 @@ h6 {
   transition-timing-function: ease-in-out;
   height: 70px;
 }
+#headercontainer #logomenuw {
+  display: flex;
+  justify-content: flex-start;
+}
+#headercontainer #logomenuw #logo {
+  width: 20vw;
+  background: url(/logo_obenlinks.png) no-repeat center center white;
+  background-size: contain;
+}
+#headercontainer #logomenuw #logo.scrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 40px;
+}
+#headercontainer #logomenuw #logo.unscrolled {
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  height: 70px;
+}
 #headercontainer #mainnavgrid {
   width: 100%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
   background: white;
-  left: calc(18vw);
   top: 0;
   margin: 0!important;
-  position: absolute;
-  z-index: 1;
 }
 @media only screen and (max-width: 768px) {
   #headercontainer #mainnavgrid {
@@ -184,22 +196,217 @@ h6 {
     line-height: 35px;
   }
 }
-#headercontainer #logo {
+#homewrapper {
+  padding-bottom: 4.2rem;
+}
+@media only screen and (max-width: 768px) {
+  #homewrapper.ui.container {
+    margin: 0!important;
+  }
+}
+#homestartwrapper {
+  width: 100vw;
+  height: 100vh;
+  background: center center no-repeat;
+  background-size: cover;
+}
+#homelogowrapper {
   position: absolute;
-  width: 20vw;
-  background: no-repeat center center white;
-  background-size: contain;
-  z-index: 3;
+  left: 28.75vw;
+  width: 62.5vw;
+  padding: 0!important;
+  margin: 0!important;
+  background: transparent;
+  top: 40vh;
 }
-#headercontainer #logo.scrolled {
-  transition-property: height;
-  transition-duration: 1s;
-  transition-timing-function: ease-in-out;
-  height: 40px;
+#homelogowrapper img {
+  width: 100%;
 }
-#headercontainer #logo.unscrolled {
-  transition-property: height;
-  transition-duration: 1s;
-  transition-timing-function: ease-in-out;
-  height: 70px;
+@media only screen and (max-width: 768px) {
+  #homelogowrapper {
+    left: 2vw;
+    width: 96vw;
+    top: 40vh;
+  }
+}
+section {
+  position: relative;
+}
+section#gesetzliche-angaben .content h2,
+section#gesetzliche-angaben .content h3 {
+  text-align: left!important;
+  font-weight: normal;
+  font-family: 'Bembo MT W01 Regular', serif !important;
+  text-transform: uppercase;
+}
+section#gesetzliche-angaben .content h2 {
+  font-size: 1.3rem;
+}
+section#gesetzliche-angaben .content h3 {
+  font-size: 1.1rem;
+  letter-spacing: inherit!important;
+}
+section .sectionTitleWrapper {
+  width: 100vw;
+  padding: 0 17.5vw 0 37.5vw ;
+}
+@media only screen and (max-width: 768px) {
+  section .sectionTitleWrapper {
+    padding: 0 2vw;
+  }
+}
+section .sectionTitleWrapper h2 {
+  font-family: 'Bembo MT W01 Regular', serif;
+  text-align: center;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 66px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 768px) {
+  section .sectionTitleWrapper h2 {
+    font-size: 18px;
+    line-height: 50px;
+  }
+}
+section .SectionTeaserBackground {
+  width: 100vw;
+  height: 12vw;
+  position: absolute;
+  z-index: 0;
+}
+@media only screen and (max-width: 768px) {
+  section .SectionTeaserBackground {
+    height: 10vh;
+  }
+}
+section .SectionTeaser {
+  left: 37.5vw;
+  min-height: 15vw;
+  width: 45vw;
+  background: #ffffff;
+  z-index: 1;
+  position: relative;
+  padding: 3vw 10vw 3vw 10vw;
+  font-family: 'Termina W00 Regular', sans-serif;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  color: #404040;
+}
+@media only screen and (max-width: 768px) {
+  section .SectionTeaser {
+    left: 5vw;
+    width: 90vw;
+    padding: 1rem ;
+    font-size: 12px;
+    letter-spacing: 0.05em;
+  }
+}
+section .Subsections {
+  padding: 3vw 17.5vw 3vw 37.5vw;
+}
+section .Subsections.idx-0 {
+  margin-top: -6vw !important;
+  padding: 12vw 17.5vw 4vw 37.5vw!important;
+}
+section .Subsections.idx-0.teaser-no {
+  padding: 9vw 17.5vw 4vw 37.5vw!important;
+}
+section .Subsections.same-backgrd {
+  padding: 0vw 17.5vw 3vw 37.5vw;
+}
+section .Subsections h3 {
+  color: #766446;
+  text-align: center;
+  font-family: 'Termina W00 Regular', sans-serif;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  font-weight: normal;
+}
+section .Subsections h4 {
+  color: #D5C1A0;
+  text-align: center;
+  font-family: 'Crimson Text', 'Bembo W01', serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  font-weight: normal;
+  margin-bottom: 1.5rem!important;
+}
+section .Subsections#ueber_uns_andere_uber_uns .content {
+  text-align: center !important;
+}
+section .Subsections#ueber_uns_andere_uber_uns .content blockquote {
+  text-transform: uppercase;
+  font-style: normal;
+}
+section .Subsections .content {
+  font-size: 1.4rem;
+  color: #404040;
+  text-align: justify;
+}
+section .Subsections .content.zit em {
+  font-family: 'Termina W00 Regular', sans-serif;
+  font-style: normal;
+}
+section .Subsections .content p {
+  line-height: 1.8em!important;
+}
+@media only screen and (max-width: 768px) {
+  section .Subsections .content {
+    text-align: left;
+  }
+}
+section .Subsections .content strong {
+  font-family: 'Termina W00 Regular', sans-serif;
+  color: #D5C1A0;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  font-size: 1.1rem;
+}
+section .Subsections .content blockquote {
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-weight: 200;
+  line-height: 2.5rem;
+}
+@media only screen and (max-width: 768px) {
+  section .Subsections {
+    padding: 3rem 1rem 1rem 1rem;
+  }
+  section .Subsections.idx-0 {
+    margin-top: -10vh !important;
+    padding: 15vh 1rem 1rem 1rem!important;
+  }
+  section .Subsections.idx-0.teaser-no {
+    padding: 3rem 1rem 1rem 1rem!important;
+  }
+  section .Subsections.same-backgrd {
+    padding: 1rem;
+  }
+  section .Subsections h3 {
+    color: #766446;
+    text-align: center;
+    font-family: 'Termina W00 Regular', sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    font-weight: normal;
+  }
+  section .Subsections h4 {
+    color: #D5C1A0;
+    text-align: center;
+    font-family: 'Crimson Text', 'Bembo W01', serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.3em;
+    font-weight: normal;
+    margin-bottom: 1.5rem!important;
+  }
 }

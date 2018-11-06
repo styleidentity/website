@@ -1,13 +1,61 @@
 {{ define "main" }}
 <div id="home">
-  <div id="headercontainer">
-    <div id="blurlayer"></div>
-    <div id="contentlayer">
-      <div class="ui tablet computer only">
-        <div id="logo"></div>
+  <div id="headercontainer" class="unscrolled">
+    <div id="blurlayer" class="unscrolled"></div>
+    <div id="contentlayer" class="unscrolled">
+      <div id="logomenuw" class="tablet computer only">
+        <a href="#home">
+          <div id="logo" class="unscrolled"></div>
+        </a>
+        <div id="mainnavgrid" class="unscrolled">
+          {{range .Params.page_sections}}
+          {{if .menue }}
+          <a class="mainnavgridcolumn" href="#{{.name |urlize}}">
+            <div class="mainnavgridcolumncontent unscrolled" style="border-color:{{partial "colorextr" .farbe_menu.farbe}}">
+              {{.name}}
+            </div>
+          </a>
+          {{end}}
+          {{end}}
+        </div>
       </div>
       <div class="ui mobile only"></div>
     </div>
   </div>
+  <div id="homewrapper">
+    <div id="homestartwrapper" style="background-image:url({{partial "imgUrl" (dict "img" .Params.startgrafik "params" "f_auto" )}})">
+
+      <div id="homelogowrapper">
+        <img src="{{partial "imgUrl" (dict "img" .Params.startgrafik_logo "params" "f_auto" )}}" />
+      </div>
+    </div>
+    {{range $secIdx,$section:= .Params.page_sections}}
+    {{$bckgrd:=""}}
+    {{$color:=""}}
+    {{$tcolor:=""}}
+    {{$teaser:=""}}
+    {{range $section.sub_sections}}
+    {{if eq .template "themenheader"}}
+    {{$bckgrd = .hintergrundbild}}
+    {{$color = .farbe.farbe}}
+    {{$tcolor = .textfarbe.farbe}}
+    {{$teaser = .teaser}}
+    {{end}}
+    {{end}}
+    <section id="{{.name |urlize}}">
+      <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
+        <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
+      </div>
+      <div class="SectionTeaserBackground" style="background-image:url({{partial "imgUrl" (dict "img" $bckgrd "params" "f_auto" )}})"></div>
+      {{if gt (len $teaser) 0}}
+      <div class="SectionTeaser">
+        <div>{{$teaser|safeHTML}}</div>
+      </div>
+      {{end}}
+    </section>
+    {{end}}
+  </div>
+
+</div>
 </div>
 {{ end }}

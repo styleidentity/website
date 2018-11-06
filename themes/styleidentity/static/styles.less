@@ -1,9 +1,4 @@
-/*
-@red:rgb(178,35,43);
-@grey:rgb(92,92,92);
-@grey_light:rgb(231,231,231 );
-@grey_light237:rgb(237,237,237 );
-*/
+
 @weiss:#ffffff;
 @weiss75:rgba(255,255,255,0.75);
 @creme:rgb(255,250,245);
@@ -114,21 +109,39 @@ h2,h3,h4,h5,h6{
       height:70px;
     }
   }
+  #logomenuw{
+    display:flex;
+    justify-content: flex-start;
+    #logo{
+      width:20vw;
+      background:url(/logo_obenlinks.png) no-repeat center center white;
+      background-size:contain;
+      &.scrolled{
+        transition-property: height;
+        transition-duration: 1s;
+        transition-timing-function: ease-in-out;
+        height:40px;
+      }
+      &.unscrolled{
+        transition-property: height;
+        transition-duration: 1s;
+        transition-timing-function: ease-in-out;
+        height:70px;
+      }
+    }
+  }
   #mainnavgrid{
-    width:100%;
     @media only screen and (max-width: 768px) {
       width:100vw;
       left:0!important;
     }
+    width:100%;
     display:flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     background:white;
-    left:calc(20vw - 2rem);
     top:0;
     margin:0!important;
-    position:absolute;
-    z-index:1;
     &.scrolled{
       transition-property: height;
       transition-duration: 1s;
@@ -152,6 +165,7 @@ h2,h3,h4,h5,h6{
     min-width:110px;
     cursor:pointer;
   }
+
   .mainnavgridcolumncontent{
     width:100%;
     color:black;
@@ -192,23 +206,209 @@ h2,h3,h4,h5,h6{
       }
     }
   }
-  #logo{
-    position:absolute;
-    width:20vw;
-    background:no-repeat center center white;
-    background-size:contain;
-    z-index:3;
-    &.scrolled{
-      transition-property: height;
-      transition-duration: 1s;
-      transition-timing-function: ease-in-out;
-      height:40px;
+}
+#homewrapper{
+  padding-bottom:4.2rem;
+  &.ui.container{
+    @media only screen and (max-width: 768px) {
+      margin: 0!important;
     }
-    &.unscrolled{
-      transition-property: height;
-      transition-duration: 1s;
-      transition-timing-function: ease-in-out;
-      height:70px;
+  }
+}
+#homestartwrapper{
+  width:100vw;
+  height:100vh;
+  background:center center no-repeat;
+  background-size:cover;
+}
+#homelogowrapper{
+  position:absolute;
+  left:28.75vw;
+  width:62.5vw;
+  padding:0!important;
+  margin:0!important;
+  background:transparent;
+  top:40vh;
+  img{
+    width:100%;
+  }
+  @media only screen and (max-width: 768px) {
+    left:2vw;
+    width:96vw;
+    top:40vh;
+  }
+}
+section{
+  position:relative;
+  &#gesetzliche-angaben{
+    .content{
+      h2,h3{
+        text-align:left!important;
+        font-weight:normal;
+        font-family: 'Bembo MT W01 Regular', serif!important;
+        text-transform:uppercase;
+      }
+      h2{
+        font-size:1.3rem;
+      }
+      h3{
+        font-size:1.1rem;
+        letter-spacing:inherit!important;
+      }
+    }
+  }
+  .sectionTitleWrapper{
+    width:100vw;
+      padding:0 17.5vw 0 37.5vw ;
+      @media only screen and (max-width: 768px) {
+        padding:0 2vw;
+      }
+    h2{
+      font-family: 'Bembo MT W01 Regular', serif;
+      text-align:center;
+      font-size:24px;
+      font-weight:normal;
+      line-height:66px;
+      letter-spacing:0.1em;
+      text-transform:uppercase;
+      @media only screen and (max-width: 768px) {
+        font-size:18px;
+        line-height:50px;
+      }
+    }
+  }
+  .SectionTeaserBackground{
+    width:100vw;
+    height:12vw;
+    position:absolute;
+    z-index:0;
+    @media only screen and (max-width: 768px) {
+      height:10vh;
+    }
+  }
+  .SectionTeaser{
+    left:37.5vw;
+    min-height:15vw;
+    width:45vw;
+    background:@weiss;
+    z-index:1;
+    position:relative;
+    padding:3vw 10vw 3vw 10vw;
+    font-family:'Termina W00 Regular', sans-serif;
+    text-transform:uppercase;
+    font-size:15px;
+    letter-spacing:0.1em;
+    color:@graphite;
+    @media only screen and (max-width: 768px) {
+      left:5vw;
+      width:90vw;
+      padding:1rem ;
+      font-size:12px;
+      letter-spacing:0.05em;
+    }
+  }
+  .Subsections{
+    &.idx-0{
+      &.teaser-no{
+        padding:9vw 17.5vw 4vw 37.5vw!important;
+      }
+      margin-top:-6vw!important;
+      padding:12vw 17.5vw 4vw 37.5vw!important;
+    }
+    &.same-backgrd{
+      padding:0vw 17.5vw 3vw 37.5vw;
+    }
+    padding:3vw 17.5vw 3vw 37.5vw;
+    h3{
+      color:@mokka;
+      text-align:center;
+      font-family:'Termina W00 Regular', sans-serif;
+      text-transform:uppercase;
+      font-size:15px;
+      letter-spacing:0.1em;
+      font-weight:normal;
+    }
+    h4{
+      color:@chameau;
+      text-align:center;
+      font-family: 'Crimson Text','Bembo W01', serif;
+      text-transform:uppercase;
+      font-size:12px;
+      letter-spacing:0.3em;
+      font-weight:normal;
+      margin-bottom:1.5rem!important;
+    }
+    &#ueber_uns_andere_uber_uns .content{
+      text-align:center !important;
+      blockquote{
+        text-transform:uppercase;
+        font-style:normal;
+      }
+    }
+    .content{
+      &.zit{
+        em{
+          font-family:'Termina W00 Regular', sans-serif;
+          font-style:normal;
+        }
+      }
+      font-size:1.4rem;
+      color:@graphite;
+      p{
+        line-height:1.8em!important;
+      }
+      text-align:justify;
+      @media only screen and (max-width: 768px) {
+        text-align:left;
+      }
+      strong{
+        font-family:'Termina W00 Regular', sans-serif;
+        color:@chameau;
+        font-weight:normal;
+        letter-spacing:0.1em;
+        font-size:1.1rem;
+      }
+      blockquote{
+        font-style:normal;
+        letter-spacing:0.1em;
+        text-align:center;
+        margin:0;
+        padding:0;
+        font-weight:200;
+        line-height:2.5rem;
+      }
+    }
+    @media only screen and (max-width: 768px) {
+      &.idx-0{
+        &.teaser-no{
+          padding:3rem 1rem 1rem 1rem!important;
+        }
+        margin-top:-10vh!important;
+        padding:15vh 1rem 1rem 1rem!important;
+      }
+      &.same-backgrd{
+        padding:1rem;
+      }
+      padding:3rem 1rem 1rem 1rem;
+      h3{
+        color:@mokka;
+        text-align:center;
+        font-family:'Termina W00 Regular', sans-serif;
+        text-transform:uppercase;
+        font-size:14px;
+        letter-spacing:0.1em;
+        font-weight:normal;
+      }
+      h4{
+        color:@chameau;
+        text-align:center;
+        font-family: 'Crimson Text','Bembo W01', serif;
+        text-transform:uppercase;
+        font-size:12px;
+        letter-spacing:0.3em;
+        font-weight:normal;
+        margin-bottom:1.5rem!important;
+      }
     }
   }
 }

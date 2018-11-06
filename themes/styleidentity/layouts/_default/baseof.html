@@ -8,10 +8,10 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/semantic.min.css">
-  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/styles.css">
-  <link rel="shortcut icon" href="{{ $.Site.BaseURL }}/favicon.png" type="image/x-icon"> {{ partial "meta.html" . }}
-  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/jquery.min.js"></script>
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}lib/semantic.min.css">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}styles.css">
+  <link rel="shortcut icon" href="{{ $.Site.BaseURL }}favicon.png" type="image/x-icon"> {{ partial "meta.html" . }}
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}lib/jquery.min.js"></script>
   <script type="text/javascript" src="//fast.fonts.net/jsapi/395c135d-60a9-41fe-98d0-10c0cb52bb25.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
 </head>
@@ -23,7 +23,25 @@
   <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/semantic.min.js"></script>
   <script type="text/javascript">
     $(function () {
-
+      const scrElems = ["#headercontainer", "#blurlayer", "#mainnavgrid", "#contentlayer", ".mainnavgridcolumncontent", "#logo"];
+      let scr = false;
+      $(window).scroll(function () {
+        const supportPageOffset = window.pageXOffset !== undefined;
+        const isCSS1Compat = ((document.compatMode || '') === 'CSS1Compat');
+        const y = supportPageOffset ? window.pageYOffset : isCSS1Compat ? document.documentElement.scrollTop : document.body.scrollTop;
+        if ((y > 0) !== scr) {
+          scr = y > 0;
+          if (scr) {
+            scrElems.forEach(function (v) {
+              $(v).addClass('scrolled').removeClass('unscrolled');
+            });
+          } else {
+            scrElems.forEach(function (v) {
+              $(v).removeClass('scrolled').addClass('unscrolled');
+            })
+          }
+        }
+      });
     });
   </script>
 </body>
