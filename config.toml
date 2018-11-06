@@ -1,4 +1,4 @@
-baseURL = "https://styleidentity.github.io"
+baseURL = "https://styleidentity.github.io/"
 languageCode = "de-de"
 theme = "styleidentity"
 title = "StyleIdentity"
