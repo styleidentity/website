@@ -46,12 +46,15 @@
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
       </div>
-      <div class="SectionTeaserBackground" style="background-image:url({{partial "imgUrl" (dict "img" $bckgrd "params" "f_auto" )}})"></div>
+      <div class="SectionTeaserBackground" style="background-image:url({{partial "imgUrl" (dict "img" $bckgrd "params" "c_scale,w_2500,f_auto" )}})"></div>
       {{if gt (len $teaser) 0}}
       <div class="SectionTeaser">
         <div>{{$teaser|safeHTML}}</div>
       </div>
       {{end}}
+      <div class="Subsections">
+
+      </div>
     </section>
     {{end}}
   </div>
