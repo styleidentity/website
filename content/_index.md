@@ -120,7 +120,7 @@ page_sections:
     farbe: creme:rgb(255,250,245)
     titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
     untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
-    text: "<p>ASDF JKLÖ</p>"
+    text: "<p>Asdf jklö</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
