@@ -212,14 +212,10 @@ page_sections:
     titel: "<p>Team style identity</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: "<p>Ein derzeit ca. 40köpfiges Team aus freien Designern, Marketing- und
+      PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p><p>Die
+      projektorientierte Ausrichtung unserer Tätigkeit...</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
