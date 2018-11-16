@@ -199,14 +199,10 @@ page_sections:
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
+      und im Modemanagement.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
+      und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre
+      Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
