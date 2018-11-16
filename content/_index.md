@@ -188,14 +188,12 @@ page_sections:
     titel: "<p>Unser Antrieb</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Was uns bewegt</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: <p>Unsere Passion, Bekleidung einen höheren Stellenwert zu geben, als ein
+      austauschbares Wegwerfprodukt zu sein und unser Know-How, Unternehmen nachhaltig
+      und xxx zu beraten, hat uns auf dem Markt entscheidende Vorteile gegenüber unseren
+      Mitbewerbern "gebracht"</p><p>Es ist uns ein besonderes Anliegen, nachhaltige
+      und faire Kleidung in Unternehmen zu platzieren - von der Entwicklung über das
+      Design, die Produktion und nicht zuletzt auch den Transport.</p>
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
