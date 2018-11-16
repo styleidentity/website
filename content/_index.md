@@ -188,12 +188,16 @@ page_sections:
     titel: "<p>Unser Antrieb</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Was uns bewegt</p>"
-    text: <p>Unsere Passion, Bekleidung einen höheren Stellenwert zu geben, als ein
-      austauschbares Wegwerfprodukt zu sein und unser Know-How, Unternehmen nachhaltig
-      und xxx zu beraten, hat uns auf dem Markt entscheidende Vorteile gegenüber unseren
-      Mitbewerbern "gebracht"</p><p>Es ist uns ein besonderes Anliegen, nachhaltige
-      und faire Kleidung in Unternehmen zu platzieren - von der Entwicklung über das
-      Design, die Produktion und nicht zuletzt auch den Transport.</p>
+    text: "<p>Vermeintlich emotionale \x1Femen wie Kleidung, Stil und Ästhetik mit
+      den vorwiegend sachlichen Geschäftsfeldern der Unternehmensberatung zu verbinden
+      und unter dem Begriff Style Identity zu vereinen ist unser Aufgabengebiet, dem
+      wir uns mit Leidenschaft und Hingabe verschrieben haben.</p><p>Unsere Passion,
+      Bekleidung einen höheren Stellenwert zu geben, als ein austauschbares Wegwerfprodukt
+      zu sein und unser Know-How, Unternehmen nachhaltig und xxx zu beraten, hat uns
+      auf dem Markt entscheidende Vorteile gegenüber unseren Mitbewerbern \"gebracht\"</p><p>Es
+      ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung in Unternehmen
+      zu platzieren - von der Entwicklung über das Design, die Produktion und nicht
+      zuletzt auch den Transport.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
