@@ -280,11 +280,11 @@ page_sections:
     untertitel: "<p>Angaben gemäß §5 TMG</p>"
     farbe: creme:rgb(255,250,245)
     text: '<p>goss | style.identity ist ein Unternehmen von <br>Goss - Beratung und
-      Vermittlung <br>Grub <br>Dorfstraße 12a &nbsp;D-83626 Valley &nbsp;  </p><p>Inhaber:
-      Markus Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012
-      <br>E-Mail: <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
-      <br>Umsatzsteuer-ID gemäß §27 a UStG: in Bearbeitung <br>Amtsgericht Miesbach
-      &nbsp;  </p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
+      Vermittlung <br>Grub <br>Dorfstraße 12a D-83626 Valley</p><p>Inhaber: Markus
+      Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012 <br>E-Mail:
+      <a href="mailto:post@styleidentity.de">post@styleidentity.de</a> <br>Umsatzsteuer-ID
+      gemäß §27 a UStG: 139/221/70139<br>USt-IdNr.: DE 320 294 303 <br>Amtsgericht
+      Miesbach</p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
       einer Verbraucherschlichtungsstelle teil.</p>'
   - template: themenabschnitt
     type: ta
