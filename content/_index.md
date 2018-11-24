@@ -743,5 +743,6 @@ page_sections:
       von WBS-LAW erstellt.</p>"
 startgrafik: "/uploads/2018/11/02/startbild.jpg"
 startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
+draft: true
 
 ---
