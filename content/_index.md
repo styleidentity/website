@@ -191,13 +191,13 @@ page_sections:
     text: "<p>Emotionale \x1FThemen wie Kleidung, Stil und Ästhetik mit den vorwiegend
       sachlichen Geschäftsfeldern der Unternehmensberatung zu verbinden ist unser
       Aufgabengebiet, dem wir uns mit Hingabe verschrieben haben und unter dem Brand
-      Style Identity leidenschaftlich für unsere Kunden umsetzen.</p><p>Unsere Passion,
-      Bekleidung einen höheren Stellenwert zu geben, als ein austauschbares Wegwerfprodukt
-      zu sein und unser Know-How, Unternehmen nachhaltig und xxx zu beraten, hat uns
-      auf dem Markt entscheidende Vorteile gegenüber unseren Mitbewerbern \"gebracht\"</p><p>Es
-      ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung in Unternehmen
-      zu platzieren - von der Entwicklung über das Design, die Produktion und nicht
-      zuletzt auch den Transport.</p>"
+      goss|style.identity leidenschaftlich für unsere Kunden umsetzen.</p><p>Unsere
+      Passion, Bekleidung einen höheren Stellenwert zu geben, als ein austauschbares
+      Wegwerfprodukt zu sein und unser Know-How, Unternehmen effektiv und nachhaltig
+      zu beraten, verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf
+      dem Markt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung
+      in Unternehmen zu platzieren - von der Entwicklung über das Design, die Produktion
+      und nicht zuletzt auch den Transport.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
