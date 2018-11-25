@@ -235,7 +235,7 @@ page_sections:
       Traum zum Beruf gemacht</p>"
   - template: themenabschnitt
     type: ta
-    farbe: nautique:#1D2642
+    farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
