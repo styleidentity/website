@@ -206,7 +206,9 @@ page_sections:
     text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
       und im Modemanagement.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
       und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre
-      Bedürfnisse abgestimmt.</p>"
+      Bedürfnisse abgestimmt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige
+      und faire Kleidung in Unternehmen zu platzieren - von der Entwicklung über das
+      Design, die Produktion und nicht zuletzt auch den Transport.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
