@@ -117,6 +117,12 @@ page_sections:
       farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
+    farbe: creme:rgb(255,250,245)
+    titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
+    untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
+    text: "<p>Asdf jklö</p>"
+  - template: themenabschnitt
+    type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>EINE HERZENSANGELEGENHEIT</p>"
@@ -150,11 +156,9 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: "<p><em>BMW Welt &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Gross+Fuchs
-      - Group &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Oldorid Kunststoffe
-      GmbH Käfer Gut Kaltenbrunn GmbH &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;shoepassion.com
-      &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Juwelier Hilscher Allergika
-      GmbH &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;Tusket Messermanufaktur</em></p>"
+    text: "<p><em>BMW Welt · Gross+Fuchs - Group · Oldorid Kunststoffe GmbH Käfer
+      Gut Kaltenbrunn GmbH · shoepassion.com · Juwelier Hilscher Allergika GmbH ·
+      Tusket Messermanufaktur · </em>Constantin Film Produktion GmbH </p>"
   - template: themenabschnitt
     type: ta
     farbe: graphite:#404040
@@ -184,40 +188,36 @@ page_sections:
     titel: "<p>Unser Antrieb</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Was uns bewegt</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: "<p>Emotionale \x1FThemen wie Kleidung, Stil und Ästhetik mit den vorwiegend
+      sachlichen Geschäftsfeldern der Unternehmensberatung zu verbinden ist unser
+      Aufgabengebiet, dem wir uns mit Hingabe verschrieben haben und unter dem Brand
+      goss|style.identity leidenschaftlich für unsere Kunden umsetzen.</p><p>Unsere
+      Passion, Bekleidung einen höheren Stellenwert zu geben, als ein austauschbares
+      Wegwerfprodukt zu sein und unser Know-How, Unternehmen effektiv und nachhaltig
+      zu beraten, verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf
+      dem Markt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung
+      in Unternehmen zu platzieren - von der Entwicklung über das Design, die Produktion
+      und nicht zuletzt auch den Transport.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
+      und im Modemanagement.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
+      und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre
+      Bedürfnisse abgestimmt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige
+      und faire Kleidung in Unternehmen zu platzieren - von der Entwicklung über das
+      Design, die Produktion und nicht zuletzt auch den Transport.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
     farbe: creme:rgb(255,250,245)
     untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-      et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-      sanctus est Lorem ipsum dolor sit amet.</p>"
+    text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
+      PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p><p>Die
+      projektorientierte Ausrichtung unserer Tätigkeit...</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
@@ -226,10 +226,18 @@ page_sections:
     farbe: creme:rgb(255,250,245)
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional</p>"
-    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p>"
+    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
+      als zehn Jahren im Marketing eines IT-Hauses und immer leidenschaftlich den
+      Themen rund um Mode und textilen XXX zugetan, Wechsel zu einem internationalen
+      Franchise-Brand.</p><p>Für die führende Trachtenmarke Gössl Einkleidungen
+      im Hotellerie- und Gatronomie-Sektor sowie für Städte und Kommunen.</p><p>Marketing-
+      und Mode-Management-Studium</p><p>Projektleitungen</p><p>Umfassende Erfahrungen
+      sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
+      immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
+      Traum zum Beruf gemacht</p>"
   - template: themenabschnitt
     type: ta
-    farbe: nautique:#1D2642
+    farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
@@ -273,12 +281,12 @@ page_sections:
     titel: "<p>Impressum</p>"
     untertitel: "<p>Angaben gemäß §5 TMG</p>"
     farbe: creme:rgb(255,250,245)
-    text: '<p>goss | style.identity ist ein Unternehmen von <br>Goss - Beratung und
-      Vermittlung <br>Grub <br>Dorfstraße 12a &nbsp;D-83626 Valley &nbsp;  </p><p>Inhaber:
-      Markus Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012
-      <br>E-Mail: <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
-      <br>Umsatzsteuer-ID gemäß §27 a UStG: in Bearbeitung <br>Amtsgericht Miesbach
-      &nbsp;  </p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
+    text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung und
+      Vermittlung <br>Grub <br>Dorfstraße 12a <br>D-83626 Valley</p><p>Inhaber: Markus
+      Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012 <br>E-Mail:
+      <a href="mailto:post@styleidentity.de">post@styleidentity.de</a> <br>Umsatzsteuer-ID
+      gemäß §27 a UStG: 139/221/70139<br>USt-IdNr.: DE 320 294 303 <br>Amtsgericht
+      Miesbach</p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
       einer Verbraucherschlichtungsstelle teil.</p>'
   - template: themenabschnitt
     type: ta
