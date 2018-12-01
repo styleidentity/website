@@ -151,6 +151,11 @@ page_sections:
     farbe: mokka:#766446
 - name: Referenzen
   sub_sections:
+  - template: themenheader
+    farbe:
+      farbe: graphite:#404040
+    textfarbe:
+      farbe: weiss:#ffffff
   - template: themenabschnitt
     type: ta
     titel: "<p>Projekte</p>"
