@@ -16,7 +16,8 @@ page_sections:
     hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: creme:rgb(255,250,245)
+    farbe:
+      farbe: creme:#fffaf5
     titel: "<p>Idee und Leitgedanke</p>"
     untertitel: "<p>Ihre Mitarbeiter/-innen - <br>Die beste Visitenkarte Ihres Unternehmens?</p>"
     text: "<p>Fällt das Wort »Konformität« im Zusammenhang mit Kleidung, denken wir
@@ -32,7 +33,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Style Identity</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
       Unternehmens-Identität</p>"
     text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
@@ -65,7 +67,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>CORPORATE BUSINESS-WEAR</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>ENTWICKLUNG CI-KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
     text: "<p>Corporate Style Guiding ist das maßgeschneiderte Konzept für Ihr Unternehmen,
       den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:</p><p>Ihre
@@ -78,7 +81,8 @@ page_sections:
     type: ta
     titel: "<p>CONSULTING</p>"
     untertitel: "<p>ERWEITERUNG IHRER <br>MARKETING-STRATEGIEN</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     text: "<p>Die Erarbeitung von Strategien zur Corporate Office-Wear - zum Beispiel
       innerhalb von Change-Management Prozessen - zusammen mit Ihrer Organisationsentwicklung
       und die Umsetzung von Inhouse-Kommunikationsverfahren mit Ihren Marketing- und
@@ -93,7 +97,8 @@ page_sections:
     bild: "/uploads/2018/11/02/scabal_leistungen.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     titel: "<p>PRODUKTION</p>"
     untertitel: "<p>HERSTELLUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
     text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
@@ -106,7 +111,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Design</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>INDIVIDUELLE BRAND-FASHION<br>IN EINER IMMER MONOTONEREN MODEWELT.</p>"
     text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
       und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
@@ -117,14 +123,16 @@ page_sections:
       farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
     untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
     text: "<p>Asdf jklö</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>EINE HERZENSANGELEGENHEIT</p>"
     text: <p>Die sogenannte "Tracht" ist ein Thema voller Missverständnisse, beladen
       mit Vorurteilen und Klischees. Für uns ist Tracht einfach eine andere, besondere
@@ -152,7 +160,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Projekte</p>"
-    farbe: graphite:#404040
+    farbe: 
+      farbe: graphite:#404040
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
@@ -161,7 +170,8 @@ page_sections:
       Tusket Messermanufaktur · </em>Constantin Film Produktion GmbH </p>"
   - template: themenabschnitt
     type: ta
-    farbe: graphite:#404040
+    farbe: 
+      farbe: graphite:#404040
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     titel: "<p>Partner</p>"
@@ -186,7 +196,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Unser Antrieb</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>Was uns bewegt</p>"
     text: "<p>Emotionale \x1FThemen wie Kleidung, Stil und Ästhetik mit den vorwiegend
       sachlichen Geschäftsfeldern der Unternehmensberatung zu verbinden ist unser
@@ -201,7 +212,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
     text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
       und im Modemanagement.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
@@ -212,7 +224,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
     text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
       PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
@@ -223,7 +236,8 @@ page_sections:
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional</p>"
     text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
@@ -237,7 +251,8 @@ page_sections:
       Traum zum Beruf gemacht</p>"
   - template: themenabschnitt
     type: ta
-    farbe: malachit:#1D2642
+    farbe: 
+      farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
@@ -280,7 +295,8 @@ page_sections:
     type: ta
     titel: "<p>Impressum</p>"
     untertitel: "<p>Angaben gemäß §5 TMG</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung und
       Vermittlung <br>Grub <br>Dorfstraße 12a <br>D-83626 Valley</p><p>Inhaber: Markus
       Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012 <br>E-Mail:
@@ -291,7 +307,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Haftungsausschluss</p>"
-    farbe: creme:rgb(255,250,245)
+    farbe: 
+      farbe: creme:#fffaf5
     untertitel: "<p>Quelle: eRecht24</p>"
     text: <h3 class="RichTextEditor__block___2Vs_D">HAFTUNG FÜR INHALTE</h3><p>Die
       Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit,
@@ -329,7 +346,8 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
-    farbe: creme75:rgba(255,250,245,0.98)
+    farbe: 
+      farbe: creme75:rgba(255,250,245,0.98)
     text: "<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz
       hat einen besonders hohen Stellenwert für die Geschäftsleitung der Goss - Beratung
       und Vermittlung. Eine Nutzung der Internetseiten der Goss - Beratung und Vermittlung

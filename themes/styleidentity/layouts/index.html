@@ -23,25 +23,24 @@
     </div>
   </div>
   <div id="homewrapper">
-    <div id="homestartwrapper" style="background-image:url({{partial "imgUrl" (dict "img" .Params.startgrafik "params" "f_auto" )}})">
-
+    <div id="homestartwrapper" style="background-image:url({{partial "imgUrl" (dict "img" .Params.startgrafik "params" "c_scale,w_2500,f_auto" )}})">
       <div id="homelogowrapper">
         <img src="{{partial "imgUrl" (dict "img" .Params.startgrafik_logo "params" "f_auto" )}}" />
       </div>
     </div>
     {{range $secIdx,$section:= .Params.page_sections}}
     {{$bckgrd:=""}}
-    {{$color:=""}}
-    {{$tcolor:=""}}
-    {{$teaser:=""}}
-    {{range $section.sub_sections}}
-    {{if eq .template "themenheader"}}
-    {{$bckgrd = .hintergrundbild}}
-    {{$color = .farbe.farbe}}
-    {{$tcolor = .textfarbe.farbe}}
-    {{$teaser = .teaser}}
-    {{end}}
-    {{end}}
+          {{$color:=""}}
+          {{$tcolor:=""}}
+          {{$teaser:=""}}
+          {{range $section.sub_sections}}
+          {{if eq .template "themenheader"}}
+          {{$bckgrd = .hintergrundbild}}
+          {{$color = .farbe.farbe}}
+          {{$tcolor = .textfarbe.farbe}}
+          {{$teaser = .teaser}}
+          {{end}}
+          {{end}}
     <section id="{{.name |urlize}}">
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
@@ -53,7 +52,45 @@
       </div>
       {{end}}
       <div class="Subsections">
-
+        {{$slastcolor := ""}}
+        {{range $subIdx,$subsection := $section.sub_sections}}
+        {{$scolor:=""}}
+        {{if eq .template "themenabschnitt"}}
+          {{$scolor = .farbe.farbe}}
+          {{$stcolor := ""}}
+          {{if .textfarbe_titel_und_content.farbe}}
+            {{$stcolor := .textfarbe_titel_und_content.farbe}}
+          {{end}}
+          <div 
+          class="Subsection idx-{{$subIdx}} teaser-{{if gt (len $teaser) 0}}yes{{else}}no{{end}} {{if eq $slastcolor $scolor}}same-backgrd{{end}}" 
+          id="{{(printf "%s--%s" $section.name (plainify .titel)) |urlize}}"
+          style="background:{{partial "colorextr" $scolor}}">
+            <h3 style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $tcolor}}{{else}}inherit{{end}}">
+              {{.titel|safeHTML}}
+            </h3>
+            <h4>
+              {{.untertitel|safeHTML}}
+            </h4>
+            <div 
+            style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $tcolor}}{{else}}inherit{{end}}" 
+            class="content"
+            >
+            {{.text |safeHTML}}
+            </div>
+          </div>
+          {{$slastcolor = $scolor}}
+        {{end}}
+        {{if eq .template "bildteaser"}}
+          <div class="BildTeaser" style="background-image:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,w_2500,f_auto" )}})">
+            {{if gt (len (plainify .text)) 0}}
+            <div class="SectionTeaser">
+              <div class="content">{{.text |safeHTML}}</div>
+              <div class="ScrolldownSymbol"></div>
+            </div>
+            {{end}}
+          </div>
+        {{end}}
+        {{end}}
       </div>
     </section>
     {{end}}

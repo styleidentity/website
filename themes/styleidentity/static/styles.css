@@ -304,20 +304,30 @@ section .SectionTeaser {
     letter-spacing: 0.05em;
   }
 }
-section .Subsections {
+section .BildTeaser {
+  background-size: cover!important;
+  background: center top no-repeat;
+  padding: 20vh 0;
+  min-height: 1px;
+}
+section .BildTeaser .content em {
+  font-size: 1rem;
+  text-align: right;
+}
+section .Subsection {
   padding: 3vw 17.5vw 3vw 37.5vw;
 }
-section .Subsections.idx-0 {
+section .Subsection.idx-1 {
   margin-top: -6vw !important;
   padding: 12vw 17.5vw 4vw 37.5vw!important;
 }
-section .Subsections.idx-0.teaser-no {
+section .Subsection.idx-1.teaser-no {
   padding: 9vw 17.5vw 4vw 37.5vw!important;
 }
-section .Subsections.same-backgrd {
+section .Subsection.xxxsame-backgrd {
   padding: 0vw 17.5vw 3vw 37.5vw;
 }
-section .Subsections h3 {
+section .Subsection h3 {
   color: #766446;
   text-align: center;
   font-family: 'Termina W00 Regular', sans-serif;
@@ -326,7 +336,7 @@ section .Subsections h3 {
   letter-spacing: 0.1em;
   font-weight: normal;
 }
-section .Subsections h4 {
+section .Subsection h4 {
   color: #D5C1A0;
   text-align: center;
   font-family: 'Crimson Text', 'Bembo W01', serif;
@@ -336,38 +346,38 @@ section .Subsections h4 {
   font-weight: normal;
   margin-bottom: 1.5rem!important;
 }
-section .Subsections#ueber_uns_andere_uber_uns .content {
+section .Subsection#ueber_uns_andere_uber_uns .content {
   text-align: center !important;
 }
-section .Subsections#ueber_uns_andere_uber_uns .content blockquote {
+section .Subsection#ueber_uns_andere_uber_uns .content blockquote {
   text-transform: uppercase;
   font-style: normal;
 }
-section .Subsections .content {
+section .Subsection .content {
   font-size: 1.4rem;
   color: #404040;
   text-align: justify;
 }
-section .Subsections .content.zit em {
+section .Subsection .content.zit em {
   font-family: 'Termina W00 Regular', sans-serif;
   font-style: normal;
 }
-section .Subsections .content p {
+section .Subsection .content p {
   line-height: 1.8em!important;
 }
 @media only screen and (max-width: 768px) {
-  section .Subsections .content {
+  section .Subsection .content {
     text-align: left;
   }
 }
-section .Subsections .content strong {
+section .Subsection .content strong {
   font-family: 'Termina W00 Regular', sans-serif;
   color: #D5C1A0;
   font-weight: normal;
   letter-spacing: 0.1em;
   font-size: 1.1rem;
 }
-section .Subsections .content blockquote {
+section .Subsection .content blockquote {
   font-style: normal;
   letter-spacing: 0.1em;
   text-align: center;
@@ -377,20 +387,20 @@ section .Subsections .content blockquote {
   line-height: 2.5rem;
 }
 @media only screen and (max-width: 768px) {
-  section .Subsections {
+  section .Subsection {
     padding: 3rem 1rem 1rem 1rem;
   }
-  section .Subsections.idx-0 {
+  section .Subsection.idx-1 {
     margin-top: -10vh !important;
     padding: 15vh 1rem 1rem 1rem!important;
   }
-  section .Subsections.idx-0.teaser-no {
+  section .Subsection.idx-1.teaser-no {
     padding: 3rem 1rem 1rem 1rem!important;
   }
-  section .Subsections.same-backgrd {
+  section .Subsection.same-backgrd {
     padding: 1rem;
   }
-  section .Subsections h3 {
+  section .Subsection h3 {
     color: #766446;
     text-align: center;
     font-family: 'Termina W00 Regular', sans-serif;
@@ -399,7 +409,7 @@ section .Subsections .content blockquote {
     letter-spacing: 0.1em;
     font-weight: normal;
   }
-  section .Subsections h4 {
+  section .Subsection h4 {
     color: #D5C1A0;
     text-align: center;
     font-family: 'Crimson Text', 'Bembo W01', serif;

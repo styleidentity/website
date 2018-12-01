@@ -307,15 +307,27 @@ section{
       letter-spacing:0.05em;
     }
   }
-  .Subsections{
-    &.idx-0{
+  .BildTeaser{
+    background-size: cover!important;
+    background:center top no-repeat;
+    padding:20vh 0;
+    min-height:1px;
+    .content{
+      em{
+        font-size:1rem;
+        text-align:right;
+      }
+    }
+  }
+  .Subsection{
+    &.idx-1{
       &.teaser-no{
         padding:9vw 17.5vw 4vw 37.5vw!important;
       }
       margin-top:-6vw!important;
       padding:12vw 17.5vw 4vw 37.5vw!important;
     }
-    &.same-backgrd{
+    &.xxxsame-backgrd{
       padding:0vw 17.5vw 3vw 37.5vw;
     }
     padding:3vw 17.5vw 3vw 37.5vw;
@@ -379,7 +391,7 @@ section{
       }
     }
     @media only screen and (max-width: 768px) {
-      &.idx-0{
+      &.idx-1{
         &.teaser-no{
           padding:3rem 1rem 1rem 1rem!important;
         }
