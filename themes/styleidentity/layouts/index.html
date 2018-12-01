@@ -41,7 +41,9 @@
           {{$teaser = .teaser}}
           {{end}}
           {{end}}
-    <section id="{{.name |urlize}}">
+          {{if eq $teaser nil}}{{$teaser = ""}}{{end}}
+    <section >
+      <div class="anchor" id="{{.name |urlize}}"></div>
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
       </div>
@@ -58,21 +60,19 @@
         {{if eq .template "themenabschnitt"}}
           {{$scolor = .farbe.farbe}}
           {{$stcolor := ""}}
-          {{if .textfarbe_titel_und_content.farbe}}
-            {{$stcolor := .textfarbe_titel_und_content.farbe}}
-          {{end}}
+          {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
           <div 
           class="Subsection idx-{{$subIdx}} teaser-{{if gt (len $teaser) 0}}yes{{else}}no{{end}} {{if eq $slastcolor $scolor}}same-backgrd{{end}}" 
           id="{{(printf "%s--%s" $section.name (plainify .titel)) |urlize}}"
           style="background:{{partial "colorextr" $scolor}}">
-            <h3 style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $tcolor}}{{else}}inherit{{end}}">
+            <h3 style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $stcolor}}{{else}}inherit{{end}}">
               {{.titel|safeHTML}}
             </h3>
             <h4>
               {{.untertitel|safeHTML}}
             </h4>
             <div 
-            style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $tcolor}}{{else}}inherit{{end}}" 
+            style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $stcolor}}{{else}}inherit{{end}}" 
             class="content"
             >
             {{.text |safeHTML}}
@@ -85,7 +85,7 @@
             {{if gt (len (plainify .text)) 0}}
             <div class="SectionTeaser">
               <div class="content">{{.text |safeHTML}}</div>
-              <div class="ScrolldownSymbol"></div>
+              {{partial "scroll" .}}
             </div>
             {{end}}
           </div>
