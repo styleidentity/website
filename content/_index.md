@@ -235,7 +235,8 @@ page_sections:
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: weiss:#ffffff
+    farbe:
+      farbe: weiss:#ffffff
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional</p>"
     text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
