@@ -764,6 +764,5 @@ startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
 footer:
   logo: "/uploads/2018/11/02/minimal_logo_2.png"
   text: STYLEIDENTITY.DE | GOSS BERATUNG & VERMITTLUNG | DORFSTR. 12a | D-83626 VALLEY
-draft: true
 
 ---
