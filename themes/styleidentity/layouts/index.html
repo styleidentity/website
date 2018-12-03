@@ -58,7 +58,7 @@
         {{range $subIdx,$subsection := $section.sub_sections}}
         {{$scolor:=""}}
         {{if eq .template "themenabschnitt"}}
-          {{$scolor = .farbe.farbe}}
+          {{$scolor = .farbe}}
           {{$stcolor := ""}}
           {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
           {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
