@@ -235,8 +235,7 @@ page_sections:
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
   - template: themenabschnitt
     type: ta
-    farbe:
-      farbe: creme:#fffaf5
+    farbe: weiss:#ffffff
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional</p>"
     text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
@@ -244,7 +243,7 @@ page_sections:
       Themen rund um Mode und textilen XXX zugetan, Wechsel zu einem internationalen
       Franchise-Brand.</p><p>Für die führende Trachtenmarke Gössl Einkleidungen
       im Hotellerie- und Gatronomie-Sektor sowie für Städte und Kommunen.</p><p>Marketing-
-      und Mode-Management-Studium</p><p>Projektleitungen</p><p>Umfassende Erfahrungen
+      und Mode-Management-Studium</p><p>Div. Projektleitungen</p><p>Umfassende Erfahrungen
       sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
       immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
       Traum zum Beruf gemacht</p>"
@@ -765,5 +764,6 @@ startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
 footer:
   logo: "/uploads/2018/11/02/minimal_logo_2.png"
   text: STYLEIDENTITY.DE | GOSS BERATUNG & VERMITTLUNG | DORFSTR. 12a | D-83626 VALLEY
+draft: true
 
 ---
