@@ -44,6 +44,74 @@ h1{
 h2,h3,h4,h5,h6{
   font-family: 'SackersGothicW01-Light',"Times New Roman", serif;
 }
+.SubNavWrapOuter{
+  position:absolute;
+  left:0;
+  top:0;
+  padding-top:25vh;
+}
+.SubNavWrap{
+  @media only screen and (max-width: 768px) {
+    display:none!important;
+  }
+  &.ui.sticky.bottom.bound{
+    opacity:0!important;
+    transition-property: opacity;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+  
+  }
+  position:absolute;
+  padding:2rem 2rem 2rem 2rem;
+  transition-property: opacity;
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+  .subnavTitle{
+    font-family:'Termina W00 Regular', sans-serif;
+    text-transform:uppercase;
+    color:@mokka;
+    margin-bottom:3rem;
+    padding-left:2rem;
+    letter-spacing:0.2rem;
+  }
+  ul{
+    margin:0;
+    padding:0;
+    font-family:'Termina W00 Regular', sans-serif;
+    li{
+      list-style-type:none;
+      line-height:4rem;
+      text-transform:uppercase;
+      color:@chameau;
+      a{
+        color:@chameau; 
+        padding-left:2rem;
+        position:relative;
+        .deco{
+          position:absolute;
+          left:0rem ;
+          height:2px;
+          width:2px ;
+          top:0.5rem;
+          background:@chameau; 
+        } 
+        &.active{
+          color:@mokka; 
+          padding-left:2rem;
+          position:relative;
+          .deco{
+            position:absolute;
+            left:-2rem ;
+            height:2px;
+            width:2rem;
+            top:0.5rem;
+            background:@mokka; 
+          }
+        }
+      }
+    }
+  }
+}
 .Scrolldown{
   @media only screen and (max-width: 768px) {
     display:none!important;
@@ -69,6 +137,50 @@ h2,h3,h4,h5,h6{
   position: relative;
   top: -40px;
   visibility: hidden;
+  @media only screen and (max-width: 768px){
+    top:-80px;
+  }
+}
+footer{
+  position:fixed;
+  z-index:9999;
+  bottom:0;
+  left:0;
+  a{
+    color:@pietra;
+  }
+  width:100vw;
+  padding:0.6rem 2rem;
+  background:@charbon;
+  color: @pietra;
+  font-size:1.2rem;
+  line-height:1.2rem;
+  img{
+    height:2.2rem;
+    margin:0.2rem 1rem 0.2rem 0!important;
+    @media only screen and (max-width: 768px) {
+      display:none!important;
+    }
+  }
+  text-align:center;
+  .wrap{
+    display:flex;
+    justify-content:space-between;
+    div{
+      margin:0.4rem 0!important;
+      color: @pietra;
+      font-size:0.8rem;
+      letter-spacing:0.2em;
+      line-height:2.0rem;
+      font-family:'Termina W00 Light';
+      text-transform:uppercase;
+    }
+    @media only screen and (max-width: 768px) {
+      .txt{
+        display:none!important;
+      }
+    }
+  }
 }
 #headercontainer{
   position:fixed;
@@ -90,6 +202,12 @@ h2,h3,h4,h5,h6{
   @media only screen and (max-width: 768px) {
     background:transparent!important;
     border:none!important;
+    &.scrolled{
+      height:80px!important;
+    }
+    &.unscrolled{
+      height:100px!important;
+    }
   }
   #contentlayer{
     width:100vw;
@@ -113,6 +231,12 @@ h2,h3,h4,h5,h6{
   #blurlayer{
     @media only screen and (max-width: 768px) {
       background:transparent!important;
+      &.scrolled{
+        height:80px!important;
+      }
+      &.unscrolled{
+        height:100px!important;
+      }
     }
     background:rgba(255,255,255,0.7);
     -webkit-filter: blur(1px);
@@ -154,12 +278,29 @@ h2,h3,h4,h5,h6{
         transition-timing-function: ease-in-out;
         height:70px;
       }
+      @media only screen and (max-width: 768px) {
+        &.scrolled{
+          height:80px!important;
+        }
+        &.unscrolled{
+          height:100px!important;
+        }
+      }
     }
   }
   #mainnavgrid{
     @media only screen and (max-width: 768px) {
       width:100vw;
       left:0!important;
+      flex-wrap:wrap;
+      justify-content:flex-end;
+      height:auto;
+      &.scrolled{
+        height:80px!important;
+      }
+      &.unscrolled{
+        height:100px!important;
+      }
     }
     width:100%;
     display:flex;
@@ -309,7 +450,7 @@ section{
     position:absolute;
     z-index:0;
     @media only screen and (max-width: 768px) {
-      height:10vh;
+      display:none;
     }
   }
   .SectionTeaser{
@@ -326,8 +467,8 @@ section{
     letter-spacing:0.1em;
     color:@graphite;
     @media only screen and (max-width: 768px) {
-      left:5vw;
-      width:90vw;
+      left:0;
+      width:100vw;
       padding:1rem ;
       font-size:12px;
       letter-spacing:0.05em;

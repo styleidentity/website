@@ -26,6 +26,75 @@ h5,
 h6 {
   font-family: 'SackersGothicW01-Light', "Times New Roman", serif;
 }
+.SubNavWrapOuter {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 25vh;
+}
+.SubNavWrap {
+  position: absolute;
+  padding: 2rem 2rem 2rem 2rem;
+  transition-property: opacity;
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+}
+@media only screen and (max-width: 768px) {
+  .SubNavWrap {
+    display: none!important;
+  }
+}
+.SubNavWrap.ui.sticky.bottom.bound {
+  opacity: 0!important;
+  transition-property: opacity;
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+}
+.SubNavWrap .subnavTitle {
+  font-family: 'Termina W00 Regular', sans-serif;
+  text-transform: uppercase;
+  color: #766446;
+  margin-bottom: 3rem;
+  padding-left: 2rem;
+  letter-spacing: 0.2rem;
+}
+.SubNavWrap ul {
+  margin: 0;
+  padding: 0;
+  font-family: 'Termina W00 Regular', sans-serif;
+}
+.SubNavWrap ul li {
+  list-style-type: none;
+  line-height: 4rem;
+  text-transform: uppercase;
+  color: #D5C1A0;
+}
+.SubNavWrap ul li a {
+  color: #D5C1A0;
+  padding-left: 2rem;
+  position: relative;
+}
+.SubNavWrap ul li a .deco {
+  position: absolute;
+  left: 0rem ;
+  height: 2px;
+  width: 2px ;
+  top: 0.5rem;
+  background: #D5C1A0;
+}
+.SubNavWrap ul li a.active {
+  color: #766446;
+  padding-left: 2rem;
+  position: relative;
+}
+.SubNavWrap ul li a.active .deco {
+  position: absolute;
+  left: -2rem;
+  height: 2px;
+  width: 2rem;
+  top: 0.5rem;
+  background: #766446;
+}
 .Scrolldown {
   position: absolute;
   left: 2vw;
@@ -54,6 +123,54 @@ h6 {
   top: -40px;
   visibility: hidden;
 }
+@media only screen and (max-width: 768px) {
+  .anchor {
+    top: -80px;
+  }
+}
+footer {
+  position: fixed;
+  z-index: 9999;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  padding: 0.6rem 2rem;
+  background: #656565;
+  color: #E8E8E8;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  text-align: center;
+}
+footer a {
+  color: #E8E8E8;
+}
+footer img {
+  height: 2.2rem;
+  margin: 0.2rem 1rem 0.2rem 0!important;
+}
+@media only screen and (max-width: 768px) {
+  footer img {
+    display: none!important;
+  }
+}
+footer .wrap {
+  display: flex;
+  justify-content: space-between;
+}
+footer .wrap div {
+  margin: 0.4rem 0!important;
+  color: #E8E8E8;
+  font-size: 0.8rem;
+  letter-spacing: 0.2em;
+  line-height: 2.0rem;
+  font-family: 'Termina W00 Light';
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 768px) {
+  footer .wrap .txt {
+    display: none!important;
+  }
+}
 #headercontainer {
   position: fixed;
   width: 100vw;
@@ -76,6 +193,12 @@ h6 {
   #headercontainer {
     background: transparent!important;
     border: none!important;
+  }
+  #headercontainer.scrolled {
+    height: 80px!important;
+  }
+  #headercontainer.unscrolled {
+    height: 100px!important;
   }
 }
 #headercontainer #contentlayer {
@@ -111,6 +234,12 @@ h6 {
   #headercontainer #blurlayer {
     background: transparent!important;
   }
+  #headercontainer #blurlayer.scrolled {
+    height: 80px!important;
+  }
+  #headercontainer #blurlayer.unscrolled {
+    height: 100px!important;
+  }
 }
 #headercontainer #blurlayer.scrolled {
   transition-property: height;
@@ -145,6 +274,14 @@ h6 {
   transition-timing-function: ease-in-out;
   height: 70px;
 }
+@media only screen and (max-width: 768px) {
+  #headercontainer #logomenuw #logo.scrolled {
+    height: 80px!important;
+  }
+  #headercontainer #logomenuw #logo.unscrolled {
+    height: 100px!important;
+  }
+}
 #headercontainer #mainnavgrid {
   width: 100%;
   display: flex;
@@ -158,6 +295,15 @@ h6 {
   #headercontainer #mainnavgrid {
     width: 100vw;
     left: 0!important;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    height: auto;
+  }
+  #headercontainer #mainnavgrid.scrolled {
+    height: 80px!important;
+  }
+  #headercontainer #mainnavgrid.unscrolled {
+    height: 100px!important;
   }
 }
 #headercontainer #mainnavgrid.scrolled {
@@ -306,7 +452,7 @@ section .SectionTeaserBackground {
 }
 @media only screen and (max-width: 768px) {
   section .SectionTeaserBackground {
-    height: 10vh;
+    display: none;
   }
 }
 section .SectionTeaser {
@@ -325,8 +471,8 @@ section .SectionTeaser {
 }
 @media only screen and (max-width: 768px) {
   section .SectionTeaser {
-    left: 5vw;
-    width: 90vw;
+    left: 0;
+    width: 100vw;
     padding: 1rem ;
     font-size: 12px;
     letter-spacing: 0.05em;

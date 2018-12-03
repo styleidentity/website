@@ -42,7 +42,7 @@
           {{end}}
           {{end}}
           {{if eq $teaser nil}}{{$teaser = ""}}{{end}}
-    <section >
+    <section id="sec-{{md5 .name}}">
       <div class="anchor" id="{{.name |urlize}}"></div>
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
@@ -61,9 +61,10 @@
           {{$scolor = .farbe.farbe}}
           {{$stcolor := ""}}
           {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
+          {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
           <div 
           class="Subsection idx-{{$subIdx}} teaser-{{if gt (len $teaser) 0}}yes{{else}}no{{end}} {{if eq $slastcolor $scolor}}same-backgrd{{end}}" 
-          id="{{(printf "%s--%s" $section.name (plainify .titel)) |urlize}}"
+          id="{{$sublink}}"
           style="background:{{partial "colorextr" $scolor}}">
             <h3 style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $stcolor}}{{else}}inherit{{end}}">
               {{.titel|safeHTML}}
@@ -92,10 +93,57 @@
         {{end}}
         {{end}}
       </div>
+      <div class="SubNavWrapOuter">
+          <div class="SubNavWrap ui sticky" id="nav-{{md5 $section.name}}">
+              <div class="subnavTitle">{{.name}}</div>
+              <ul>
+                {{range $subIdx,$subsection := $section.sub_sections}}
+                {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
+                {{if eq .template "themenabschnitt"}}
+                <li>
+                  <a id="sublnk-{{$sublink}}" href="#{{$sublink}}">
+                    {{plainify .titel}}
+                    <div class="deco"></div>
+                  </a>
+                </li>
+                {{end}}
+                {{end}}
+              </ul>
+            </div>
+      </div>
+        <script type="text/javascript">
+          $(function () {
+            $('#nav-{{md5 $section.name}}')
+              .sticky({
+                context: '#sec-{{md5 $section.name}}',
+                push:true,
+                offset:200,
+                silent:true,
+              });
+            {{range $subsection := $section.sub_sections}}
+              {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
+              $('#{{$sublink}}')
+              .visibility({
+                continuous:true,
+                once:false,
+                onOnScreen: function(calculations) {
+                  $('#sublnk-{{$sublink}}').addClass('active');
+                },
+                onOffScreen: function(calculations) {
+                  $('#sublnk-{{$sublink}}').removeClass('active');
+                },
+            });
+            {{end}}
+          });
+        </script>
     </section>
     {{end}}
   </div>
-
 </div>
-</div>
+<footer>
+  <div class="wrap">
+    <Image src="{{partial "imgUrl" (dict "img" .Params.footer.logo "params" "f_auto" )}}" />
+    <div><span class="txt">{{.Params.footer.text}} | </span><a href="#gesetzliche-angaben">Impressum</a></div>
+  </div>
+</footer>
 {{ end }}
