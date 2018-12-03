@@ -233,7 +233,7 @@ page_sections:
       sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
       immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
       Traum zum Beruf gemacht</p>"
-    farbe: ecru:#DDD8CE
+    farbe: weiss:#ffffff
   - template: themenabschnitt
     type: ta
     farbe: ecru:#DDD8CE
