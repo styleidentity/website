@@ -35,5 +35,15 @@ fields:
       template: color
       label: Farbe
       name: farbe
+- type: field_group
+  name: footer
+  label: Footer
+  fields:
+  - type: file
+    name: logo
+    label: Logo
+  - type: text
+    name: text
+    label: Text
 pages:
 - content/_index.md
