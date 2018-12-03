@@ -249,8 +249,7 @@ page_sections:
     farbe: weiss:#ffffff
   - template: themenabschnitt
     type: ta
-    farbe:
-      farbe: malachit:#1D2642
+    farbe: ecru:#DDD8CE
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
