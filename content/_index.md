@@ -137,7 +137,7 @@ page_sections:
     text: "<p>TRACHT IST IN WIRKLICHKEIT NUR EIN KONSTRUKT, EINE IDEE.</p><p>VIELE
       LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
       ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
-    bild: "/uploads/2018/11/02/tracht_7.jpg"
+    bild: "/uploads/2018/12/05/Tracht_Copyright.jpg"
   menue: true
   farbe_menu:
     farbe: mokka:#766446
