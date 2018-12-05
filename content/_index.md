@@ -196,7 +196,9 @@ page_sections:
       zu beraten, verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf
       dem Markt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung
       in Unternehmen zu platzieren - von der Entwicklung über das Design, die Produktion
-      und nicht zuletzt auch den Transport.</p>"
+      und nicht zuletzt auch den Transport.</p><p>Stoffqualitäten mit Öko-Siegel,
+      Fertigung in deutschen und nahen EU-Produktionsbetrieben, individuelle Designs
+      und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
