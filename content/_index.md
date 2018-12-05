@@ -215,8 +215,7 @@ page_sections:
     untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
     text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
       PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
-      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p><p>Die
-      projektorientierte Ausrichtung unserer Tätigkeit...</p>"
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
