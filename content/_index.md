@@ -203,11 +203,7 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
     text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
-      und im Modemanagement.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
-      und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre
-      Bedürfnisse abgestimmt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige
-      und faire Kleidung in Unternehmen zu platzieren - von der Entwicklung über das
-      Design, die Produktion und nicht zuletzt auch den Transport.</p>"
+      und im Modemanagement.</p><p>Die projektorientierte Ausrichtung unserer Tätigkeit...</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
