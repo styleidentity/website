@@ -61,7 +61,7 @@ page_sections:
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
-    teaser: "<p>UNIFORM ODER CI-KONFORM?</p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
+    teaser: "<p>UNIFORM ODER CI-KONFORM? <br>WIR MACHEN DEN UNTERSCHIED. </p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>CORPORATE BUSINESS-WEAR</p>"
@@ -230,14 +230,14 @@ page_sections:
       sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
       immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
       Traum zum Beruf gemacht</p>"
-    farbe: creme:#fffaf5
+    farbe: weiss:#ffffff
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p><em>"DER BESTE."</em></p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
-      KUNSTSTOFFE GmbH </p>
+    text: <p>"DER BESTE."</p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID KUNSTSTOFFE
+      GmbH</p>
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
   menue: true
@@ -260,7 +260,6 @@ page_sections:
       Ihnen unter <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
       gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
       Nachricht eine Rückmeldung von uns.</p>
-    farbe: creme:#fffaf5
   menue: true
   farbe_menu:
     farbe: siena:#8F0000
@@ -326,7 +325,7 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
-    farbe: creme:#fffaf5
+    farbe: creme75:rgba(255,250,245,0.98)
     text: "<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz
       hat einen besonders hohen Stellenwert für die Geschäftsleitung der Goss - Beratung
       und Vermittlung. Eine Nutzung der Internetseiten der Goss - Beratung und Vermittlung
