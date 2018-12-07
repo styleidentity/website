@@ -325,7 +325,7 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
-    farbe: creme75:rgba(255,250,245,0.98)
+    farbe: creme:#fffaf5
     text: "<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz
       hat einen besonders hohen Stellenwert für die Geschäftsleitung der Goss - Beratung
       und Vermittlung. Eine Nutzung der Internetseiten der Goss - Beratung und Vermittlung
