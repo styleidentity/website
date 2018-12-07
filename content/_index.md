@@ -230,7 +230,7 @@ page_sections:
       sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
       immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
       Traum zum Beruf gemacht</p>"
-    farbe: weiss:#ffffff
+    farbe: creme:#fffaf5
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
