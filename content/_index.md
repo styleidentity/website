@@ -138,6 +138,15 @@ page_sections:
       LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
       ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
     bild: "/uploads/2018/12/05/Tracht_Copyright.jpg"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
+    titel: "<p>Stilberatung für Privatkunden</p>"
+    untertitel: "<p>T Y P G E R E C H T E S  S T Y L E - G U I D I N G</p><p>F Ü R
+      \ A L L E  A N L Ä S S E</p>"
+    text: "<p>bla bla</p>"
+    textfarbe_titel_und_content:
+      farbe: charbon:#656565
   menue: true
   farbe_menu:
     farbe: mokka:#766446
