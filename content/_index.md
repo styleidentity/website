@@ -146,7 +146,7 @@ page_sections:
       \ A L L E  A N L Ä S S E</p>"
     text: "<p>bla bla</p>"
     textfarbe_titel_und_content:
-      farbe: charbon:#656565
+      farbe: nautique:#1D2642
   menue: true
   farbe_menu:
     farbe: mokka:#766446
