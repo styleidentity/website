@@ -143,7 +143,14 @@ page_sections:
     farbe: creme:#fffaf5
     titel: "<p>Stilberatung für Privatkunden</p>"
     untertitel: "<p>TYPGERECHTES STYLE-GUIDING</p><p>FÜR ALLE ANLÄSSE </p>"
-    text: "<p>bla bla</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      \ eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed  diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  Stet clita
+      kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor  sit amet. Lorem
+      ipsum dolor sit amet, consetetur sadipscing elitr, sed  diam nonumy eirmod tempor
+      invidunt ut labore et dolore magna aliquyam  erat, sed diam voluptua. At vero
+      eos et accusam et justo duo dolores et  ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus est Lorem  ipsum dolor sit amet.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   menue: true
