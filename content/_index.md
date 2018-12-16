@@ -142,8 +142,7 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>Stilberatung für Privatkunden</p>"
-    untertitel: "<p>T Y P G E R E C H T E S  S T Y L E - G U I D I N G</p><p>F Ü R
-      \ A L L E  A N L Ä S S E</p>"
+    untertitel: "<p>TYPGERECHTES STYLE-GUIDING</p><p>FÜR ALLE ANLÄSSE </p>"
     text: "<p>bla bla</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
