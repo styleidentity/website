@@ -206,14 +206,6 @@ page_sections:
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
     text: "<p>Profitieren Sie von unserer langjährigen Erfahrung in der Unternehmensberatung
       und im Modemanagement.</p><p>Die projektorientierte Ausrichtung unserer Tätigkeit...</p>"
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Team style identity</p>"
-    farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
-    text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
-      PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
-      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
@@ -231,6 +223,14 @@ page_sections:
       immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
       Traum zum Beruf gemacht</p>"
     farbe: creme:#fffaf5
+  - template: themenabschnitt
+    type: ta
+    titel: "<p>Team style identity</p>"
+    farbe: creme:#fffaf5
+    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
+    text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
+      PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p>"
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
