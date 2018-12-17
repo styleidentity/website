@@ -251,8 +251,8 @@ page_sections:
     farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p>"DER BESTE."</p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID KUNSTSTOFFE
-      GmbH</p>
+    text: <p></p><p>"DER BESTE."</p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
+      KUNSTSTOFFE GmbH</p>
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
   menue: true
