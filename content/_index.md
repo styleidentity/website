@@ -266,7 +266,7 @@ page_sections:
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_4.jpg"
-    teaser: "<p>Ihre Nachricht an uns</p>"
+    teaser: "<p>Ihre Nachricht an uns.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Anfrage</p>"
