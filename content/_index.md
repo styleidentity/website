@@ -195,7 +195,7 @@ page_sections:
       farbe: malachit:#1D2642
     textfarbe:
       farbe: weiss:#ffffff
-    teaser: "<p>Wer wir sind,</p><p>wofür wir stehen</p>"
+    teaser: "<p>Wer wir sind,</p><p>wofür wir stehen.</p>"
     hintergrundbild: "/uploads/2018/11/02/website_1.jpg"
   - template: themenabschnitt
     type: ta
