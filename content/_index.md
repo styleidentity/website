@@ -251,8 +251,10 @@ page_sections:
     farbe: malachit:#1D2642
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p></p><p>"DER BESTE."</p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
-      KUNSTSTOFFE GmbH</p>
+    text: <p> </p><p>"DER BESTE."</p><p>BERND BÖKENKRÜGER GESCHÄFTSFÜHRER DER OLDORID
+      KUNSTSTOFFE GmbH</p><p>„SERIÖS, KREATIV UND HOCHKOMPETENT.“</p><p>VIKTOR FUCHS</p><p>CoO
+      DER GROSS+FUCHS-GROUP, 2014</p><p>"XXX"</p><p>CAROLA MANG,</p><p>GRÜNDERIN UND
+      INHABERIN DER TUSKET MESSERMANUFAKTUR, 2013</p>
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
   menue: true
