@@ -295,7 +295,7 @@ page_sections:
     titel: "<p>Impressum</p>"
     untertitel: "<p>Angaben gemäß §5 TMG</p>"
     farbe: creme:#fffaf5
-    text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung und
+    text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung &amp;
       Vermittlung <br>Grub <br>Dorfstraße 12a <br>D-83626 Valley</p><p>Inhaber: Markus
       Goss <br>Tel: +49 (0)8095 358 387-0 <br>Fax: +49 (0)8095 358 387-012 <br>E-Mail:
       <a href="mailto:post@styleidentity.de">post@styleidentity.de</a> <br>Umsatzsteuer-ID
