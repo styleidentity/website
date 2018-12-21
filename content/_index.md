@@ -256,7 +256,7 @@ page_sections:
       FUCHS<br>CoO DER GROSS+FUCHS-GROUP, 2014</p><h3>"XXX"</h3><p>CAROLA MANG,</p><p>GRÜNDERIN
       UND INHABERIN DER TUSKET MESSERMANUFAKTUR, 2013</p>
     textfarbe_titel_und_content:
-      farbe: weiss:#ffffff
+      farbe: ecru:#DDD8CE
   menue: true
   farbe_menu:
     farbe: malachit:#1D2642
