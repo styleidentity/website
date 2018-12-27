@@ -27,7 +27,7 @@ page_sections:
       the Art. Ähnliches gilt auch für die Businesskleidung der Damen.</p><p>Auf unseren
       Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig, entstand
       die Idee von StyleIdentity: Individuelle, CI-konforme Geschäftskleidung ohne
-      Uniformcharakter. Ganz nach unserem Leitsatz:</p><p><strong>INSPIRATION, KONZEPTION,
+      Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION,
       KREATION - PERFEKTION.</strong></p>"
   - template: themenabschnitt
     type: ta
