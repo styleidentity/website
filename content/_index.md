@@ -137,7 +137,14 @@ page_sections:
     farbe: creme:#fffaf5
     titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
     untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
-    text: "<p>Asdf jklö</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      \  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed   diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.   Stet clita
+      kasd gubergren, no sea takimata sanctus est Lorem ipsum  dolor  sit amet. Lorem
+      ipsum dolor sit amet, consetetur sadipscing  elitr, sed  diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna  aliquyam  erat, sed diam voluptua.
+      At vero eos et accusam et justo duo  dolores et  ea rebum. Stet clita kasd gubergren,
+      no sea takimata sanctus  est Lorem  ipsum dolor sit amet.</p>"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
