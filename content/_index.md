@@ -142,7 +142,7 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>Sustainable 2nd hand claim wear</p>"
-    untertitel: "<p>VEREDELUNG UND INDIVIDUALISIERUNG VON EINZELSTÜCKEN ALS TRÄGER
+    untertitel: "<p>VEREDELUNG UND INDIVIDUALISIERUNG VON EINZELSTÜCKEN <br>ALS TRÄGER
       \ PRO-VEGANER BOTSCHAFTEN</p>"
     text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       \  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed   diam
