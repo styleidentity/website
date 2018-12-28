@@ -205,7 +205,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     titel: "<p>Partner</p>"
-    untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN. VON
+    untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
     text: "<p><em>b-coding UG &amp; Co. KG &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;elvira.beck
       | design &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;ProService GmbH Greif
