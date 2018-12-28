@@ -117,12 +117,6 @@ page_sections:
       farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
-    farbe: creme:#fffaf5
-    titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
-    untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
-    text: "<p>Asdf jklö</p>"
-  - template: themenabschnitt
-    type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>EINE HERZENSANGELEGENHEIT</p>"
@@ -138,6 +132,21 @@ page_sections:
       LEUTE VERLANGEN ABER NACH FESTEN REGELN UND MEINEN, ES WÄRE ETWAS GÄNZLICH ANDERES
       ALS KLEIDUNG UND MODE.</p><p><em>ALEXANDER WANDINGER, LEITER TIZ OBERBAYERN</em></p>"
     bild: "/uploads/2018/12/05/Tracht_Copyright.jpg"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
+    titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
+    untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
+    text: "<p>Asdf jklö</p>"
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
+    titel: "<p>Sustainable 2nd hand claim wear</p>"
+    untertitel: "<p>Veredelung und Individualisierung von Second Hand Kleidung als
+      xxx Träger für Pro-Vegane Botschaften</p>"
+    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+      \  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed   diam
+      voluptua.</p>"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
