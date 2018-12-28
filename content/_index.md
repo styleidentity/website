@@ -142,8 +142,8 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>Sustainable 2nd hand claim wear</p>"
-    untertitel: "<p>Veredelung und Individualisierung von Second Hand Kleidung als
-      xxx Träger für Pro-Vegane Botschaften</p>"
+    untertitel: "<p>VEREDELUNG UND INDIVIDUALISIERUNG VON EINZELSTÜCKEN ALS TRÄGER
+      \ PRO-VEGANER BOTSCHAFTEN</p>"
     text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
       \  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed   diam
       voluptua.</p>"
