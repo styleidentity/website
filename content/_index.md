@@ -196,7 +196,8 @@ page_sections:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
     text: "<p>BMW Welt · Gross+Fuchs - Group · Oldorid Kunststoffe GmbH · Käfer Gut
-      Kaltenbrunn GmbH</p>"
+      Kaltenbrunn GmbH · shoepassion.com · Juwelier Hilscher · Allergika GmbH · Tusket
+      Messermanufaktur · Constantin Film Produktion GmbH</p>"
   - template: themenabschnitt
     type: ta
     farbe: graphite:#404040
