@@ -221,7 +221,7 @@ page_sections:
       zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
       unterscheidet uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein
       besonderes Anliegen, nachhaltige und faire Kleidung in Unternehmen zu platzieren
-      - über die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.</p><p>Stoffqualitäten
+      - über die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.<br>Stoffqualitäten
       mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben, individuelle
       Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
