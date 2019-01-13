@@ -120,12 +120,12 @@ page_sections:
     titel: "<p>TRACHT IM BUSINESS</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>EINE HERZENSANGELEGENHEIT</p>"
-    text: <p>Die sogenannte "Tracht" ist ein Thema voller Missverständnisse, beladen
-      mit Vorurteilen und Klischees. Für uns ist Tracht einfach eine andere, besondere
+    text: "<p>Das Thema »Tracht« ist ein Thema voller Missverständnisse, beladen mit
+      Vorurteilen und Klischees. Für uns ist Tracht einfach eine andere, besondere
       Form der Gesellschafts-, Business-, oder Festkleidung - gleichermaßen beheimatet
       im Privaten wie im Geschäftsleben. Einzig und allein nach Regeln des guten Geschmacks.</p><p>Zu
       zeigen, wie Sie diesen schmalen Grat finden und stilsicher beschreiten, liegt
-      uns ganz besonders am Herzen.</p>
+      uns ganz besonders am Herzen.</p>"
   - template: bildteaser
     type: bt
     text: "<p>TRACHT IST IN WIRKLICHKEIT NUR EIN KONSTRUKT, EINE IDEE.</p><p>VIELE
