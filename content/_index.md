@@ -157,7 +157,7 @@ page_sections:
       werden, veredeln wir aufwändig von Hand. Vom Spray-Design über Stickereien bis
       zum Pachtwork aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über
       Hosen bis zu Jacken, Mänteln und vielem mehr.<br>Allen gemeinsam ist die Botschaft,
-      die als Claim hinter allen Verzierungen steht: GO VEGAN! </p>"
+      die als Claim die Basis der Verzierungen dient: GO VEGAN! </p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   - template: themenabschnitt
