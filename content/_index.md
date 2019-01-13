@@ -234,7 +234,7 @@ page_sections:
       und im Modemanagement.</p><p>Die projektorientierte Ausrichtung unserer Tätigkeit...</p><p>Stoffqualitäten
       mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben, individuelle
       Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p><p></p><p>Die projektorientierte
-      Ausrichtung unserer XXX ist abgestimmt auf die „Abläufe/Strukturen“ mittlerer
+      Ausrichtung unserer Arbeit ist abgestimmt auf die „Abläufe/Strukturen“ mittlerer
       und großer Unternehmen, sodass wir von Beginn an als (integraler Bestand-) Teil
       Ihres Betriebes agieren und uns in die bestehenden Abläufe ohne XXX „einfügen“
       können.</p><p>Natürlich sind wir auch mit ganzem Herzen für „kleinere“...</p><p>...Einhaltung
