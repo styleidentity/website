@@ -222,8 +222,8 @@ page_sections:
       unterscheidet uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein
       besonderes Anliegen, nachhaltig und fair produzierte Kleidung in Unternehmen
       zu platzieren - über die gesamte Wertschöpfungskette Beratung, Design, Produktion
-      und Transport.<br>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und
-      nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre Bedürfnisse
+      und Transport. Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen
+      EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre Bedürfnisse
       abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
