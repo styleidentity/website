@@ -214,18 +214,17 @@ page_sections:
     titel: "<p>Unser Antrieb</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>Was uns bewegt</p>"
-    text: "<p>Emotionale \x1FThemen wie Kleidung, Stil und Ästhetik mit den vorwiegend
-      sachlichen Geschäftsfeldern der Unternehmensberatung zu verbinden ist unser
-      Aufgabengebiet, dem wir uns mit Hingabe verschrieben haben und unter dem Brand
-      goss|style.identity leidenschaftlich für unsere Kunden umsetzen.</p><p>Unsere
-      Passion, Bekleidung einen höheren Stellenwert zu geben, als ein austauschbares
-      Wegwerfprodukt zu sein und unser Know-How, Unternehmen effektiv und nachhaltig
-      zu beraten, verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf
-      dem Markt.</p><p>Es ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung
-      in Unternehmen zu platzieren - von der Entwicklung über das Design, die Produktion
-      und nicht zuletzt auch den Transport.</p><p>Stoffqualitäten mit Öko-Siegel,
-      Fertigung in deutschen und nahen EU-Produktionsbetrieben, individuelle Designs
-      und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
+    text: "<p>Kleidung, Stil und Ästhetik mit den vorwiegend sachlichen Geschäftsfeldern
+      der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
+      wir uns mit Hingabe verschrieben haben und in Projekten leidenschaftlich für
+      unsere Kunden umsetzen.</p><p>Unsere Passion, Bekleidung einen höheren Stellenwert
+      zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
+      verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf dem Markt.</p><p>Es
+      ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung in Unternehmen
+      zu platzieren - von der Entwicklung über das Design, die Produktion und nicht
+      zuletzt auch den Transport.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung
+      in deutschen und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte
+      auf Ihre Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
