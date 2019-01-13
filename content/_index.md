@@ -217,7 +217,7 @@ page_sections:
     text: "<p>Kleidung, Stil und Ästhetik mit den vorwiegend sachlichen Geschäftsfeldern
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
       wir uns mit Hingabe verschrieben haben und in Projekten leidenschaftlich für
-      unsere Kunden umsetzen.<br>Unsere Passion, Bekleidung einen höheren Stellenwert
+      unsere Kunden umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert
       zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
       unterscheidet uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein
       besonderes Anliegen, nachhaltig und fair produzierte Kleidung in Unternehmen
