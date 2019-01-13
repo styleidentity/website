@@ -156,8 +156,8 @@ page_sections:
       Programm: <br>Ausgwählte Einzelstücke, für die keine neuen Ressourcen mehr benötigt
       werden, veredeln wir aufwändig von Hand. Vom Spray-Design über Stickereien bis
       zum Pachtwork aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über
-      Hosen bis zu Jacken, Mänteln und vielem mehr.<br>Allen gemeinsam ist die Botschaft,
-      die als Claim die Basis der Verzierungen bildet: <strong>GO VEGAN!</strong></p>"
+      Hosen bis zu Jacken, Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft,
+      die als Claim die Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   - template: themenabschnitt
