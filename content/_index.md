@@ -151,16 +151,12 @@ page_sections:
     titel: "<p>Sustainable 2nd hand claim wear</p>"
     untertitel: "<p>VEREDELUNG UND INDIVIDUALISIERUNG VON EINZELSTÜCKEN <br>ALS TRÄGER
       \ PRO-VEGANER BOTSCHAFTEN</p>"
-    text: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      \  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed   diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.   Stet clita
-      kasd gubergren, no sea takimata sanctus est Lorem ipsum  dolor  sit amet. Lorem
-      ipsum dolor sit amet, consetetur sadipscing  elitr, sed  diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna  aliquyam  erat, sed diam voluptua.
-      At vero eos et accusam et justo duo  dolores et  ea rebum. Stet clita kasd gubergren,
-      no sea takimata sanctus  est Lorem  ipsum dolor sit amet.Lorem ipsum dolor sit
-      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-      labore et dolore magna aliquyam erat, sed diam voluptua.</p>"
+    text: "<p>Ganz besonders wichtig ist uns, ein neues Bewusstsein für Bekleidung
+      und Mode zu schaffen. Nachhaltiges Handeln ist für uns kein Schlagwort sondern
+      Programm: <br>Ausgwählte Einzelstücke, für die keine neuen Ressourcen mehr benötigt
+      werden, veredeln wir aufwändig von Hand. Vom Spray-Design über Stickereien bis
+      zum Pachtwork aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über
+      Hosen bis zu Jacken, Mänteln und viele mehr.<br> </p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   - template: themenabschnitt
