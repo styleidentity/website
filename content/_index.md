@@ -143,6 +143,16 @@ page_sections:
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
+    titel: "<p>Stilberatung für Privatkunden</p>"
+    untertitel: "<p>TYPGERECHTES STYLE-GUIDING<br>FÜR ALLE ANLÄSSE</p>"
+    text: "<p>Für jeden Anlass die perfekte Beratung: individuell abgestimmt auf Ihren
+      Typ und Ihre Anforderungen. <br>Der Style-Check mit Farb- und Stilberatung ganz
+      bequem in Ihren Räumlichkeiten, Bekleidungs-Knigge, Personal Shopping.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
     titel: "<p>Sustainable 2nd hand claim wear</p>"
     untertitel: "<p>VEREDELUNG UND INDIVIDUALISIERUNG VON EINZELSTÜCKEN <br>ALS TRÄGER
       \ PRO-VEGANER BOTSCHAFTEN</p>"
@@ -153,16 +163,6 @@ page_sections:
       zum Pachtwork aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über
       Hosen bis zu Jacken, Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft,
       die als Claim die Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
-    textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
-  - template: themenabschnitt
-    type: ta
-    farbe: creme:#fffaf5
-    titel: "<p>Stilberatung für Privatkunden</p>"
-    untertitel: "<p>TYPGERECHTES STYLE-GUIDING<br>FÜR ALLE ANLÄSSE</p>"
-    text: "<p>Für jeden Anlass die perfekte Beratung: individuell abgestimmt auf Ihren
-      Typ und Ihre Anforderungen. <br>Der Style-Check mit Farb- und Stilberatung ganz
-      bequem in Ihren Räumlichkeiten, Bekleidungs-Knigge, Personal Shopping.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   menue: true
