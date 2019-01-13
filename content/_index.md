@@ -137,7 +137,9 @@ page_sections:
     farbe: creme:#fffaf5
     titel: "<p>KOSTÜMBILD UND GARDEROBE</p>"
     untertitel: "<p>ENTWURF UND AUSSTATTUNG FÜR FILMPRODUKTIONEN</p>"
-    text: "<p>Unsere Kostümbildner und Stilberater </p>"
+    text: "<p>Unsere Kostümbildner und Stilcoaches sind ausgewiesene Experten als
+      Berater im Vorfeld einer Produktion und stehen als Kostümverantwortliche und
+      Garderobieren während der Aufnahmen am Set und im Back-Office zur Verfügung</p>"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
