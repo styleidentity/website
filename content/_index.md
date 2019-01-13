@@ -234,14 +234,15 @@ page_sections:
       und im Modemanagement.</p><p>Die projektorientierte Ausrichtung unserer Tätigkeit...</p><p>Stoffqualitäten
       mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben, individuelle
       Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p><p></p><p>Die projektorientierte
-      Ausrichtung unserer XXX ist abgestimmt auf die „Abläufe/Strukturen“</p><p>mittlerer
-      und großer Unternehmen, sodass wir von Beginn an als (integraler Bestand-) Teil</p><p>Ihres
-      Betriebes agieren und uns in die bestehenden Abläufe ohne XXX „einfügen“ können.</p><p>Natürlich
-      sind wir auch mit ganzem Herzen für „kleinere“...</p><p>...Einhaltung innerbetrieblicher
-      Regelungen (Compliance)</p><p>Die gemeinsame Erarbeitung von Strategiepapieren
-      zur Corporate Office-Wear - zum</p><p>Beispiel innerhalb von Change-Management
-      Prozessen - mit Ihrer Organisationsentwicklung</p><p>und die Umsetzung von Inhouse-Kommunikationsprozessen
-      mit Ihren Marketing- und</p><p>PR-Entscheidern sind unsere Kernkompetenzen.</p>"
+      Ausrichtung unserer XXX ist abgestimmt auf die „Abläufe/Strukturen“ mittlerer
+      und großer Unternehmen, sodass wir von Beginn an als (integraler Bestand-) Teil
+      Ihres Betriebes agieren und uns in die bestehenden Abläufe ohne XXX „einfügen“
+      können.</p><p>Natürlich sind wir auch mit ganzem Herzen für „kleinere“...</p><p>...Einhaltung
+      innerbetrieblicher Regelungen (Compliance)</p><p>Die gemeinsame Erarbeitung
+      von Strategiepapieren zur Corporate Office-Wear - zum Beispiel innerhalb von
+      Change-Management Prozessen - mit Ihrer Organisationsentwicklung und die Umsetzung
+      von Inhouse-Kommunikationsprozessen mit Ihren Marketing- und PR-Entscheidern
+      sind unsere Kernkompetenzen.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
