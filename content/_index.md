@@ -217,14 +217,14 @@ page_sections:
     text: "<p>Kleidung, Stil und Ästhetik mit den vorwiegend sachlichen Geschäftsfeldern
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
       wir uns mit Hingabe verschrieben haben und in Projekten leidenschaftlich für
-      unsere Kunden umsetzen.</p><p>Unsere Passion, Bekleidung einen höheren Stellenwert
+      unsere Kunden umsetzen.<br>Unsere Passion, Bekleidung einen höheren Stellenwert
       zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
       verleiht uns entscheidende Vorteile gegenüber den Mitbewerbern auf dem Markt.</p><p>Es
       ist uns ein besonderes Anliegen, nachhaltige und faire Kleidung in Unternehmen
-      zu platzieren - von der Entwicklung über das Design, die Produktion und nicht
-      zuletzt auch den Transport.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung
-      in deutschen und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte
-      auf Ihre Bedürfnisse abgestimmt.</p>"
+      zu platzieren - über die gesamte Wertschöpfungskette Beratung, Design, Produktion
+      und Transport.</p><p>Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen
+      und nahen EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre
+      Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
