@@ -229,7 +229,7 @@ page_sections:
     type: ta
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
+    untertitel: "<p>Unsere Leitmotive, Ihr Gewinn.</p>"
     text: "<p>Die projektorientierte Ausrichtung unserer Arbeit folgt konsequent den
       Strukturen zeitgemäß organisierter Unternehmen, sodass wir von Beginn an als
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
