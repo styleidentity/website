@@ -248,8 +248,8 @@ page_sections:
     type: ta
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional </p>"
-    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion und Koordination
-      Ihrer Projekte</p>"
+    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion, Koordination Ihrer
+      Projekte und Entwickler progessiver Ideen für neue Stile.</p>"
     farbe: creme:#fffaf5
   - template: themenabschnitt
     type: ta
