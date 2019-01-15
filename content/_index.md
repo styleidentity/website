@@ -233,7 +233,7 @@ page_sections:
     text: "<p>Die projektorientierte Ausrichtung unserer Arbeit ist abgestimmt...</p><p>optimal
       auf die „Abläufe/Strukturen“ mittlerer und großer Unternehmen abgestimmt, sodass
       wir von Beginn an als (integraler Bestand-) Teil Ihres Betriebes agieren und
-      uns in die bestehenden Abläufe ohne XXX „einfügen“ können.</p><p>...Einhaltung
+      uns in die bestehenden Abläufe ohne Reibungsverluste „einfügen“ können.</p><p>...Einhaltung
       innerbetrieblicher Regelungen (Compliance)</p><p>Die gemeinsame Erarbeitung
       von Strategiepapieren zur Corporate Office-Wear - zum Beispiel innerhalb von
       Change-Management Prozessen - mit Ihrer Organisationsentwicklung und die Umsetzung
