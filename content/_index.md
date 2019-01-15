@@ -230,18 +230,16 @@ page_sections:
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
-    text: "<p>Die projektorientierte Ausrichtung unserer Arbeit ist abgestimmt...</p><p>Die
-      projektorientierte Ausrichtung unserer Arbeit folgt konsequent den Strukturen
-      zeitgemäß aufgestellter Unternehmen. </p><p>Wir legen größten Wert auf fundierte
-      Beratung von Anfang an</p><p>optimal auf die „Abläufe/Strukturen“ mittlerer
-      und großer Unternehmen abgestimmt, sodass wir von Beginn an als (integraler
-      Bestand-) Teil Ihres Betriebes agieren und uns in die bestehenden Abläufe ohne
-      Reibungsverluste „einfügen“ können.</p><p>...Einhaltung innerbetrieblicher
-      Regelungen (Compliance)</p><p>Die gemeinsame Erarbeitung von Strategiepapieren
-      zur Corporate Office-Wear - zum Beispiel innerhalb von Change-Management Prozessen
-      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
+    text: "<p>Die projektorientierte Ausrichtung unserer Arbeit folgt konsequent den
+      Strukturen zeitgemäß organisierter Unternehmen, sodass wir von Beginn an als
+      integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
+      ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung
+      innerbetrieblicher Regelungen (Compliance) als besonders wichtigen Faktor unserer
+      Tätigkeit.</p><p>Die gemeinsame Erarbeitung von Strategiepapieren zur Corporate
+      Office-Wear - zum Beispiel innerhalb von Change-Management Prozessen - mit Ihrer
+      Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
       mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p><p>Wir
-      stehen Ihnen als Consulting-“Partner“ ebenso wie als Full-Service Dienstleistungspartner
+      stehen Ihnen als Consulting-Partner ebenso, wie als Full-Service Dienstleister
       von der Idee bis zur fertigen Kleidung zur Verfügung.</p><p>Wir arbeiten ausschließlich
       mit Produzenten aus dem EU-Wirtschaftsraum.</p>"
   - template: bildteaser
