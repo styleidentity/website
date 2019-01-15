@@ -238,10 +238,9 @@ page_sections:
       Tätigkeit.</p><p>Die gemeinsame Erarbeitung von Strategiepapieren zur Corporate
       Office-Wear - zum Beispiel innerhalb von Change-Management Prozessen - mit Ihrer
       Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
-      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p><p>Wir
+      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.<br>Wir
       stehen Ihnen als Consulting-Partner ebenso, wie als Full-Service Dienstleister
-      von der Idee bis zur fertigen Kleidung zur Verfügung.</p><p>Wir arbeiten ausschließlich
-      mit Produzenten aus dem EU-Wirtschaftsraum.</p>"
+      von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
