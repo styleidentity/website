@@ -258,7 +258,10 @@ page_sections:
     untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
     text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
       PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
-      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p>"
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.<br>Je
+      nach Art und Umfang des Projektes sind wir so in der Lage, jederzeit flexibel
+      auf Ihre Anforderungen zu reagieren und einen optimalen Personaleinsatz für
+      Ihren Auftrag bereitzustellen. Dies Garantiert bestmögliche Effizienz und </p>"
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
