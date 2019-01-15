@@ -239,9 +239,9 @@ page_sections:
       Change-Management Prozessen - mit Ihrer Organisationsentwicklung und die Umsetzung
       von Inhouse-Kommunikationsprozessen mit Ihren Marketing- und PR-Entscheidern
       sind unsere Kernkompetenzen.</p><p>Wir stehen Ihnen als Consulting-“Partner“
-      ebenso wie als Full-Service Dienstleistungspartner</p><p>von der Idee bis zur
-      fertigen Kleidung zur Verfügung.</p><p>Wir arbeiten ausschließlich mit Produzenten
-      aus dem EU-Wirtschaftsraum.</p>"
+      ebenso wie als Full-Service Dienstleistungspartner von der Idee bis zur fertigen
+      Kleidung zur Verfügung.</p><p>Wir arbeiten ausschließlich mit Produzenten aus
+      dem EU-Wirtschaftsraum.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
