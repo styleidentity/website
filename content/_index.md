@@ -229,7 +229,7 @@ page_sections:
     type: ta
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Leitmotive, Ihr Gewinn.</p>"
+    untertitel: "<p>Unsere Leitmotive, Ihr Gewinn</p>"
     text: "<p>Die projektorientierte Ausrichtung unserer Arbeit folgt konsequent den
       Strukturen zeitgemäß organisierter Unternehmen, sodass wir von Beginn an als
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
@@ -248,15 +248,8 @@ page_sections:
     type: ta
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional </p>"
-    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
-      als zehn Jahren im Marketing eines IT-Hauses und immer leidenschaftlich den
-      Themen rund um Mode und textilen XXX zugetan, Wechsel zu einem internationalen
-      Franchise-Brand.</p><p>Für die führende Trachtenmarke Gössl Einkleidungen
-      im Hotellerie- und Gatronomie-Sektor sowie für Städte und Kommunen.</p><p>Marketing-
-      und Mode-Management-Studium</p><p>Div. Projektleitungen</p><p>Umfassende Erfahrungen
-      sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
-      immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
-      Traum zum Beruf gemacht</p>"
+    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion und Koordination
+      Ihrer Projekte</p>"
     farbe: creme:#fffaf5
   - template: themenabschnitt
     type: ta
