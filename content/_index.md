@@ -255,7 +255,7 @@ page_sections:
     type: ta
     titel: "<p>Team style identity</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
+    untertitel: "<p>Unsere Mitarbeiter/-innen</p>"
     text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
       PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
       Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.<br>Je
