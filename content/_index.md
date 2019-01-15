@@ -239,7 +239,7 @@ page_sections:
       Office-Wear - zum Beispiel innerhalb von Change-Management Prozessen - mit Ihrer
       Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
       mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.<br>Wir
-      stehen Ihnen sowohl als Consulting-Partner, als auch als Full-Service Dienstleister
+      stehen Ihnen sowohl als Consulting-Partner, wie auch als Full-Service Dienstleister
       von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
   - template: bildteaser
     type: bt
