@@ -77,15 +77,15 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
-    untertitel: "<p>ERWEITERUNG IHRER <br>MARKETING-STRATEGIEN</p>"
+    untertitel: "<p>ERWEITERUNG IHRER <br>CORPORATE IDENTITY</p>"
     farbe: creme:#fffaf5
-    text: "<p>Die Erarbeitung von Strategien zur Corporate Office-Wear - zum Beispiel
-      innerhalb von Change-Management Prozessen - zusammen mit Ihrer Organisationsentwicklung
-      und die Umsetzung von Inhouse-Kommunikationsverfahren mit Ihren Marketing- und
-      PR-Entscheidern sind unsere Kernkompetenzen.</p><p>CI-konforme Looks bedeuten
-      nämlich keineswegs das Aus der Individualität Ihrer Mitarbeiter und Mitarbeiterinnen.
-      Entscheidend für das funktionierende Nebeneinander von Eigenständigkeit und
-      Identifikation mit dem Unternehmen ist die richtige Form der Kommunikation.</p>"
+    text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
+      Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
+      von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
+      Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
+      Corporate Office Wear - zum Beispiel innerhalb von Change-Management Prozessen
+      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
+      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
   - template: bildteaser
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
@@ -107,7 +107,7 @@ page_sections:
     type: ta
     titel: "<p>Design</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>INDIVIDUELLE BRAND-FASHION<br>IN EINER IMMER MONOTONEREN MODEWELT.</p>"
+    untertitel: "<p>INDIVIDUELLE GESCHÄFTSKLEIDUNG:<br>EIN STATEMENT (FÜR XXX)</p>"
     text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
       und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
       Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
@@ -158,11 +158,11 @@ page_sections:
       \ PRO-VEGANER BOTSCHAFTEN</p>"
     text: "<p>Ganz besonders wichtig ist uns, ein neues Bewusstsein für Bekleidung
       und Mode zu schaffen. Nachhaltiges Handeln ist für uns kein Schlagwort sondern
-      Programm: <br>Ausgwählte Einzelstücke, für die keine neuen Ressourcen mehr benötigt
-      werden, veredeln wir aufwändig von Hand. Vom Spray-Design über Stickereien bis
-      zum Pachtwork aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über
-      Hosen bis zu Jacken, Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft,
-      die als Claim die Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
+      Programm: <br>Ausgwählte Einzelstücke veredeln wir - ohne Aufwendung neuer Ressourcen
+      - liebevoll von Hand. Vom Spray-Design über Stickereien bis zum Pachtwork aus
+      mehreren Teilen - beginnend beim einfachen Baumwollshirt über Hosen bis zu Jacken,
+      Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft, die als Claim die
+      Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   menue: true
@@ -216,34 +216,26 @@ page_sections:
     untertitel: "<p>Was uns bewegt</p>"
     text: "<p>Kleidung, Stil und Ästhetik mit den vorwiegend sachlichen Geschäftsfeldern
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
-      wir uns mit Hingabe verschrieben haben und in Projekten leidenschaftlich für
-      unsere Kunden umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert
-      zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
-      unterscheidet uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein
-      besonderes Anliegen, nachhaltig und fair produzierte Kleidung in Unternehmen
-      zu platzieren - über die gesamte Wertschöpfungskette Beratung, Design, Produktion
-      und Transport. Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen
-      EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre Bedürfnisse
-      abgestimmt.</p>"
+      wir uns mit Hingabe verschrieben haben und leidenschaftlich für unsere Kunden
+      umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert zu geben und
+      unser Know-How, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
+      uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein besonderes Anliegen,
+      nachhaltig und fair produzierte Kleidung in Unternehmen zu platzieren - über
+      die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.
+      Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben,
+      individuelle Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Leitmotive. Ihr Gewinn.</p>"
-    text: "<p>Die projektorientierte Ausrichtung unserer Arbeit ist abgestimmt...</p><p>Die
-      projektorientierte Ausrichtung unserer Arbeit folgt konsequent den Strukturen
-      zeitgemäß organisierter Unternehmen. </p><p>Wir legen größten Wert auf fundierte
-      Beratung von Anfang an</p><p>optimal auf die „Abläufe/Strukturen“ mittlerer
-      und großer Unternehmen abgestimmt, sodass wir von Beginn an als (integraler
-      Bestand-) Teil Ihres Betriebes agieren und uns in die bestehenden Abläufe ohne
-      Reibungsverluste „einfügen“ können.</p><p>...Einhaltung innerbetrieblicher
-      Regelungen (Compliance)</p><p>Die gemeinsame Erarbeitung von Strategiepapieren
-      zur Corporate Office-Wear - zum Beispiel innerhalb von Change-Management Prozessen
-      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
-      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p><p>Wir
-      stehen Ihnen als Consulting-“Partner“ ebenso wie als Full-Service Dienstleistungspartner
-      von der Idee bis zur fertigen Kleidung zur Verfügung.</p><p>Wir arbeiten ausschließlich
-      mit Produzenten aus dem EU-Wirtschaftsraum.</p>"
+    untertitel: "<p>Unsere Leitmotive, Ihr Gewinn</p>"
+    text: "<p>Die projektorientierte Ausrichtung unserer Arbeit folgt konsequent den
+      Strukturen zeitgemäß organisierter Unternehmen, sodass wir von Beginn an als
+      integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
+      ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
+      Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
+      stehen Ihnen sowohl als reiner Consulter, wie auch als Full-Service PartnerPartnerP
+      von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
@@ -251,24 +243,21 @@ page_sections:
     type: ta
     titel: "<p>Markus Goss</p>"
     untertitel: "<p>Gründer und Style-Professional </p>"
-    text: "<p>Ihr Ansprechpartner für erstklassige Brand-Fashion.</p><p>Nach mehr
-      als zehn Jahren im Marketing eines IT-Hauses und immer leidenschaftlich den
-      Themen rund um Mode und textilen XXX zugetan, Wechsel zu einem internationalen
-      Franchise-Brand.</p><p>Für die führende Trachtenmarke Gössl Einkleidungen
-      im Hotellerie- und Gatronomie-Sektor sowie für Städte und Kommunen.</p><p>Marketing-
-      und Mode-Management-Studium</p><p>Div. Projektleitungen</p><p>Umfassende Erfahrungen
-      sowohl im Retail - gewissermaßen „an der Front“ - als auch im</p><p>Back-Office</p><p>-------------</p><p>Schon
-      immer der Ästhetik verpflichtet</p><p>das alte Leben in der IT hinter sich gelassen</p><p>den
-      Traum zum Beruf gemacht</p>"
+    text: "<p>Ihr Ansprechpartner in allen Fragen CI konforme Geschäftskleidung betreffend,
+      Koordination Ihrer Projekte und Entwickler progessiver Ideen für neue Stile.</p>"
     farbe: creme:#fffaf5
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Mitarbeiter / -Innen</p>"
+    untertitel: "<p>Unsere Mitarbeiter/-innen</p>"
     text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
       PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
-      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.</p>"
+      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.<br>Je
+      nach Art und Umfang des Projektes sind wir so in der Lage, jederzeit flexibel
+      auf Ihre Anforderungen zu reagieren und einen optimalen Personaleinsatz für
+      Ihren Auftrag bereitzustellen. Dies garantiert bestmögliche Effizienz und ergebnisorientierte
+      Resultate. </p>"
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
