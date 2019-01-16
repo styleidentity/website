@@ -233,10 +233,10 @@ page_sections:
     text: "<p>Die projektorientierte Ausrichtung unserer Arbeit folgt konsequent den
       Strukturen zeitgemäß organisierter Unternehmen, sodass wir von Beginn an als
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
-      ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung
-      innerbetrieblicher Regelungen (Compliance) als besonders wichtigen Faktor unserer
-      Tätigkeit.<br>Wir stehen Ihnen sowohl als Consulting-Partner, wie auch als Full-Service
-      Dienstleister von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
+      ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
+      Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
+      stehen Ihnen sowohl als Consulting-Partner, wie auch als Full-Service Dienstleister
+      von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
