@@ -158,11 +158,11 @@ page_sections:
       \ PRO-VEGANER BOTSCHAFTEN</p>"
     text: "<p>Ganz besonders wichtig ist uns, ein neues Bewusstsein für Bekleidung
       und Mode zu schaffen. Nachhaltiges Handeln ist für uns kein Schlagwort sondern
-      Programm: <br>Ausgwählte Einzelstücke veredeln wir - ohne Verschwendung neuer
-      Ressourcen - aufwändig von Hand. Vom Spray-Design über Stickereien bis zum Pachtwork
-      aus mehreren Teilen - beginnend beim einfachen Baumwollshirt über Hosen bis
-      zu Jacken, Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft, die als
-      Claim die Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
+      Programm: <br>Ausgwählte Einzelstücke veredeln wir - ohne Aufwendung neuer Ressourcen
+      - liebevoll von Hand. Vom Spray-Design über Stickereien bis zum Pachtwork aus
+      mehreren Teilen - beginnend beim einfachen Baumwollshirt über Hosen bis zu Jacken,
+      Mänteln und vielem mehr. Allen gemeinsam ist die Botschaft, die als Claim die
+      Basis der Verzierungen bildet:<br><strong>GO VEGAN!</strong></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
   menue: true
