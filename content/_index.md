@@ -234,7 +234,7 @@ page_sections:
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
-      stehen Ihnen sowohl als Consulting-Partner, wie auch als Full-Service Dienstleister
+      stehen Ihnen sowohl als reiner Consulter, wie auch als Full-Service PartnerPartnerP
       von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
   - template: bildteaser
     type: bt
