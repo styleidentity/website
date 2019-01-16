@@ -82,10 +82,10 @@ page_sections:
     text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
       Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
       von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
-      Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategiepapieren
-      zur Corporate Office  Wear - zum Beispiel innerhalb von Change-Management Prozessen
-      - mit  Ihrer Organisationsentwicklung und die Umsetzung von  Inhouse-Kommunikationsprozessen
-      mit Ihren Marketing- und PR-Entscheidern  sind unsere Kernkompetenzen.</p>"
+      Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
+      Corporate Office Wear - zum Beispiel innerhalb von Change-Management Prozessen
+      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
+      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
   - template: bildteaser
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
