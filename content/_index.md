@@ -216,15 +216,14 @@ page_sections:
     untertitel: "<p>Was uns bewegt</p>"
     text: "<p>Kleidung, Stil und Ästhetik mit den vorwiegend sachlichen Geschäftsfeldern
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
-      wir uns mit Hingabe verschrieben haben und in Projekten leidenschaftlich für
-      unsere Kunden umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert
-      zu geben und unser Know-How, Unternehmen effektiv und nachhaltig zu beraten,
-      unterscheidet uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein
-      besonderes Anliegen, nachhaltig und fair produzierte Kleidung in Unternehmen
-      zu platzieren - über die gesamte Wertschöpfungskette Beratung, Design, Produktion
-      und Transport. Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen
-      EU-Produktionsbetrieben, individuelle Designs und Schnitte auf Ihre Bedürfnisse
-      abgestimmt.</p>"
+      wir uns mit Hingabe verschrieben haben und leidenschaftlich für unsere Kunden
+      umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert zu geben und
+      unser Know-How, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
+      uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein besonderes Anliegen,
+      nachhaltig und fair produzierte Kleidung in Unternehmen zu platzieren - über
+      die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.
+      Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben,
+      individuelle Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
