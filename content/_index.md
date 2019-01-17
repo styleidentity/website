@@ -234,8 +234,8 @@ page_sections:
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
-      stehen Ihnen sowohl als reiner Consulter, wie auch als Full-Service Partner
-      von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
+      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
+      Partner von der Idee bis zur fertigen Kleidung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
