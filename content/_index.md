@@ -235,7 +235,7 @@ page_sections:
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
       stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
-      Partner von der Idee bis zur fertigen Kleidung.</p>"
+      Partner für den gesamten Prozess von der Idee bis zur fertigen Kleidung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
