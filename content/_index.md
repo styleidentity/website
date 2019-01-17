@@ -72,8 +72,8 @@ page_sections:
       eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
       für Board, Key-Accounts, Sales und viele weitere Bereiche.</p><p>Vom Brainstorming
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
-      und dem Design bis zur »Arbeit« an Ihren Mitarbeitern bei der Einkleidung sind
-      wir an Ihrer Seite.</p>"
+      und dem Design der Office-Wear bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem
+      Passformcheck sind wir an Ihrer Seite.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
