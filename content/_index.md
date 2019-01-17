@@ -68,8 +68,8 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>ENTWICKLUNG CI-KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
     text: "<p>Corporate Style Guiding ist das maßgeschneiderte Konzept für Ihr Unternehmen,
-      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:</p><p>Ihre
-      ganz eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
+      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:<br>Ihre ganz
+      eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
       für Board, Key-Accounts, Sales und viele weitere Bereiche.</p><p>Vom Brainstorming
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
       und dem Design bis zur »Arbeit« an Ihren Mitarbeitern bei der Einkleidung sind
