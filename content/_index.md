@@ -256,7 +256,7 @@ page_sections:
       Textil-Management und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
       sind wir so in der Lage, jederzeit flexibel auf Ihre Anforderungen zu reagieren
       und einen optimalen Personaleinsatz für Ihren Auftrag bereitzustellen. Dies
-      garantiert bestmögliche Effizienz und ergebnisorientierte Ausführung.</p>"
+      garantiert bestmögliche Effizienz und ergebnisorientierte Ausführung Ihres Auftrags.</p>"
   - template: themenabschnitt
     type: ta
     farbe: malachit:#1D2642
