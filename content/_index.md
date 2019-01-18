@@ -250,7 +250,7 @@ page_sections:
     type: ta
     titel: "<p>Team style identity</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Mitarbeiter/-innen</p>"
+    untertitel: "<p>Unsere Mitarbeiterinnen und Mitarbeiter</p>"
     text: "<p>Ein Team aus freien Designern, Marketing- und PR-Mitarbeitern mit umfassender
       und lanjähriger Erfahrung bildet die kreative Basis unseres Know-How in Punkto
       Textil-Management und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
