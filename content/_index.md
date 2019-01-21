@@ -90,7 +90,7 @@ page_sections:
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
       GEKLEIDETER MITARBEITER.</p>"
-    bild: "/uploads/2019/01/21/Scabal_Leistungen_Copyright.jpg"
+    bild: "/uploads/2019/01/21/Scabal_Leistungen_C2.jpg"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
