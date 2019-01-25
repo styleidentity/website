@@ -42,7 +42,7 @@ page_sections:
       selbstverständlich ist - nämlich die optimale Verbindung von Funktion und optischer
       Ausgestaltung nach Unternehmensrichtlinien - ist StyleIdentity für die Office-Bereiche:
       Businesskleidung in perfekter Abstimmung mit Ihrer Corporate Identity. Einen
-      Mitarbeiter, eine Mitarbeiterin als »Botschafter« Ihres Unternehmens zu erkennen,
+      Mitarbeiter, eine Mitarbeiterin als Botschafter Ihres Unternehmens zu erkennen,
       noch bevor die Visitenkarte gereicht wird - schlechtin die Maßnahme zur Steigerung
       des Wiedererkennungswertes.</p><p>Dabei soll eine Unternehmensbekleidung die
       Funktion einer gemeinsamen Identität erfüllen, jedoch keineswegs Uniform sein.
