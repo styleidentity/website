@@ -61,7 +61,10 @@
           {{$scolor = .farbe}}
           {{$stcolor := ""}}
           {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
+          {{$sccolor:=""}}
+          {{$sccolor := .textfarbe_content.farbe}}{{if eq $sccolor nil}}{{$sccolor = ""}}{{end}}
           {{$sublink := (printf "ss%s__su%s" (md5 $section.name) (md5 .titel)) |urlize}}
+          
           <div 
           class="Subsection idx-{{$subIdx}} teaser-{{if gt (len $teaser) 0}}yes{{else}}no{{end}} {{if eq $slastcolor $scolor}}same-backgrd{{end}}" 
           id="{{$sublink}}"
@@ -73,7 +76,7 @@
               {{.untertitel|safeHTML}}
             </h4>
             <div 
-            style="color:{{if gt (len $stcolor) 0}}{{partial "colorextr" $stcolor}}{{else}}inherit{{end}}" 
+            style="color:{{if gt (len $sccolor) 0}}{{partial "colorextr" $sccolor}}{{else}}inherit{{end}}" 
             class="content"
             >
             {{.text |safeHTML}}
@@ -98,7 +101,7 @@
               <div class="subnavTitle">{{.name}}</div>
               <ul>
                 {{range $subIdx,$subsection := $section.sub_sections}}
-                {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
+                {{$sublink := (printf "ss%s__su%s" (md5 $section.name) (md5 .titel)) |urlize}}
                 {{if eq .template "themenabschnitt"}}
                 <li>
                   <a id="sublnk-{{$sublink}}" href="#{{$sublink}}">
