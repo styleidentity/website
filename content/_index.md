@@ -36,20 +36,20 @@ page_sections:
     untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
       Unternehmens-Identität</p>"
     text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
-      Ein Mitarbieter, der die Identifikation seiner Company gegenüber nicht nur
-      durch seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt,
-      signalisiert Verbundenheit und Loyalität.</p><p>Was im Bereich der sog. Work-Wear
-      längst selbstverständlich ist - nämlich die optimale Verbindung von Funktion
-      und optischer Ausgestaltung nach Unternehmensrichtlinien - ist StyleIdentity
-      für die Office-Bereiche: Businesskleidung in perfekter Abstimmung mit Ihrer
-      Corporate Identity. Einen Mitarbeiter, eine Mitarbeiterin als »Botschafter«
-      Ihres Unternehmens zu erkennen, noch bevor die Visitenkarte gereicht wird -
-      schlechtin die Maßnahme zur Steigerung des Wiedererkennungswertes.</p><p>Dabei
-      soll eine Unternehmensbekleidung die Funktion einer gemeinsamen Identität erfüllen,
-      jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg zu finden
-      ist die Kunst - und die Domäne unseres Hauses. Um zwischen uniformen Kleidungsstilen
-      und businesskonformer, CI-Basierter Mitarbeiterbekleidung zu differenzieren,
-      kreierten wir für letztere den Terminus <br><strong>STYLE IDENTITY</strong></p>"
+      Ein Mitarbieter, der die Identifikation seiner Company gegenüber nicht nur durch
+      seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
+      Verbundenheit und Loyalität.</p><p>Was im Bereich der sog. Work-Wear längst
+      selbstverständlich ist - nämlich die optimale Verbindung von Funktion und optischer
+      Ausgestaltung nach Unternehmensrichtlinien - ist StyleIdentity für die Office-Bereiche:
+      Businesskleidung in perfekter Abstimmung mit Ihrer Corporate Identity. Einen
+      Mitarbeiter, eine Mitarbeiterin als Botschafter Ihres Unternehmens zu erkennen,
+      noch bevor die Visitenkarte gereicht wird - schlechtin die Maßnahme zur Steigerung
+      des Wiedererkennungswertes.</p><p>Dabei soll eine Unternehmensbekleidung die
+      Funktion einer gemeinsamen Identität erfüllen, jedoch keineswegs Uniform sein.
+      Hier exakt den goldenen Mittelweg zu finden ist die Kunst - und die Domäne unseres
+      Hauses. Um zwischen uniformen Kleidungsstilen und businesskonformer, CI-Basierter
+      Mitarbeiterbekleidung zu differenzieren, kreierten wir für letztere den Terminus
+      <br><strong>STYLE IDENTITY</strong></p>"
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
@@ -68,12 +68,12 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>ENTWICKLUNG CI-KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
     text: "<p>Corporate Style Guiding ist das maßgeschneiderte Konzept für Ihr Unternehmen,
-      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:</p><p>Ihre
-      ganz eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
+      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:<br>Ihre ganz
+      eigene, unternehmensspezifische Brand-Fashion. CI-konforme Gesschäftskleidung
       für Board, Key-Accounts, Sales und viele weitere Bereiche.</p><p>Vom Brainstorming
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
-      und dem Design bis zur »Arbeit« an Ihren Mitarbeitern bei der Einkleidung sind
-      wir an Ihrer Seite.</p>"
+      und dem Design der Office-Wear bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem
+      Passformcheck sind wir an Ihrer Seite.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
@@ -90,7 +90,7 @@ page_sections:
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
       GEKLEIDETER MITARBEITER.</p>"
-    bild: "/uploads/2018/11/02/scabal_leistungen.jpg"
+    bild: "/uploads/2019/01/21/Scabal_Leistungen_C3.jpg"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
@@ -193,10 +193,8 @@ page_sections:
     titel: "<p>Partner</p>"
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
-    text: "<p><em>b-coding UG &amp; Co. KG &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;elvira.beck
-      | design &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;ProService GmbH Greif
-      Trachten &nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;GMUND Papier &nbsp;&nbsp;&nbsp;&nbsp;·
-      &nbsp;&nbsp;&nbsp;&nbsp;fabrik 3</em></p>"
+    text: "<p><em>b-coding UG &amp; Co. KG · elvira.beck | design · ProService GmbH
+      Greif Trachten · GMUND Papier · fabrik 3</em></p>"
   menue: true
   farbe_menu:
     farbe: graphite:#404040
@@ -234,8 +232,8 @@ page_sections:
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
-      stehen Ihnen sowohl als reiner Consulter, wie auch als Full-Service PartnerPartnerP
-      von der Idee bis zur fertigen Kleidung zur Verfügung.</p>"
+      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
+      Partner für den gesamten Prozess von der Idee bis zur fertigen Kleidung.</p>"
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
@@ -250,14 +248,13 @@ page_sections:
     type: ta
     titel: "<p>Team style identity</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>Unsere Mitarbeiter/-innen</p>"
-    text: "<p>Ein derzeit ca. 40-köpfiges Team aus freien Designern, Marketing- und
-      PR-Mitarbeitern mit umfassender und lanjähriger Erfahrung bildet die kreative
-      Basis unseres Know-How in Punkto Textil-Management und Unternehmensberatung.<br>Je
-      nach Art und Umfang des Projektes sind wir so in der Lage, jederzeit flexibel
-      auf Ihre Anforderungen zu reagieren und einen optimalen Personaleinsatz für
-      Ihren Auftrag bereitzustellen. Dies garantiert bestmögliche Effizienz und ergebnisorientierte
-      Resultate. </p>"
+    untertitel: "<p>Unsere Mitarbeiterinnen und Mitarbeiter</p>"
+    text: "<p>Ein Team aus freien Designern, Marketing- und PR-Mitarbeitern mit umfassender
+      und lanjähriger Erfahrung bildet die kreative Basis unseres Know-How in Punkto
+      Textil-Management und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
+      sind wir so in der Lage, jederzeit flexibel auf Ihre Anforderungen zu reagieren
+      und einen optimalen Personaleinsatz für Ihren Auftrag bereitzustellen. Dies
+      garantiert bestmögliche Effizienz und ergebnisorientierte Ausführung Ihres Auftrags.</p>"
   - template: themenabschnitt
     type: ta
     farbe: malachit:#393B1B
