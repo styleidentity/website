@@ -155,7 +155,7 @@ footer img {
 }
 footer .wrap {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 footer .wrap div {
   margin: 0.4rem 0!important;
@@ -572,7 +572,7 @@ section .Subsection .content blockquote {
     padding: 15vh 1rem 1rem 1rem!important;
   }
   section .Subsection.idx-1.teaser-no {
-    padding: 3rem 1rem 1rem 1rem!important;
+    padding: 6rem 1rem 1rem 1rem!important;
   }
   section .Subsection.same-backgrd {
     padding: 1rem;
