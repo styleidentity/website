@@ -488,6 +488,9 @@ section .BildTeaser .content em {
   font-size: 1rem;
   text-align: right;
 }
+section#ss8c0f686f2ce4f02bd5d3baefe1d95d7a .BildTeaser {
+  padding: 30vh!important;
+}
 section .Subsection {
   padding: 3vw 17.5vw 3vw 37.5vw;
 }
@@ -520,10 +523,10 @@ section .Subsection h4 {
   font-weight: normal;
   margin-bottom: 1.5rem!important;
 }
-section .Subsection#ueber_uns_andere_uber_uns .content {
+section .Subsection#ss8c0f686f2ce4f02bd5d3baefe1d95d7a__su7886a861bd50e6c6dc360a53e7ea759f .content {
   text-align: center !important;
 }
-section .Subsection#ueber_uns_andere_uber_uns .content blockquote {
+section .Subsection#ss8c0f686f2ce4f02bd5d3baefe1d95d7a__su7886a861bd50e6c6dc360a53e7ea759f .content blockquote {
   text-transform: uppercase;
   font-style: normal;
 }

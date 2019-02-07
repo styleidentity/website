@@ -204,7 +204,7 @@ page_sections:
   sub_sections:
   - template: themenheader
     farbe:
-      farbe: malachit:#1D2642
+      farbe: malachit:#393B1B
     textfarbe:
       farbe: weiss:#ffffff
     teaser: "<p>Wer wir sind,</p><p>wofür wir stehen.</p>"
@@ -260,7 +260,7 @@ page_sections:
       Resultate. </p>"
   - template: themenabschnitt
     type: ta
-    farbe: malachit:#1D2642
+    farbe: malachit:#393B1B
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p>-</p><h3>"DER BESTE."</h3><p>BERND BÖKENKRÜGER - GESCHÄFTSFÜHRER DER
@@ -271,7 +271,7 @@ page_sections:
       farbe: ecru:#DDD8CE
   menue: true
   farbe_menu:
-    farbe: malachit:#1D2642
+    farbe: malachit:#393B1B
 - name: Kontakt
   sub_sections:
   - template: themenheader

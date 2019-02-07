@@ -42,7 +42,7 @@
           {{end}}
           {{end}}
           {{if eq $teaser nil}}{{$teaser = ""}}{{end}}
-    <section id="sec-{{md5 .name}}">
+    <section id="ss{{md5 .name}}">
       <div class="anchor" id="{{.name |urlize}}"></div>
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
@@ -61,7 +61,7 @@
           {{$scolor = .farbe}}
           {{$stcolor := ""}}
           {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
-          {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
+          {{$sublink := (printf "ss%s__su%s" (md5 $section.name) (md5 .titel)) |urlize}}
           <div 
           class="Subsection idx-{{$subIdx}} teaser-{{if gt (len $teaser) 0}}yes{{else}}no{{end}} {{if eq $slastcolor $scolor}}same-backgrd{{end}}" 
           id="{{$sublink}}"
@@ -115,13 +115,13 @@
           $(function () {
             $('#nav-{{md5 $section.name}}')
               .sticky({
-                context: '#sec-{{md5 $section.name}}',
+                context: '#ss{{md5 $section.name}}',
                 push:true,
                 offset:200,
                 silent:true,
               });
             {{range $subsection := $section.sub_sections}}
-              {{$sublink := (printf "%s--%s" (md5 $section.name) (md5 .titel)) |urlize}}
+              {{$sublink := (printf "ss%s__su%s" (md5 $section.name) (md5 .titel)) |urlize}}
               $('#{{$sublink}}')
               .visibility({
                 continuous:true,
