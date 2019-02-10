@@ -100,6 +100,8 @@ page_sections:
       mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: bildteaser
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
