@@ -29,6 +29,8 @@ page_sections:
       die Idee von StyleIdentity: Individuelle, CI-konforme Geschäftskleidung ohne
       Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION,
       KREATION - PERFEKTION.</strong></p>"
+    textfarbe_content:
+      farbe: graphite:#404040
   - template: themenabschnitt
     type: ta
     titel: "<p>Style Identity</p>"
