@@ -316,7 +316,7 @@ page_sections:
       farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
-    farbe: nautique:#1D2642
+    farbe: malachit:#393B1B
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
     text: <p>&nbsp;</p><h3>"DER BESTE."</h3><p>BERND BÖKENKRÜGER - GESCHÄFTSFÜHRER
