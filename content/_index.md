@@ -180,6 +180,8 @@ page_sections:
       bequem in Ihren Räumlichkeiten, Bekleidungs-Knigge, Personal Shopping.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
