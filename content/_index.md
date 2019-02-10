@@ -332,7 +332,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
-      farbe: charbon:#656565
+      farbe: esche:#A7A7A7
   menue: true
   farbe_menu:
     farbe: malachit:#393B1B
