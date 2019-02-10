@@ -325,6 +325,8 @@ page_sections:
       UND INHABERIN DER TUSKET MESSERMANUFAKTUR, 2013</p>
     textfarbe_titel_und_content:
       farbe: ecru:#DDD8CE
+    textfarbe_content:
+      farbe: ecru:#DDD8CE
   menue: true
   farbe_menu:
     farbe: malachit:#393B1B
