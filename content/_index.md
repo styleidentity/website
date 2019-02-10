@@ -184,9 +184,9 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: "<p><em>BMW Welt · Gross+Fuchs - Group · Oldorid Kunststoffe GmbH · Käfer
-      Gut Kaltenbrunn GmbH · shoepassion.com · Juwelier Hilscher · Allergika GmbH
-      · Tusket Messermanufaktur · Constantin Film Produktion GmbH</em></p>"
+    text: "<p>BMW Welt · Gross+Fuchs - Group · Oldorid Kunststoffe GmbH · Käfer Gut
+      Kaltenbrunn GmbH · shoepassion.com · Juwelier Hilscher · Allergika GmbH · Tusket
+      Messermanufaktur · Constantin Film Produktion GmbH</p>"
     textfarbe_content:
       farbe: weiss:#ffffff
   - template: themenabschnitt
@@ -197,8 +197,10 @@ page_sections:
     titel: "<p>Partner</p>"
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
-    text: "<p><em>b-coding UG &amp; Co. KG · elvira.beck | design · ProService GmbH
-      Greif Trachten · GMUND Papier · fabrik 3</em></p>"
+    text: "<p>b-coding UG &amp; Co. KG · elvira.beck | design · ProService GmbH Greif
+      Trachten · GMUND Papier · fabrik 3</p>"
+    textfarbe_content:
+      farbe: weiss:#ffffff
   menue: true
   farbe_menu:
     farbe: graphite:#404040
