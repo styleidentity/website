@@ -281,6 +281,10 @@ page_sections:
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
       stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
       Partner für den gesamten Prozess von der Idee bis zur fertigen Kleidung.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: bildteaser
     type: bt
     bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
