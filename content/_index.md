@@ -54,6 +54,8 @@ page_sections:
       Hauses. Um zwischen uniformen Kleidungsstilen und businesskonformer, CI-Basierter
       Mitarbeiterbekleidung zu differenzieren, kreierten wir für letztere den Terminus
       <br><strong>STYLE IDENTITY</strong></p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
