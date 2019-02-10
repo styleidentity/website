@@ -31,6 +31,8 @@ page_sections:
       KREATION - PERFEKTION.</strong></p>"
     textfarbe_content:
       farbe: charbon:#656565
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
     titel: "<p>Style Identity</p>"
