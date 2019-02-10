@@ -418,6 +418,8 @@ page_sections:
       von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
