@@ -323,7 +323,10 @@ page_sections:
       der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>„SERIÖS, KREATIV UND
       HOCHKOMPETENT.“</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group (2014)</p><p>&nbsp;</p><h3>"DANKE
       FÜR DIESEN GELUNGENEN WORKSHOP!"</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience,
-      BMW Group (2015)</p>
+      BMW Group (2015)</p><p>&nbsp;</p><h3>"OHNE HERRN GOSS HÄTTEN WIR VERMUTLICH
+      DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH WIEDERHOLT. ER IST EINFACH »THE
+      MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin, Constantin Film Produktion
+      GmbH (2018)</p>
     textfarbe_titel_und_content:
       farbe: ecru:#DDD8CE
     textfarbe_content:
