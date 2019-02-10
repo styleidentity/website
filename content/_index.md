@@ -136,7 +136,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
-      farbe: nautique:#1D2642
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
