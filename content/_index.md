@@ -30,7 +30,7 @@ page_sections:
       Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION,
       KREATION - PERFEKTION.</strong></p>"
     textfarbe_content:
-      farbe: graphite:#404040
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     titel: "<p>Style Identity</p>"
