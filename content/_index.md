@@ -376,6 +376,8 @@ page_sections:
       gemäß §27 a UStG: 139/221/70139<br>USt-IdNr.: DE 320 294 303 <br>Amtsgericht
       Miesbach</p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor
       einer Verbraucherschlichtungsstelle teil.</p>'
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
     titel: "<p>Haftungsausschluss</p>"
