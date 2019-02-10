@@ -416,6 +416,8 @@ page_sections:
       Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
       aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden
       von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
