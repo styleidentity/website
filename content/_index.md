@@ -319,11 +319,11 @@ page_sections:
     farbe: malachit:#393B1B
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p>&nbsp;</p><h3>"DER BESTE."</h3><p>Bernd Bökenkrüger - Geschäftsführer
-      der Oldorid Kunststoffe GmbH</p><p>&nbsp;</p><h3>„SERIÖS, KREATIV UND HOCHKOMPETENT.“</h3><p>VIKTOR
-      FUCHS<br>CoO der GROSS+FUCHS-Group, 2014</p><p>&nbsp;</p><h3>"DANKE FÜR DIESEN
-      GELUNGENEN WORKSHOP!"</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group
-      (2015)</p>
+    text: <p>&nbsp;</p><h3>"DER BESTE."</h3><p>BERND BÖKENKRÜGER<br>Geschäftsführer
+      der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>„SERIÖS, KREATIV UND
+      HOCHKOMPETENT.“</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group (2014)</p><p>&nbsp;</p><h3>"DANKE
+      FÜR DIESEN GELUNGENEN WORKSHOP!"</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience,
+      BMW Group (2015)</p>
     textfarbe_titel_und_content:
       farbe: ecru:#DDD8CE
     textfarbe_content:
