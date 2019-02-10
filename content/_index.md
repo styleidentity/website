@@ -378,6 +378,8 @@ page_sections:
       einer Verbraucherschlichtungsstelle teil.</p>'
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
     titel: "<p>Haftungsausschluss</p>"
