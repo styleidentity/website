@@ -310,6 +310,10 @@ page_sections:
       sind wir so in der Lage, jederzeit flexibel auf Ihre Anforderungen zu reagieren
       und einen optimalen Personaleinsatz für Ihren Auftrag bereitzustellen. Dies
       garantiert bestmögliche Effizienz und ergebnisorientierte Ausführung Ihres Auftrags.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     farbe: malachit:#393B1B
