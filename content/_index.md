@@ -265,6 +265,8 @@ page_sections:
       die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.
       Stoffqualitäten mit Öko-Siegel, Fertigung in deutschen und nahen EU-Produktionsbetrieben,
       individuelle Designs und Schnitte auf Ihre Bedürfnisse abgestimmt.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
