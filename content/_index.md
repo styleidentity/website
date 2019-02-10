@@ -56,6 +56,8 @@ page_sections:
       <br><strong>STYLE IDENTITY</strong></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
