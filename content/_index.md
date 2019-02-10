@@ -223,7 +223,7 @@ page_sections:
       Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion
       GmbH</p>"
     textfarbe_content:
-      farbe: weiss:#ffffff
+      farbe: ecru:#DDD8CE
   - template: themenabschnitt
     type: ta
     farbe: graphite:#404040
