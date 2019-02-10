@@ -166,6 +166,10 @@ page_sections:
     text: "<p>Unsere Kostümbildner und Stilcoaches sind ausgewiesene Experten als
       Berater im Vorfeld einer Produktion und stehen als Kostümverantwortliche und
       Garderobieren während der Aufnahmen am Set und im Back-Office zur Verfügung.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
