@@ -148,6 +148,10 @@ page_sections:
       im Privaten wie im Geschäftsleben. Einzig und allein nach Regeln des guten Geschmacks.</p><p>Zu
       zeigen, wie Sie diesen schmalen Grat finden und stilsicher beschreiten, liegt
       uns ganz besonders am Herzen.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: bildteaser
     type: bt
     text: "<p>TRACHT IST IN WIRKLICHKEIT NUR EIN KONSTRUKT, EINE IDEE.</p><p>VIELE
