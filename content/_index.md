@@ -326,8 +326,8 @@ page_sections:
       REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"OHNE
       HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
       WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
-      Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"HERR GOSS IST UNSERE
-      PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE UND XXX BERATUNG ON UND OFF SET."</h3><p>KATJA
+      Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"MARKUS GOSS IST
+      UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE UND XXX BERATUNG ON UND OFF SET."</h3><p>KATJA
       KRANNICH<br>Kostümbildnerin, Constantin Film Produktion GmbH (2018)</p>
     textfarbe_titel_und_content:
       farbe: ecru:#DDD8CE
