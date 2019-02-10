@@ -82,6 +82,10 @@ page_sections:
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
       und dem Design der Office-Wear bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem
       Passformcheck sind wir an Ihrer Seite.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
