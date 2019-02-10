@@ -326,7 +326,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: ecru:#DDD8CE
     textfarbe_content:
-      farbe: mokka:#766446
+      farbe: graphite:#404040
   menue: true
   farbe_menu:
     farbe: malachit:#393B1B
