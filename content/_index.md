@@ -202,7 +202,7 @@ page_sections:
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
     text: "<p>b-coding UG &amp; Co. KG     ·     elvira.beck | design     ·     ProService
-      GmbH Greif Trachten     ·     GMUND Papier     ·     fabrik 3</p>"
+      GmbH     ·     Greif Trachten     ·     GMUND Papier     ·     fabrik 3</p>"
     textfarbe_content:
       farbe: weiss:#ffffff
   menue: true
