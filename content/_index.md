@@ -237,7 +237,7 @@ page_sections:
       &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; GMUND Papier &nbsp; &nbsp;
       · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp; &nbsp; gössl GmbH</p>"
     textfarbe_content:
-      farbe: weiss:#ffffff
+      farbe: pietra:#E8E8E8
   menue: true
   farbe_menu:
     farbe: graphite:#404040
