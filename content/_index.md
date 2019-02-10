@@ -367,7 +367,7 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Impressum</p>"
-    untertitel: "<p>Angaben gemäß §5 TMG</p>"
+    untertitel: "<p>Angaben gemäss §5 TMG</p>"
     farbe: creme:#fffaf5
     text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung &amp;
       Vermittlung <br>Grub <br>Dorfstraße 12a <br>D-83626 Valley</p><p>Inhaber: Markus
