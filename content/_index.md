@@ -119,6 +119,10 @@ page_sections:
       die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
       in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
       beauftragen.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
   - template: themenabschnitt
     type: ta
     titel: "<p>Design</p>"
