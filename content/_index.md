@@ -348,6 +348,8 @@ page_sections:
       gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
       Nachricht eine Rückmeldung von uns.</p>
     farbe: creme:#fffaf5
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   menue: true
   farbe_menu:
     farbe: siena:#8F0000
