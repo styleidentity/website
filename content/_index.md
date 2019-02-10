@@ -219,9 +219,9 @@ page_sections:
     text: "<p>BMW Welt &nbsp; &nbsp; · &nbsp; &nbsp; Gross+Fuchs-Group &nbsp; &nbsp;
       · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Käfer
       Gut Kaltenbrunn GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp;
-      · &nbsp; &nbsp; Juwelier Hilscher · Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp;
-      Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion
-      GmbH</p>"
+      · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH
+      &nbsp; &nbsp; · &nbsp; &nbsp; Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp;
+      &nbsp; Constantin Film Produktion GmbH</p>"
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
