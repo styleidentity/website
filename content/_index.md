@@ -319,10 +319,10 @@ page_sections:
     farbe: malachit:#393B1B
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p>&nbsp;</p><h3>"DER BESTE."</h3><p>BERND BÖKENKRÜGER<br>Geschäftsführer
-      der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>„SERIÖS, KREATIV UND
-      HOCHKOMPETENT.“</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group (2014)</p><p>&nbsp;</p><h3>"EIN
-      RIESENGROßES »DANKE« FÜR DIESEN GELUNGENEN WORKSHOP AN DAS GESAMTE TEAM VON
+    text: <p>&nbsp;</p><h3>"DER BESTE!"</h3><p>BERND BÖKENKRÜGER<br>Geschäftsführer
+      der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>"SERIÖS, KREATIV UND
+      HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group (2014)</p><p>&nbsp;</p><h3>"EIN
+      RIESENGROSSES »DANKE« FÜR DIESEN GELUNGENEN WORKSHOP AN DAS GESAMTE TEAM VON
       STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"OHNE
       HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
       WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
