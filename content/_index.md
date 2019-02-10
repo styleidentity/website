@@ -98,6 +98,8 @@ page_sections:
       Corporate Office Wear - zum Beispiel innerhalb von Change-Management Prozessen
       - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
       mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   - template: bildteaser
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
