@@ -13,7 +13,7 @@ page_sections:
       farbe: weiss:#ffffff
     teaser: "<p>IHRE MITARBEITER SIND<br>IHR GRÖSSTES KAPITAL?</p><p>WIR KLEIDEN SIE
       EIN.</p>"
-    hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
+    hintergrundbild: "/uploads/2018/11/02/slice_1.jpg"
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
