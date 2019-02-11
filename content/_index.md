@@ -23,8 +23,8 @@ page_sections:
       sofort an die Uniformen von Piloten, Köchen, Postangestellten. Und damit verbunden
       der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
       unbemerkt längst zum Standard avanciert. <br>Der dunkle Business-Anzug beim
-      Herrn, der das globale Erscheinungsbild dominiert, ist ist oftmals unästhetisch
-      und dennoch State of the Art. Ähnliches gilt auch für die Businesskleidung
+      Herrn, der das globale Erscheinungsbild dominiert, ist nur allzu oft unästhetisch
+      und dennoch State of the Art. Dies betrifft zu unserem Leidwesen auch die Businesskleidung
       der Damen.</p><p>Auf unseren Geschäftsreisen rund um die Welt des immer gleichen
       Anblicks überdrüssig, entstand die Idee von StyleIdentity: Individuelle, CI-konforme
       Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
