@@ -46,14 +46,12 @@ page_sections:
       sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
       &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;für die Office-Bereiche: Businesskleidung
-      in perfekter Abstimmung mit Ihrer Corporate Identity. Die  Mitarbeiterinnen
-      und Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die
-      Visitenkarte gereicht wird - schlechtin die Maßnahme zur Steigerung des Wiedererkennungswertes.</p><p>Dabei
-      soll eine Unternehmensbekleidung die Funktion einer gemeinsamen Identität erfüllen,
-      jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg zu finden
-      ist die Kunst - und die Domäne unseres Hauses. Um zwischen uniformen Kleidungsstilen
-      und businesskonformer, CI-Basierter Mitarbeiterbekleidung zu differenzieren,
-      kreierten wir für letztere den Terminus <br><strong>STYLE IDENTITY</strong></p>"
+      in perfekter Abstimmung mit Ihrer Corporate Identity. Die Mitarbeiterinnen und
+      Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die Visitenkarte
+      gereicht wird - schlechtin die Maßnahme zur Steigerung des Wiedererkennungswertes.</p><p>Unternehmensbekleidung
+      soll die Funktion einer gemeinsamen Identität erfüllen, jedoch keineswegs Uniform
+      sein. Hier exakt den goldenen Mittelweg zu finden ist die Kunst - und die Domäne
+      unseres Hauses.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
