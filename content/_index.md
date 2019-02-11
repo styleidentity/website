@@ -104,8 +104,8 @@ page_sections:
       farbe: charbon:#656565
   - template: bildteaser
     type: bt
-    text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>EIN IN IHREM SINNE
-      GEKLEIDETER MITARBEITER.</p>"
+    text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>NACH IHRER CI GEKLEIDETE
+      MITARBEITERINNEN UND MITARBEITER.</p>"
     bild: "/uploads/2019/01/21/Scabal_Leistungen_C3.jpg"
   - template: themenabschnitt
     type: ta
