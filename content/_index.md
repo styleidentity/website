@@ -46,8 +46,8 @@ page_sections:
       sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
       <strong>STYLE IDENTITY</strong> für die Office-Bereiche: Businesskleidung in
-      perfekter Abstimmung mit Ihrer Corporate Identity. Einen Mitarbeiter, eine Mitarbeiterin
-      als Botschafter Ihres Unternehmens zu erkennen, noch bevor die Visitenkarte
+      perfekter Abstimmung mit Ihrer Corporate Identity. Die  Mitarbeiterinnen und
+      Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die Visitenkarte
       gereicht wird - schlechtin die Maßnahme zur Steigerung des Wiedererkennungswertes.</p><p>Dabei
       soll eine Unternehmensbekleidung die Funktion einer gemeinsamen Identität erfüllen,
       jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg zu finden
