@@ -374,7 +374,7 @@ page_sections:
     textfarbe:
       farbe: graphite:#404040
     hintergrundbild: "/uploads/2018/11/02/slice_5.jpg"
-    teaser: "<p>Impressum, Haftungsausschluss, Datenschutz.</p>"
+    teaser: "<p>Impressum,</p><p>Haftungsausschluss,</p><p>Datenschutz.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Impressum</p>"
