@@ -27,8 +27,8 @@ page_sections:
       Herrn, der das globale Erscheinungsbild dominiert, ist nur allzu oft unästhetisch
       und dennoch State of the Art. Dies betrifft die Businesskleidung der Damen ebenso.</p><p>Auf
       unseren Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig,
-      entstand die Idee von <strong>STYLE IDENTITY</strong>: Individuelle, CI konforme
-      Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
+      entstand die Idee von &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;- Individuelle,
+      CI konforme Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
       KONZEPTION, KREATION - PERFEKTION.</strong></p>"
     textfarbe_content:
       farbe: charbon:#656565
