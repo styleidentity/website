@@ -358,7 +358,7 @@ page_sections:
       Ihnen unter <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
       gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
       Nachricht eine Rückmeldung von uns.</p>
-    farbe: creme:#fffaf5
+    farbe: siena:#8F0000
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
