@@ -249,7 +249,7 @@ page_sections:
     textfarbe:
       farbe: weiss:#ffffff
     teaser: "<p>Wer wir sind,</p><p>wofür wir stehen.</p>"
-    hintergrundbild: "/uploads/2018/11/02/website_1.jpg"
+    hintergrundbild: "/uploads/2018/11/02/slice_3.jpg"
   - template: themenabschnitt
     type: ta
     titel: "<p>Unser Antrieb</p>"
