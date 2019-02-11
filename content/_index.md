@@ -323,7 +323,10 @@ page_sections:
       der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>"SERIÖS, KREATIV UND
       HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group (2014)</p><p>&nbsp;</p><h3>"EIN
       RIESENGROSSES »DANKE« FÜR DIESEN GELUNGENEN WORKSHOP AN DAS GESAMTE TEAM VON
-      STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"OHNE
+      STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;&nbsp;</p><h3>"WIR
+      FÜHLTEN UNS MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES
+      VORHABENS BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
+      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p><p>&nbsp;</p><h3>"OHNE
       HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
       WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
       Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"MARKUS GOSS IST
