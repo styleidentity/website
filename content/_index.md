@@ -22,14 +22,13 @@ page_sections:
     text: "<p>Fällt das Wort »Konformität« im Zusammenhang mit Kleidung, denken wir
       sofort an die Uniformen von Piloten, Köchen, Postangestellten. Und damit verbunden
       der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
-      unbemerkt längst zum Standard avanciert. <br>Unternehmensbekleidung soll die
-      Funktion einer gemeinsamen Identität erfüllen, jedoch keineswegs Uniform sein.
-      Der dunkle Business-Anzug beim Herrn, der das globale Erscheinungsbild dominiert,
-      ist nur selten gut und dennoch State of the Art. Ähnliches gilt auch für die
-      Businesskleidung der Damen.</p><p>Auf unseren Geschäftsreisen rund um die Welt
-      des immer gleichen Anblicks überdrüssig, entstand die Idee von StyleIdentity:
-      Individuelle, CI-konforme Geschäftskleidung ohne Uniformcharakter. Ganz nach
-      unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION, KREATION - PERFEKTION.</strong></p>"
+      unbemerkt längst zum Standard avanciert. <br>Der dunkle Business-Anzug beim
+      Herrn, der das globale Erscheinungsbild dominiert, ist nur selten gut und dennoch
+      State of the Art. Ähnliches gilt auch für die Businesskleidung der Damen.</p><p>Auf
+      unseren Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig,
+      entstand die Idee von StyleIdentity: Individuelle, CI-konforme Geschäftskleidung
+      ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION,
+      KREATION - PERFEKTION.</strong></p>"
     textfarbe_content:
       farbe: charbon:#656565
     textfarbe_titel_und_content:
