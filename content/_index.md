@@ -435,7 +435,7 @@ page_sections:
     type: ta
     titel: "<p>Datenschutz</p>"
     farbe: creme:#fffaf5
-    text: "<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz
+    text: '<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz
       hat einen besonders hohen Stellenwert für die Geschäftsleitung der Goss - Beratung
       &amp; Vermittlung. Eine Nutzung der Internetseiten der Goss - Beratung &amp;
       Vermittlung ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich.
@@ -528,7 +528,8 @@ page_sections:
       sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze
       und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:</p><p>Goss
       - Beratung &amp; Vermittlung, Dorfstraße 12a, 83626 Valley, Deutschland</p><p>Tel.:
-      +49 (0)8095 358 387-0, E-Mail: post@styleidentity.de, Website: www.styleidentity.de</p><p>3.
+      +49 (0)8095 358 387-0, E-Mail: <a href="MAILTO:post@styleidentity.de" title="post@styleidentity.de">post@styleidentity.de</a>,
+      Website: <a href="http://www.styleidentity.de" title="www.styleidentity.de">www.styleidentity.de</a></p><p>3.
       Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwenden
       Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem
       Computersystem abgelegt und gespeichert werden.</p><p>Zahlreiche Internetseiten
@@ -843,7 +844,7 @@ page_sections:
       Profiling.</p><p>Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator
       von den Bremen externer Datenschutzbeauftragter in Kooperation mit der RC GmbH,
       die gebrauchte Notebooks wiederverwertet und den Filesharing Rechtsanwälten
-      von WBS-LAW erstellt.</p>"
+      von WBS-LAW erstellt.</p>'
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
