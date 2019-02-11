@@ -360,7 +360,7 @@ page_sections:
       Nachricht eine Rückmeldung von uns.</p>
     farbe: siena:#8F0000
     textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
+      farbe: grano:#EEE3CE
     textfarbe_content:
       farbe: charbon:#656565
   menue: true
