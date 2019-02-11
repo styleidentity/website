@@ -362,7 +362,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: grano:#EEE3CE
     textfarbe_content:
-      farbe: charbon:#656565
+      farbe: grano:#EEE3CE
   menue: true
   farbe_menu:
     farbe: siena:#8F0000
