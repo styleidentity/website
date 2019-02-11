@@ -127,7 +127,8 @@ page_sections:
     type: ta
     titel: "<p>Design</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>INDIVIDUELLE GESCHÄFTSKLEIDUNG:<br>EIN STATEMENT (FÜR XXX)</p>"
+    untertitel: "<p>INDIVIDUELLE GESCHÄFTSKLEIDUNG:<br>EIN STATEMENT FÜR DEN STIL
+      IHRES HAUSES</p>"
     text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
       und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
       Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
