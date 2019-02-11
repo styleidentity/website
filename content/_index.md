@@ -25,11 +25,11 @@ page_sections:
       der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
       unbemerkt längst zum Standard avanciert. <br>Der dunkle Business-Anzug beim
       Herrn, der das globale Erscheinungsbild dominiert, ist nur allzu oft unästhetisch
-      und dennoch State of the Art. Dies betrifft zu unserem Leidwesen auch die Businesskleidung
-      der Damen.</p><p>Auf unseren Geschäftsreisen rund um die Welt des immer gleichen
-      Anblicks überdrüssig, entstand die Idee von <strong>STYLE IDENTITY</strong>:
-      Individuelle, CI konforme Geschäftskleidung ohne Uniformcharakter. Ganz nach
-      unserem Leitsatz:<br><strong>INSPIRATION, KONZEPTION, KREATION - PERFEKTION.</strong></p>"
+      und dennoch State of the Art. Dies betrifft die Businesskleidung der Damen ebenso.</p><p>Auf
+      unseren Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig,
+      entstand die Idee von <strong>STYLE IDENTITY</strong>: Individuelle, CI konforme
+      Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
+      KONZEPTION, KREATION - PERFEKTION.</strong></p>"
     textfarbe_content:
       farbe: charbon:#656565
     textfarbe_titel_und_content:
