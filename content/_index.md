@@ -69,6 +69,22 @@ page_sections:
     teaser: "<p>UNIFORM ODER CI-KONFORM? </p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
   - template: themenabschnitt
     type: ta
+    titel: "<p>CONSULTING</p>"
+    untertitel: "<p>ERWEITERUNG IHRER <br>CORPORATE IDENTITY</p>"
+    farbe: creme:#fffaf5
+    text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
+      Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
+      von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
+      Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
+      Corporate Office Wear - zum Beispiel innerhalb von Change-Management Prozessen
+      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
+      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
+  - template: themenabschnitt
+    type: ta
     titel: "<p>CORPORATE BUSINESS-WEAR</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>ENTWICKLUNG CI KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
@@ -82,22 +98,6 @@ page_sections:
       über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
       und dem Design der Office-Wear bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem
       Passformcheck sind wir an Ihrer Seite.</p>"
-    textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
-    textfarbe_content:
-      farbe: charbon:#656565
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>CONSULTING</p>"
-    untertitel: "<p>ERWEITERUNG IHRER <br>CORPORATE IDENTITY</p>"
-    farbe: creme:#fffaf5
-    text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
-      Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
-      von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
-      Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
-      Corporate Office Wear - zum Beispiel innerhalb von Change-Management Prozessen
-      - mit Ihrer Organisationsentwicklung und die Umsetzung von Inhouse-Kommunikationsprozessen
-      mit Ihren Marketing- und PR-Entscheidern sind unsere Kernkompetenzen.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
