@@ -235,7 +235,7 @@ page_sections:
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
     text: "<p>b-coding UG &amp; Co. KG &nbsp; &nbsp; · &nbsp; &nbsp; elvira.beck |
       design &nbsp; &nbsp; · &nbsp; &nbsp; ProService GmbH &nbsp; &nbsp; · &nbsp;
-      &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; GMUND Papier &nbsp; &nbsp;
+      &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; GMUND Papier  &nbsp; &nbsp;
       · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp; &nbsp; gössl GmbH &nbsp; &nbsp;
       · &nbsp; &nbsp; IRYNA NATALICHEVA</p>"
     textfarbe_content:
