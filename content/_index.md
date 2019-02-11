@@ -287,9 +287,6 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
-  - template: bildteaser
-    type: bt
-    bild: "/uploads/2019/02/11/markus_goss_portrait.jpg"
   - template: themenabschnitt
     type: ta
     titel: "<p>Markus Goss</p>"
@@ -301,6 +298,9 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+  - template: bildteaser
+    type: bt
+    bild: "/uploads/2019/02/11/markus_goss_portrait.jpg"
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
