@@ -71,7 +71,7 @@ page_sections:
     type: ta
     titel: "<p>CORPORATE BUSINESS-WEAR</p>"
     farbe: creme:#fffaf5
-    untertitel: "<p>ENTWICKLUNG CI-KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
+    untertitel: "<p>ENTWICKLUNG CI KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
     text: "<p>Unternehmensbekleidung soll die Funktion einer gemeinsamen Identität
       erfüllen, jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg
       zu finden ist die Kunst.<br>Corporate Style Guiding ist das maßgeschneiderte
