@@ -132,8 +132,8 @@ page_sections:
     text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
       und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
       Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
-      eröffnet StyleIdentity diesen Service auch Unternehmen für deren Arbeits- und
-      Geschäftskleidung.</p>"
+      eröffnet &nbsp;<strong>Style Identity</strong> &nbsp;diesen Service auch Unternehmen
+      für deren Arbeits- und Geschäftskleidung.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
