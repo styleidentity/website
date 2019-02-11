@@ -46,8 +46,8 @@ page_sections:
       vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
       sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
-      <strong>STYLE IDENTITY</strong> für die Office-Bereiche: Businesskleidung in
-      perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
+      &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;für die Office-Bereiche: Businesskleidung
+      in perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
       und Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die
       Visitenkarte überreicht wird - können Sie sich kreativere Formen zur Steigerung
       Ihres Wiedererkennungswertes vorstellen?</p>"
