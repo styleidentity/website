@@ -287,7 +287,7 @@ page_sections:
       farbe: charbon:#656565
   - template: bildteaser
     type: bt
-    bild: "/uploads/2018/11/02/markus_goss_1_preview.jpg"
+    bild: "/uploads/2019/02/11/markus_goss_portrait.jpg"
   - template: themenabschnitt
     type: ta
     titel: "<p>Markus Goss</p>"
