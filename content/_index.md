@@ -18,7 +18,7 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>Idee und Leitgedanke</p>"
-    untertitel: "<p>Ihre Mitarbeiter/-innen - <br>Die beste Visitenkarte Ihres Unternehmens?</p>"
+    untertitel: "<p>Ihre Mitarbeiter/-innen - <br>Aushängeschild Ihres Unternehmens.</p>"
     text: "<p>Fällt das Wort »Konformität« im Zusammenhang mit Kleidung, denken wir
       sofort an die Uniformen von Piloten, Köchen, Postangestellten. Und damit verbunden
       der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
