@@ -236,7 +236,8 @@ page_sections:
     text: "<p>b-coding UG &amp; Co. KG &nbsp; &nbsp; · &nbsp; &nbsp; elvira.beck |
       design &nbsp; &nbsp; · &nbsp; &nbsp; ProService GmbH &nbsp; &nbsp; · &nbsp;
       &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; GMUND Papier &nbsp; &nbsp;
-      · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp; &nbsp; gössl GmbH</p>"
+      · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp; &nbsp; gössl GmbH &nbsp; &nbsp;
+      · &nbsp; &nbsp; Iryna Natalicheva</p>"
     textfarbe_content:
       farbe: pietra:#E8E8E8
   menue: true
