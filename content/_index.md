@@ -535,8 +535,8 @@ page_sections:
       +49 (0)8095 358 387-0, E-Mail: <a href="MAILTO:post@styleidentity.de" title="post@styleidentity.de">post@styleidentity.de</a>,
       Website: <a href="http://www.styleidentity.de" title="www.styleidentity.de">www.styleidentity.de</a></p><p>3.
       Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwenden
-      Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem
-      Computersystem abgelegt und gespeichert werden.</p><p>Zahlreiche Internetseiten
+      keine Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf
+      einem Computersystem abgelegt und gespeichert werden.</p><p>Zahlreiche Internetseiten
       und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID.
       Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer
       Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser
