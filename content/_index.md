@@ -338,7 +338,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     textfarbe_content:
-      farbe: charbon:#656565
+      farbe: graphite:#404040
   menue: true
   farbe_menu:
     farbe: malachit:#393B1B
