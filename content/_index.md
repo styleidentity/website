@@ -333,8 +333,8 @@ page_sections:
       HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
       WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
       Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"MARKUS GOSS IST
-      UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE BERATUNG IM BACKOFFICE UND AM SET."</h3><p>KATJA
-      KRANNICH<br>Kostümbildnerin, Constantin Film Produktion GmbH (2018)</p>
+      UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE BERATUNG IM BACKOFFICE UND AM SET."</h3><p>ROLAND
+      SUSO RICHTER<br>Regisseur (2019)</p>
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
