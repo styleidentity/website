@@ -853,6 +853,8 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+  farbe_menu:
+    farbe: esche:#A7A7A7
 startgrafik: "/uploads/2018/11/02/startbild.jpg"
 startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
 footer:
