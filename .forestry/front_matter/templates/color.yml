@@ -16,11 +16,11 @@ fields:
     - esche:#A7A7A7
     - charbon:#656565
     - graphite:#404040
-    - siena:#8F0000
     - grege:#AA998
     - mokka:#766446
     - nautique:#1D2642
     - creme:#fffaf5
     - malachit:#393B1B
+    - siena:#5C1414
   label: Farbe
   name: farbe
