@@ -374,7 +374,7 @@ page_sections:
   sub_sections:
   - template: themenheader
     farbe:
-      farbe: graphite:#404040
+      farbe: charbon:#656565
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_5.jpg"
