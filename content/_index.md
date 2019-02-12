@@ -336,7 +336,7 @@ page_sections:
       UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE BERATUNG IM BACKOFFICE UND AM SET."</h3><p>KATJA
       KRANNICH<br>Kostümbildnerin, Constantin Film Produktion GmbH (2018)</p>
     textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
+      farbe: weiss:#ffffff
     textfarbe_content:
       farbe: charbon:#656565
   menue: true
