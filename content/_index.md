@@ -345,7 +345,7 @@ page_sections:
   sub_sections:
   - template: themenheader
     farbe:
-      farbe: siena:#8F0000
+      farbe: siena:#5C1414
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_4.jpg"
