@@ -200,7 +200,6 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
-    inaktiv: true
   menue: true
   farbe_menu:
     farbe: mokka:#766446
@@ -366,7 +365,7 @@ page_sections:
       farbe: grano:#EEE3CE
   menue: true
   farbe_menu:
-    farbe: siena:#8F0000
+    farbe: esche:#A7A7A7
 - name: Gesetzliche Angaben
   sub_sections:
   - template: themenheader
@@ -531,8 +530,37 @@ page_sections:
       - Beratung &amp; Vermittlung, Dorfstraße 12a, 83626 Valley, Deutschland</p><p>Tel.:
       +49 (0)8095 358 387-0, E-Mail: <a href="MAILTO:post@styleidentity.de" title="post@styleidentity.de">post@styleidentity.de</a>,
       Website: <a href="http://www.styleidentity.de" title="www.styleidentity.de">www.styleidentity.de</a></p><p>3.
-      Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwendet
-      keine Cookies.</p><p>4. Erfassung von allgemeinen Daten und Informationen</p><p>Die
+      Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwenden
+      Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem
+      Computersystem abgelegt und gespeichert werden.</p><p>Zahlreiche Internetseiten
+      und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID.
+      Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer
+      Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser
+      zugeordnet werden können, in dem das Cookie gespeichert wurde. Dies ermöglicht
+      es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen
+      Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden.
+      Ein bestimmter Internetbrowser kann über die eindeutige Cookie-ID wiedererkannt
+      und identifiziert werden.</p><p>Durch den Einsatz von Cookies kann die Goss
+      - Beratung &amp; Vermittlung den Nutzern dieser Internetseite nutzerfreundlichere
+      Services bereitstellen, die ohne die Cookie-Setzung nicht möglich wären.</p><p>Mittels
+      eines Cookies können die Informationen und Angebote auf unserer Internetseite
+      im Sinne des Benutzers optimiert werden. Cookies ermöglichen uns, wie bereits
+      erwähnt, die Benutzer unserer Internetseite wiederzuerkennen. Zweck dieser Wiedererkennung
+      ist es, den Nutzern die Verwendung unserer Internetseite zu erleichtern. Der
+      Benutzer einer Internetseite, die Cookies verwendet, muss beispielsweise nicht
+      bei jedem Besuch der Internetseite erneut seine Zugangsdaten eingeben, weil
+      dies von der Internetseite und dem auf dem Computersystem des Benutzers abgelegten
+      Cookie übernommen wird. Ein weiteres Beispiel ist das Cookie eines Warenkorbes
+      im Online-Shop. Der Online-Shop merkt sich die Artikel, die ein Kunde in den
+      virtuellen Warenkorb gelegt hat, über ein Cookie.</p><p>Die betroffene Person
+      kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer
+      entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit
+      der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte
+      Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht
+      werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die
+      betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser,
+      sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich
+      nutzbar.</p><p>4. Erfassung von allgemeinen Daten und Informationen</p><p>Die
       Internetseite der Goss - Beratung &amp; Vermittlung erfasst mit jedem Aufruf
       der Internetseite durch eine betroffene Person oder ein automatisiertes System
       eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten
