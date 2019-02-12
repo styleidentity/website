@@ -376,7 +376,7 @@ page_sections:
     farbe:
       farbe: esche:#A7A7A7
     textfarbe:
-      farbe: graphite:#404040
+      farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_5.jpg"
     teaser: "<p>Impressum,</p><p>Haftungsausschluss,</p><p>Datenschutz.</p>"
   - template: themenabschnitt
