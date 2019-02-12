@@ -365,7 +365,7 @@ page_sections:
       farbe: grano:#EEE3CE
   menue: true
   farbe_menu:
-    farbe: siena:#8F0000
+    farbe: siena:#5C1414
 - name: Gesetzliche Angaben
   sub_sections:
   - template: themenheader
