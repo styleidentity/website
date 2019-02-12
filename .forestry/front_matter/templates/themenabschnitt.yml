@@ -4,6 +4,9 @@ hide_body: false
 is_partial: true
 display_field: titel
 fields:
+- type: boolean
+  name: inaktiv
+  label: inaktiv
 - type: include
   name: hintergrundfarbe
   label: Hintergrundfarbe
