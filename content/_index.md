@@ -356,9 +356,9 @@ page_sections:
     titel: "<p>Anfrage</p>"
     untertitel: "<p>Wir freuen uns auf Ihre Nachricht</p>"
     text: <p>Für detailliertere Informationen, Terminanfragen und weitere Nachrichten
-      dürfen Sie sich gerne direkt an uns wenden.</p><p>Wir stehen Ihnen unter <a
-      href="mailto:post@styleidentity.de"><strong>post@styleidentity.de</strong></a>
-      mit Freude zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang
+      dürfen Sie sich gerne direkt an uns wenden.</p><p>Wir stehen Ihnen unter &nbsp;<a
+      href="mailto:POST@STYLEIDENTITY.DE" title="POST@STYLEIDENTITY.DE"><strong>POST@STYLEIDENTITY.DE</strong></a>
+      &nbsp;mit Freude zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang
       Ihrer Nachricht eine Rückmeldung von uns.</p><p>Hinweis:<br>Nachrichten mit
       personenbezogenen Daten, denen keine weitere Beauftragung folgt, werden spätestens
       sechs Wochen nach Eingang gelöscht.</p>
