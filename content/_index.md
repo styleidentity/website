@@ -200,6 +200,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: true
   menue: true
   farbe_menu:
     farbe: mokka:#766446
