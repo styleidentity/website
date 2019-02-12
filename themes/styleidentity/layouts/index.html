@@ -58,6 +58,7 @@
         {{range $subIdx,$subsection := $section.sub_sections}}
         {{$scolor:=""}}
         {{if eq .template "themenabschnitt"}}
+          {{if .inaktiv}}{{else}}
           {{$scolor = .farbe}}
           {{$stcolor := ""}}
           {{$stcolor := .textfarbe_titel_und_content.farbe}}{{if eq $stcolor nil}}{{$stcolor = ""}}{{end}}
@@ -83,6 +84,7 @@
             </div>
           </div>
           {{$slastcolor = $scolor}}
+          {{end}}
         {{end}}
         {{if eq .template "bildteaser"}}
           <div class="BildTeaser" style="background-image:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,w_2500,f_auto" )}})">
@@ -103,12 +105,14 @@
                 {{range $subIdx,$subsection := $section.sub_sections}}
                 {{$sublink := (printf "ss%s__su%s" (md5 $section.name) (md5 .titel)) |urlize}}
                 {{if eq .template "themenabschnitt"}}
+                {{if .inaktiv}}{{else}}
                 <li>
                   <a id="sublnk-{{$sublink}}" href="#{{$sublink}}">
                     {{plainify .titel}}
                     <div class="deco"></div>
                   </a>
                 </li>
+                {{end}}
                 {{end}}
                 {{end}}
               </ul>
