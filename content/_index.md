@@ -364,9 +364,9 @@ page_sections:
       sechs Wochen nach Eingang gelöscht.</p>
     farbe: creme:#fffaf5
     textfarbe_titel_und_content:
-      farbe: grano:#EEE3CE
+      farbe: nautique:#1D2642
     textfarbe_content:
-      farbe: grano:#EEE3CE
+      farbe: charbon:#656565
   menue: true
   farbe_menu:
     farbe: siena:#5C1414
