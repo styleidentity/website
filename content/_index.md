@@ -362,7 +362,7 @@ page_sections:
       Ihrer Nachricht eine Rückmeldung von uns.</p><p>Hinweis:<br>Nachrichten mit
       personenbezogenen Daten, denen keine weitere Beauftragung folgt, werden spätestens
       sechs Wochen nach Eingang gelöscht.</p>
-    farbe: siena:#5C1414
+    farbe: creme:#fffaf5
     textfarbe_titel_und_content:
       farbe: grano:#EEE3CE
     textfarbe_content:
