@@ -111,7 +111,7 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>PRODUKTION</p>"
-    untertitel: "<p>HERSTELLUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
+    untertitel: "<p>FERTIGUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
     text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
       der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
       Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
