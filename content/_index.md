@@ -218,12 +218,13 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: "<p>BMW Welt &nbsp; &nbsp; · &nbsp; &nbsp; Gross+Fuchs-Group &nbsp; &nbsp;
-      · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Käfer
-      Gut Kaltenbrunn GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp;
-      · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH
-      &nbsp; &nbsp; · &nbsp; &nbsp; Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp;
-      &nbsp; Constantin Film Produktion GmbH</p>"
+    text: <p><a href="https://www.bmw-welt.com/de.html" title="BMW Welt">BMW Welt</a>
+      &nbsp; &nbsp; · &nbsp; &nbsp; Gross+Fuchs-Group &nbsp; &nbsp; · &nbsp; &nbsp;
+      Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Käfer Gut Kaltenbrunn
+      GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp; · &nbsp; &nbsp;
+      Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH &nbsp; &nbsp;
+      · &nbsp; &nbsp; Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp; &nbsp; Constantin
+      Film Produktion GmbH</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
