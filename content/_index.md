@@ -308,7 +308,7 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>Unsere Mitarbeiterinnen und Mitarbeiter</p>"
     text: "<p>Ein Team aus freien Designern, Marketing- und PR-Mitarbeitern mit umfassender
-      und lanjähriger Erfahrung bildet die kreative Basis unseres Know-How in Punkto
+      und langjähriger Erfahrung bildet die kreative Basis unseres Know-hows in Punkto
       Textil-Management und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
       sind wir so in der Lage, jederzeit flexibel auf Ihre Anforderungen zu reagieren
       und einen optimalen Personaleinsatz für Ihren Auftrag bereitzustellen. Dies
