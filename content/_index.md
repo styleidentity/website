@@ -72,7 +72,7 @@ page_sections:
     titel: "<p>CONSULTING</p>"
     untertitel: "<p>ERWEITERUNG IHRER <br>CORPORATE IDENTITY</p>"
     farbe: creme:#fffaf5
-    text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
+    text: "<p>CI-Konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
       Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
       von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
       Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
