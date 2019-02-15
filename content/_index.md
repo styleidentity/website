@@ -66,7 +66,7 @@ page_sections:
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
-    teaser: "<p>UNIFORM ODER CI-KONFORM? </p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
+    teaser: "<p>UNIFORM ODER CI KONFORM?</p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
