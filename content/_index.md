@@ -41,13 +41,13 @@ page_sections:
     untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
       Unternehmens-Identität</p>"
     text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
-      Ein Mitarbieter, der die Identifikation seiner Company gegenüber nicht nur durch
+      Ein Mitarbeiter, der die Identifikation seiner Company gegenüber nicht nur durch
       seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
       vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
       sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
-      &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;für die Office-Bereiche: Businesskleidung
-      in perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
+      <strong>STYLE IDENTITY</strong> für die Office-Bereiche: Businesskleidung in
+      perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
       und Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die
       Visitenkarte überreicht wird - können Sie sich kreativere Formen zur Steigerung
       Ihres Wiedererkennungswertes vorstellen?</p>"
