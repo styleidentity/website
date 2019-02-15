@@ -42,7 +42,7 @@ page_sections:
       Unternehmens-Identität</p>"
     text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
       Ein Mitarbeiter, der die Identifikation seiner Company gegenüber nicht nur durch
-      seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
+      sein Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
       vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
       sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
