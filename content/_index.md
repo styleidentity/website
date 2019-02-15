@@ -39,7 +39,7 @@ page_sections:
     titel: "<p>Style Identity</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
-      Unternehmens-Identität</p>"
+      Unternehmensidentität</p>"
     text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
       Ein Mitarbeiter, der die Identifikation seiner Company gegenüber nicht nur durch
       sein Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
