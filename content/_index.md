@@ -171,6 +171,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: true
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
