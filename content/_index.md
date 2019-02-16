@@ -44,7 +44,7 @@ page_sections:
       Ein Mitarbeiter, der die Identifikation seiner Company gegenüber nicht nur durch
       sein Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
       vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
-      sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
+      sog. Workwear längst selbstverständlich ist - nämlich die optimale Verbindung
       von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
       <strong>STYLE IDENTITY</strong> für die Office-Bereiche: Businesskleidung in
       perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
