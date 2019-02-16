@@ -331,12 +331,7 @@ page_sections:
       STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"WIR
       FÜHLTEN UNS MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES
       VORHABENS BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
-      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p><p>&nbsp;</p><h3>"OHNE
-      HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
-      WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
-      Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"MARKUS GOSS IST
-      UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE BERATUNG IM BACKOFFICE UND AM SET."</h3><p>ROLAND
-      SUSO RICHTER<br>Regisseur (2019)</p>
+      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p>
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
