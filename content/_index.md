@@ -225,7 +225,7 @@ page_sections:
       GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp; · &nbsp; &nbsp;
       Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH &nbsp; &nbsp;
       · &nbsp; &nbsp; Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp; &nbsp; Constantin
-      Film Produktion GmbH</p>
+      Film Produktion GmbH &nbsp; &nbsp; · &nbsp; &nbsp; KiT</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
