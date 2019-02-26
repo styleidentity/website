@@ -115,8 +115,8 @@ page_sections:
     text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
       der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
       Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
-      erfolgt nach höchsten ökolgischen Standards und unter fairsten Bedingungen für
-      die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
+      erfolgt nach höchsten ökologischen Standards und unter fairsten Bedingungen
+      für die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
       in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
       beauftragen.</p>"
     textfarbe_titel_und_content:
