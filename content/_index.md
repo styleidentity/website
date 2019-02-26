@@ -16,26 +16,6 @@ page_sections:
     hintergrundbild: "/uploads/2018/11/02/slice_1.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: creme:#fffaf5
-    titel: "<p>Idee und Leitgedanke</p>"
-    untertitel: "<p>Ihre Mitarbeiterinnen und Mitarbeiter:<br>Aushängeschild Ihres
-      Unternehmens</p>"
-    text: "<p>Fällt das Wort »Konformität« im Zusammenhang mit Kleidung, denken wir
-      sofort an die Uniformen von Piloten, Köchen, Postangestellten. Und damit verbunden
-      der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
-      unbemerkt längst zum Standard avanciert. <br>Der dunkle Business-Anzug beim
-      Herrn, der das globale Erscheinungsbild dominiert, ist nur allzu oft unästhetisch
-      und dennoch State of the Art. Dies betrifft die Businesskleidung der Damen ebenso.</p><p>Auf
-      unseren Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig,
-      entstand die Idee von &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;- Individuelle,
-      CI konforme Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
-      KONZEPTION, KREATION - PERFEKTION.</strong></p>"
-    textfarbe_content:
-      farbe: charbon:#656565
-    textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
-  - template: themenabschnitt
-    type: ta
     titel: "<p>Style Identity</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
@@ -55,6 +35,26 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
+    titel: "<p>Idee und Leitgedanke</p>"
+    untertitel: "<p>Ihre Mitarbeiterinnen und Mitarbeiter:<br>Aushängeschild Ihres
+      Unternehmens</p>"
+    text: "<p>Fällt das Wort »Konformität« im Zusammenhang mit Kleidung, denken wir
+      sofort an die Uniformen von Piloten, Köchen, Postangestellten. Und damit verbunden
+      der Gedanke an Verlust von Individualität. Dabei ist Uniformität im Geschäftsalltag
+      unbemerkt längst zum Standard avanciert. <br>Der dunkle Business-Anzug beim
+      Herrn, der das globale Erscheinungsbild dominiert, ist nur allzu oft unästhetisch
+      und dennoch State of the Art. Dies betrifft die Businesskleidung der Damen ebenso.</p><p>Auf
+      unseren Geschäftsreisen rund um die Welt des immer gleichen Anblicks überdrüssig,
+      entstand die Idee von &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;- Individuelle,
+      CI konforme Geschäftskleidung ohne Uniformcharakter. Ganz nach unserem Leitsatz:<br><strong>INSPIRATION,
+      KONZEPTION, KREATION - PERFEKTION.</strong></p>"
+    textfarbe_content:
+      farbe: charbon:#656565
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
