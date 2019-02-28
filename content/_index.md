@@ -405,7 +405,7 @@ page_sections:
       eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder
       Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben
       hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt
-      der Kenntnis einer konkreten Rechts- verletzung möglich. Bei Bekanntwerden von
+      der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von
       entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p><h3
       class="RichTextEditor__block___2Vs_D">HAFTUNG FÜR LINKS</h3><p>Unser Angebot
       enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss
