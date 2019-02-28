@@ -178,8 +178,8 @@ page_sections:
     titel: "<p>Stilberatung für Privatkunden</p>"
     untertitel: "<p>TYPGERECHTES STYLE-GUIDING<br>FÜR ALLE ANLÄSSE</p>"
     text: "<p>Für jeden Anlass die perfekte Beratung: individuell abgestimmt auf Ihren
-      Typ und Ihre Anforderungen. Der Style-Check mit Farb- und Stilberatung ganz
-      bequem in Ihren Räumlichkeiten, Bekleidungs-Knigge, Personal Shopping.</p><p>&nbsp;</p>"
+      Typ und Ihre Anforderungen. Der Stylecheck mit Farb- und Stilberatung ganz bequem
+      in Ihren Räumlichkeiten, Bekleidungsknigge, Personal Shopping.</p><p></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
