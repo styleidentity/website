@@ -415,8 +415,8 @@ page_sections:
       der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte
       waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
       Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer
-      Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechts- verletzungen
-      werden wir derartige Links umgehend entfernen.</p><h3 class="RichTextEditor__block___2Vs_D">URHEBERRECHT</h3><p>Die
+      Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden
+      wir derartige Links umgehend entfernen.</p><h3 class="RichTextEditor__block___2Vs_D">URHEBERRECHT</h3><p>Die
       durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen
       dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und
       jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der
