@@ -292,9 +292,9 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Markus Goss</p>"
-    untertitel: "<p>Gründer und Style-Professional </p>"
+    untertitel: "<p>Gründer und Style Professional</p>"
     text: "<p>Ihr Ansprechpartner in allen Fragen CI konforme Geschäftskleidung betreffend,
-      Koordination Ihrer Projekte und Entwickler progessiver Ideen für neue Stile.</p>"
+      Koordination Ihrer Projekte und Entwickler progressiver Ideen für neue Stile.</p>"
     farbe: creme:#fffaf5
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
