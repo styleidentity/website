@@ -263,7 +263,7 @@ page_sections:
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
       wir uns mit Hingabe verschrieben haben und leidenschaftlich für unsere Kunden
       umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert zu geben und
-      unser Know-How, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
+      unser Know-how, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
       uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein besonderes Anliegen,
       nachhaltig und fair produzierte Kleidung in Unternehmen zu platzieren - über
       die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.
@@ -283,7 +283,7 @@ page_sections:
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
-      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
+      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full Service
       Partner für den gesamten Prozess von der Idee bis zur fertigen Kleidung.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
