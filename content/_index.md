@@ -16,6 +16,27 @@ page_sections:
     hintergrundbild: "/uploads/2018/11/02/slice_1.jpg"
   - template: themenabschnitt
     type: ta
+    titel: "<p>Style Identity</p>"
+    farbe: creme:#fffaf5
+    untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
+      Unternehmensidentität</p>"
+    text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
+      Ein Mitarbeiter, der die Identifikation seiner Company gegenüber nicht nur durch
+      sein Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
+      vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
+      sog. Workwear längst selbstverständlich ist - nämlich die optimale Verbindung
+      von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
+      <strong>STYLE IDENTITY</strong> für die Office-Bereiche: Businesskleidung in
+      perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
+      und Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die
+      Visitenkarte überreicht wird - können Sie sich kreativere Formen zur Steigerung
+      Ihres Wiedererkennungswertes vorstellen?</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
+  - template: themenabschnitt
+    type: ta
     farbe: creme:#fffaf5
     titel: "<p>Idee und Leitgedanke</p>"
     untertitel: "<p>Ihre Mitarbeiterinnen und Mitarbeiter:<br>Aushängeschild Ihres
@@ -34,27 +55,6 @@ page_sections:
       farbe: charbon:#656565
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
-  - template: themenabschnitt
-    type: ta
-    titel: "<p>Style Identity</p>"
-    farbe: creme:#fffaf5
-    untertitel: "<p>Geschäftskleidung nach Corporate Design: <br>Bestandteil Ihrer
-      Unternehmens-Identität</p>"
-    text: "<p>Für den ersten Eindruck gibt es keine zweite Chance. Oder anders ausgedrückt:
-      Ein Mitarbieter, der die Identifikation seiner Company gegenüber nicht nur durch
-      seinen Ethos ausdrückt, sondern diese sprichwörtlich auf dem Leib trägt, signalisiert
-      vom ersten Augenblick an Verbundenheit und Loyalität.</p><p>Was im Bereich der
-      sog. Work-Wear längst selbstverständlich ist - nämlich die optimale Verbindung
-      von Funktion und optischer Ausgestaltung nach Unternehmensrichtlinien - ist
-      &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;für die Office-Bereiche: Businesskleidung
-      in perfekter Abstimmung mit Ihrer Corporate Identity. <br>Die Mitarbeiterinnen
-      und Mitarbeiter als Botschafter Ihres Unternehmens zu erkennen, noch bevor die
-      Visitenkarte überreicht wird - können Sie sich kreativere Formen zur Steigerung
-      Ihres Wiedererkennungswertes vorstellen?</p>"
-    textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
-    textfarbe_content:
-      farbe: charbon:#656565
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
@@ -66,13 +66,13 @@ page_sections:
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_2.jpg"
-    teaser: "<p>UNIFORM ODER CI-KONFORM? </p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
+    teaser: "<p>UNIFORM ODER CI-KONFORM?</p><p>WIR MACHEN DEN UNTERSCHIED.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>CONSULTING</p>"
     untertitel: "<p>ERWEITERUNG IHRER <br>CORPORATE IDENTITY</p>"
     farbe: creme:#fffaf5
-    text: "<p>CI-konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
+    text: "<p>CI-Konforme Looks unterstreichen die Verbindung Ihrer Mitarbeiter und
       Mitarbeiterinnen mit Ihrem Unterhmen. Entscheidend für das funktionierende Nebeneinander
       von Eigenständigkeit und Identifikation mit dem Unternehmen ist die richtige
       Form der Kommunikation.</p><p>Die gemeinsame Erarbeitung von Strategien zur
@@ -90,14 +90,14 @@ page_sections:
     untertitel: "<p>ENTWICKLUNG CI KONFORMER GESCHÄFTSKLEIDUNG <br>FÜR IHR UNTERNEHMEN</p>"
     text: "<p>Unternehmensbekleidung soll die Funktion einer gemeinsamen Identität
       erfüllen, jedoch keineswegs Uniform sein. Hier exakt den goldenen Mittelweg
-      zu finden ist die Kunst.<br>Corporate Style Guiding von &nbsp;<strong>STYLE
-      IDENTITY</strong> &nbsp;ist das maßgeschneiderte Konzept für Ihr Unternehmen,
-      den CI-Gedanken über die bisherigen Grenzen hinaus zu entwickeln:<br>Ihre ganz
-      eigene, unternehmensspezifische Brand-Fashion. CI konforme Gesschäftskleidung
-      für Board, Key-Accounts, Sales und viele weitere Bereiche.</p><p>Vom Brainstorming
-      über die ersten Ideen und der Konzeptphase über die Erstellung von Guidelines
-      und dem Design der Office-Wear bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem
-      Passformcheck sind wir an Ihrer Seite.</p>"
+      zu finden ist die Kunst.<br>Corporate Style Guiding von <strong>STYLE IDENTITY</strong>
+      ist das maßgeschneiderte Konzept für Ihr Unternehmen, den CI-Gedanken über die
+      bisherigen Grenzen hinaus zu entwickeln:<br>Ihre ganz eigene, unternehmensspezifische
+      Brand-Fashion. CI konforme Geschäftskleidung für Board, Key-Accounts, Sales
+      und viele weitere Bereiche.</p><p>Vom Brainstorming über die ersten Ideen und
+      der Konzeptphase über die Erstellung von Guidelines und dem Design der Office-Wear
+      bis zur Einkleidung Ihrer Mitarbeiter mit abschließendem Passformcheck sind
+      wir an Ihrer Seite.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
@@ -111,12 +111,12 @@ page_sections:
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>PRODUKTION</p>"
-    untertitel: "<p>HERSTELLUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
+    untertitel: "<p>FERTIGUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
     text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
       der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
       Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
-      erfolgt nach höchsten ökolgischen Standards und unter fairsten Bedingungen für
-      die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
+      erfolgt nach höchsten ökologischen Standards und unter fairsten Bedingungen
+      für die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
       in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
       beauftragen.</p>"
     textfarbe_titel_und_content:
@@ -171,14 +171,15 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: true
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
     titel: "<p>Stilberatung für Privatkunden</p>"
     untertitel: "<p>TYPGERECHTES STYLE-GUIDING<br>FÜR ALLE ANLÄSSE</p>"
     text: "<p>Für jeden Anlass die perfekte Beratung: individuell abgestimmt auf Ihren
-      Typ und Ihre Anforderungen. Der Style-Check mit Farb- und Stilberatung ganz
-      bequem in Ihren Räumlichkeiten, Bekleidungs-Knigge, Personal Shopping.</p>"
+      Typ und Ihre Anforderungen. Der Stylecheck mit Farb- und Stilberatung ganz bequem
+      in Ihren Räumlichkeiten, Bekleidungsknigge, Personal Shopping.</p><p></p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
@@ -218,12 +219,12 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: "<p>BMW Welt &nbsp; &nbsp; · &nbsp; &nbsp; Gross+Fuchs-Group &nbsp; &nbsp;
-      · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Käfer
-      Gut Kaltenbrunn GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp;
-      · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH
-      &nbsp; &nbsp; · &nbsp; &nbsp; Tusket Messermanufaktur &nbsp; &nbsp; · &nbsp;
-      &nbsp; Constantin Film Produktion GmbH</p>"
+    text: <p><a href="https://www.bmw-welt.com/de.html" title="BMW Welt">BMW Welt</a>
+      &nbsp; &nbsp; · &nbsp; &nbsp; Gross+Fuchs-Group &nbsp; &nbsp; · &nbsp; &nbsp;
+      Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Käfer Gut Kaltenbrunn
+      GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com &nbsp; &nbsp; · &nbsp; &nbsp;
+      Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH &nbsp; &nbsp;
+      · &nbsp; &nbsp; Constantin Film Produktion GmbH</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
@@ -234,11 +235,11 @@ page_sections:
     titel: "<p>Partner</p>"
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
-    text: "<p>b-coding UG &amp; Co. KG &nbsp; &nbsp; · &nbsp; &nbsp; elvira.beck |
-      design &nbsp; &nbsp; · &nbsp; &nbsp; ProService GmbH &nbsp; &nbsp; · &nbsp;
-      &nbsp; Felbel Consulting &nbsp; &nbsp; · &nbsp; &nbsp; Greif Trachten &nbsp;
-      &nbsp; · &nbsp; &nbsp; GMUND Papier &nbsp; &nbsp; · &nbsp; &nbsp; fabrik 3 &nbsp;
-      &nbsp; · &nbsp; &nbsp; Gössl GmbH &nbsp; &nbsp; · &nbsp; &nbsp; IRYNA NATALICHEVA</p>"
+    text: "<p>ProService GmbH &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co.
+      KG &nbsp; &nbsp; · &nbsp; &nbsp; elvira.beck | design &nbsp; &nbsp; · &nbsp;
+      &nbsp; GMUND Papier &nbsp; &nbsp; · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp;
+      &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; Gössl GmbH &nbsp; &nbsp;
+      · &nbsp; &nbsp; KiT Kostümfundus im Tauwerk</p>"
     textfarbe_content:
       farbe: pietra:#E8E8E8
   menue: true
@@ -262,7 +263,7 @@ page_sections:
       der Unternehmensberatung zu verbinden, betrachten wir als unsere Aufgabe, der
       wir uns mit Hingabe verschrieben haben und leidenschaftlich für unsere Kunden
       umsetzen. Unsere Passion, Bekleidung einen höheren Stellenwert zu geben und
-      unser Know-How, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
+      unser Know-how, Unternehmen effektiv und nachhaltig zu beraten, unterscheidet
       uns maßgeblich von unseren Mitbewerbern.</p><p>Es ist uns ein besonderes Anliegen,
       nachhaltig und fair produzierte Kleidung in Unternehmen zu platzieren - über
       die gesamte Wertschöpfungskette Beratung, Design, Produktion und Transport.
@@ -282,7 +283,7 @@ page_sections:
       integraler Bestandteil Ihres Betriebes agieren und uns in die bestehenden Abläufe
       ohne Reibungsverluste einfügen können. Dabei betrachten wir die Einhaltung innerbetrieblicher
       Regelungen (Compliance) als besonders wichtigen Faktor unserer Tätigkeit.<br>Wir
-      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full-Service
+      stehen Ihnen für reines Consulting ebenso zur Verfügung, wie auch als Full Service
       Partner für den gesamten Prozess von der Idee bis zur fertigen Kleidung.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
@@ -291,9 +292,9 @@ page_sections:
   - template: themenabschnitt
     type: ta
     titel: "<p>Markus Goss</p>"
-    untertitel: "<p>Gründer und Style-Professional </p>"
+    untertitel: "<p>Gründer und Style Professional</p>"
     text: "<p>Ihr Ansprechpartner in allen Fragen CI konforme Geschäftskleidung betreffend,
-      Koordination Ihrer Projekte und Entwickler progessiver Ideen für neue Stile.</p>"
+      Koordination Ihrer Projekte und Entwickler progressiver Ideen für neue Stile.</p>"
     farbe: creme:#fffaf5
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
@@ -308,8 +309,8 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>Unsere Mitarbeiterinnen und Mitarbeiter</p>"
     text: "<p>Ein Team aus freien Designern, Marketing- und PR-Mitarbeitern mit umfassender
-      und lanjähriger Erfahrung bildet die kreative Basis unseres Know-How in Punkto
-      Textil-Management und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
+      und langjähriger Erfahrung bildet die kreative Basis unseres Know-hows in puncto
+      Textilmanagement und Unternehmensberatung.<br>Je nach Art und Umfang des Projektes
       sind wir so in der Lage, jederzeit flexibel auf Ihre Anforderungen zu reagieren
       und einen optimalen Personaleinsatz für Ihren Auftrag bereitzustellen. Dies
       garantiert bestmögliche Effizienz und ergebnisorientierte Ausführung Ihres Auftrags.</p>"
@@ -329,12 +330,7 @@ page_sections:
       STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"WIR
       FÜHLTEN UNS MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES
       VORHABENS BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
-      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p><p>&nbsp;</p><h3>"OHNE
-      HERRN GOSS HÄTTEN WIR VERMUTLICH DIE FEHLER AUS FRÜHEREN PROJEKTEN UNWISSENTLICH
-      WIEDERHOLT. ER IST EINFACH »THE MAN!«"</h3><p>KATJA KRANNICH<br>Kostümbildnerin,
-      Constantin Film Produktion GmbH (2018)</p><p>&nbsp;</p><h3>"MARKUS GOSS IST
-      UNSERE PERSÖNLICHE NUMMER EINS FÜR FUNDIERTE BERATUNG IM BACKOFFICE UND AM SET."</h3><p>KATJA
-      KRANNICH<br>Kostümbildnerin, Constantin Film Produktion GmbH (2018)</p>
+      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p>
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
@@ -346,7 +342,7 @@ page_sections:
   sub_sections:
   - template: themenheader
     farbe:
-      farbe: siena:#8F0000
+      farbe: siena:#5C1414
     textfarbe:
       farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_4.jpg"
@@ -355,36 +351,39 @@ page_sections:
     type: ta
     titel: "<p>Anfrage</p>"
     untertitel: "<p>Wir freuen uns auf Ihre Nachricht</p>"
-    text: <p>Für Informationen, Terminanfragen und sonstige Nachrichten stehen wir
-      Ihnen unter <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
-      gerne zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang Ihrer
-      Nachricht eine Rückmeldung von uns.</p>
-    farbe: siena:#8F0000
+    text: <p>Für detailliertere Informationen, Terminanfragen und weitere Nachrichten
+      dürfen Sie sich gerne direkt an uns wenden.</p><p>Wir stehen Ihnen unter &nbsp;<a
+      href="mailto:POST@STYLEIDENTITY.DE" title="POST@STYLEIDENTITY.DE"><strong>POST@STYLEIDENTITY.DE</strong></a>
+      &nbsp;mit Freude zur Verfügung. Sie erhalten innerhalb von 24 Stunden nach Eingang
+      Ihrer Nachricht eine Rückmeldung von uns.</p><p>Hinweis:<br>Nachrichten mit
+      personenbezogenen Daten, denen keine weitere Beauftragung folgt, werden spätestens
+      sechs Wochen nach Eingang gelöscht.</p>
+    farbe: creme:#fffaf5
     textfarbe_titel_und_content:
-      farbe: grano:#EEE3CE
+      farbe: nautique:#1D2642
     textfarbe_content:
-      farbe: grano:#EEE3CE
+      farbe: charbon:#656565
   menue: true
   farbe_menu:
-    farbe: siena:#8F0000
+    farbe: siena:#5C1414
 - name: Gesetzliche Angaben
   sub_sections:
   - template: themenheader
     farbe:
-      farbe: pietra:#E8E8E8
+      farbe: charbon:#656565
     textfarbe:
-      farbe: graphite:#404040
+      farbe: weiss:#ffffff
     hintergrundbild: "/uploads/2018/11/02/slice_5.jpg"
     teaser: "<p>Impressum,</p><p>Haftungsausschluss,</p><p>Datenschutz.</p>"
   - template: themenabschnitt
     type: ta
     titel: "<p>Impressum</p>"
-    untertitel: "<p>Angaben gemäss §5 TMG</p>"
+    untertitel: "<p>Angaben gemäss § 5 TMG</p>"
     farbe: creme:#fffaf5
     text: '<p>goss|style.identity ist ein Unternehmen von <br>Goss - Beratung &amp;
       Vermittlung <br>Grub <br>Dorfstraße 12a <br>D-83626 Valley</p><p>Inhaber: Markus
       Goss <br>Tel: +49 (0) 8095 358 387-0 <br>E-Mail: <a href="mailto:post@styleidentity.de">post@styleidentity.de</a>
-      <br>Umsatzsteuer-ID gemäß §27 a UStG: 139/221/70139<br>USt-IdNr.: DE 320 294
+      <br>Umsatzsteuer-ID gemäß § 27 a UStG: 139/221/70139<br>USt-IdNr.: DE 320 294
       303 <br>Amtsgericht Miesbach</p><p>Das Unternehmen nimmt nicht an Streitbeilegungsverfahren
       vor einer Verbraucherschlichtungsstelle teil.</p>'
     textfarbe_titel_und_content:
@@ -406,7 +405,7 @@ page_sections:
       eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder
       Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben
       hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt
-      der Kenntnis einer konkreten Rechts- verletzung möglich. Bei Bekanntwerden von
+      der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von
       entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p><h3
       class="RichTextEditor__block___2Vs_D">HAFTUNG FÜR LINKS</h3><p>Unser Angebot
       enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss
@@ -416,8 +415,8 @@ page_sections:
       der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte
       waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
       Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer
-      Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechts- verletzungen
-      werden wir derartige Links umgehend entfernen.</p><h3 class="RichTextEditor__block___2Vs_D">URHEBERRECHT</h3><p>Die
+      Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden
+      wir derartige Links umgehend entfernen.</p><h3 class="RichTextEditor__block___2Vs_D">URHEBERRECHT</h3><p>Die
       durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen
       dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und
       jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der
@@ -531,8 +530,8 @@ page_sections:
       - Beratung &amp; Vermittlung, Dorfstraße 12a, 83626 Valley, Deutschland</p><p>Tel.:
       +49 (0)8095 358 387-0, E-Mail: <a href="MAILTO:post@styleidentity.de" title="post@styleidentity.de">post@styleidentity.de</a>,
       Website: <a href="http://www.styleidentity.de" title="www.styleidentity.de">www.styleidentity.de</a></p><p>3.
-      Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwendet
-      keine Cookies.</p><p>4. Erfassung von allgemeinen Daten und Informationen</p><p>Die
+      Cookies</p><p>Die Internetseiten der Goss - Beratung &amp; Vermittlung verwenden
+      keine Cookies. </p><p>4. Erfassung von allgemeinen Daten und Informationen</p><p>Die
       Internetseite der Goss - Beratung &amp; Vermittlung erfasst mit jedem Aufruf
       der Internetseite durch eine betroffene Person oder ein automatisiertes System
       eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten
@@ -821,6 +820,8 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+  farbe_menu:
+    farbe: esche:#A7A7A7
 startgrafik: "/uploads/2018/11/02/startbild.jpg"
 startgrafik_logo: "/uploads/2018/11/02/start_logo.jpg"
 footer:
