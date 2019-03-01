@@ -494,6 +494,16 @@ section#ss8c0f686f2ce4f02bd5d3baefe1d95d7a .BildTeaser {
 section .Subsection {
   padding: 3vw 17.5vw 3vw 37.5vw;
 }
+section .Subsection p {
+  color: inherit!important;
+}
+section .Subsection p a {
+  color: inherit!important;
+  text-decoration: underline;
+}
+section .Subsection p a:-webkit-any-link {
+  color: inherit!important;
+}
 section .Subsection.idx-1 {
   margin-top: -6vw !important;
   padding: 12vw 17.5vw 4vw 37.5vw!important;
