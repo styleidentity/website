@@ -219,10 +219,7 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: <p><a href="http://www.bmw-welt.com" title="BMW Welt">BMW Welt</a>, <a href="www.gross-fuchs.com"
-      title="Gross+Fuchs-Group">Gross+Fuchs-Group</a> - Oldorid Kunststoffe GmbH,
-      Käfer Gut Kaltenbrunn GmbH - shoepassion.com - Juwelier Hilscher - Allergika
-      GmbH - Constantin Film Produktion GmbH</p><p></p>
+    text: "<p>BMW&nbsp;Welt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gross+Fuchs-Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oldorid&nbsp;Kunststoffe&nbsp;GmbH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Käfer&nbsp;Gut&nbsp;Kaltenbrunn&nbsp;GmbH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shoepassion.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juwelier&nbsp;Hilscher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allergika&nbsp;GmbH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Constantin&nbsp;Film&nbsp;Produktion&nbsp;GmbH</p><p></p>"
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
