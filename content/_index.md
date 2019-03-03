@@ -220,7 +220,7 @@ page_sections:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
     text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a> &nbsp;
-      &nbsp; · &nbsp; &nbsp; <a href="www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>
+      &nbsp; · &nbsp; &nbsp; <a href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>
       &nbsp; &nbsp; · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp;
       &nbsp; Käfer Gut Kaltenbrunn GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com
       &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher · Allergika GmbH &nbsp; &nbsp;
