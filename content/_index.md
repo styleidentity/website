@@ -227,8 +227,8 @@ page_sections:
       <a href="http://www.shoepassion.de/" title="shoepassion.com">shoepassion.com</a>
       &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.juwelier-hilscher.de/" title="Juwelier
       Hilscher">Juwelier Hilscher</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.allergika.de/"
-      title="Allergika GmbH">Allergika GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; Constantin
-      Film Produktion GmbH</p><p></p>
+      title="Allergika GmbH">Allergika GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.constantin-film.de/"
+      title="Constantin Film">Constantin Film Produktion GmbH</a></p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
