@@ -239,11 +239,12 @@ page_sections:
     titel: "<p>Partner</p>"
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
-    text: "<p>ProService GmbH &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co.
-      KG &nbsp; &nbsp; · &nbsp; &nbsp; elvira.beck | design &nbsp; &nbsp; · &nbsp;
-      &nbsp; GMUND Papier &nbsp; &nbsp; · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp;
-      &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; Gössl GmbH &nbsp; &nbsp;
-      · &nbsp; &nbsp; KiT Kostümfundus im Tauwerk</p>"
+    text: <p><a href="http://www.proservice-cargo.com/" title="Pro Service Cargo">ProService
+      GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co. KG &nbsp; &nbsp;
+      · &nbsp; &nbsp; <a href="http://elvirabeck-design.de/" title="Elvira Beck Design">elvira.beck
+      | design</a> &nbsp; &nbsp; · &nbsp; &nbsp; GMUND Papier &nbsp; &nbsp; · &nbsp;
+      &nbsp; fabrik 3 &nbsp; &nbsp; · &nbsp; &nbsp; Greif Trachten &nbsp; &nbsp; ·
+      &nbsp; &nbsp; Gössl GmbH &nbsp; &nbsp; · &nbsp; &nbsp; KiT Kostümfundus im Tauwerk</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   menue: true
