@@ -248,7 +248,8 @@ page_sections:
       href="https://www.trachten-greif.de/" title="Trachten Greif">Greif Trachten</a>
       &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl
       GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/"
-      title="Kostüm-KiT">KiT Kostümfundus im Tauwerk</a></p>
+      title="Kostüm-KiT">KiT Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp;
+      <a href="http://natalicheva.com/" title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   menue: true
