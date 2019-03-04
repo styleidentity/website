@@ -224,9 +224,9 @@ page_sections:
       &nbsp; &nbsp; · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp;
       &nbsp; <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn" title="Käfer
       Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp;
-      shoepassion.com &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp;
-      · &nbsp; &nbsp; Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film
-      Produktion GmbH</p><p></p>
+      <a href="http://www.shoepassion.de/" title="shoepassion.com">shoepassion.com</a>
+      &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp;
+      Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion GmbH</p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
