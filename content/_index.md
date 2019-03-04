@@ -222,9 +222,11 @@ page_sections:
     text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a> &nbsp;
       &nbsp; · &nbsp; &nbsp; <a href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>
       &nbsp; &nbsp; · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp;
-      &nbsp; Käfer Gut Kaltenbrunn GmbH &nbsp; &nbsp; · &nbsp; &nbsp; shoepassion.com
-      &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp;
-      Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion GmbH</p><p></p>
+      &nbsp; <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn" title="Käfer
+      Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp;
+      shoepassion.com &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp;
+      · &nbsp; &nbsp; Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film
+      Produktion GmbH</p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
