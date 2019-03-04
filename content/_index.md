@@ -243,9 +243,10 @@ page_sections:
       GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co. KG &nbsp; &nbsp;
       · &nbsp; &nbsp; <a href="http://elvirabeck-design.de/" title="Elvira Beck Design">elvira.beck
       | design</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://de.gmund.com/" title="GMUND
-      Papier">GMUND Papier</a> &nbsp; &nbsp; · &nbsp; &nbsp; fabrik 3 &nbsp; &nbsp;
-      · &nbsp; &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; Gössl GmbH &nbsp;
-      &nbsp; · &nbsp; &nbsp; KiT Kostümfundus im Tauwerk</p>
+      Papier">GMUND Papier</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.fabrik3.de/"
+      title="fabrik 3 Photografie und Mediendesign">fabrik 3</a> &nbsp; &nbsp; · &nbsp;
+      &nbsp; Greif Trachten &nbsp; &nbsp; · &nbsp; &nbsp; Gössl GmbH &nbsp; &nbsp;
+      · &nbsp; &nbsp; KiT Kostümfundus im Tauwerk</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   menue: true
