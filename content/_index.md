@@ -242,11 +242,11 @@ page_sections:
     text: <p><a href="http://www.proservice-cargo.com/" title="Pro Service Cargo">ProService
       GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co. KG &nbsp; &nbsp;
       · &nbsp; &nbsp; <a href="http://elvirabeck-design.de/" title="Elvira Beck Design">elvira.beck
-      | design</a> · <a href="https://de.gmund.com/" title="GMUND Papier">GMUND Papier</a>
-      &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.fabrik3.de/" title="fabrik
-      3 Photografie und Mediendesign">fabrik 3</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a
-      href="https://www.trachten-greif.de/" title="Trachten Greif">Greif Trachten</a>
-      &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl
+      | design</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://de.gmund.com/" title="GMUND
+      Papier">GMUND Papier</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.fabrik3.de/"
+      title="fabrik 3 Photografie und Mediendesign">fabrik 3</a> &nbsp; &nbsp; · &nbsp;
+      &nbsp; <a href="https://www.trachten-greif.de/" title="Trachten Greif">Greif
+      Trachten</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl
       GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/"
       title="Kostüm-KiT">KiT Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp;
       <a href="http://natalicheva.com/" title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
