@@ -225,8 +225,9 @@ page_sections:
       &nbsp; <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn" title="Käfer
       Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp;
       <a href="http://www.shoepassion.de/" title="shoepassion.com">shoepassion.com</a>
-      &nbsp; &nbsp; · &nbsp; &nbsp; Juwelier Hilscher &nbsp; &nbsp; · &nbsp; &nbsp;
-      Allergika GmbH &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion GmbH</p><p></p>
+      &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.juwelier-hilscher.de/" title="Juwelier
+      Hilscher">Juwelier Hilscher</a> &nbsp; &nbsp; · &nbsp; &nbsp; Allergika GmbH
+      &nbsp; &nbsp; · &nbsp; &nbsp; Constantin Film Produktion GmbH</p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
   - template: themenabschnitt
