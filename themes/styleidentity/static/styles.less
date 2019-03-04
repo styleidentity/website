@@ -449,6 +449,7 @@ section{
     height:12vw;
     position:absolute;
     z-index:0;
+    top:0;
     @media only screen and (max-width: 768px) {
       display:none;
     }
@@ -491,12 +492,18 @@ section{
       padding:30vh!important;
     }
   }
+  .Subsections{
+    z-index:1!important;
+  }
   .Subsection{
+    z-index:1!important;
     p{
+      z-index:1;
       color:inherit!important;
       a{
         color:inherit!important;
         text-decoration:underline;
+        cursor:pointer!important;
       }
       a:-webkit-any-link{
         color:inherit!important;

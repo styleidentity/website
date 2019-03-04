@@ -47,7 +47,6 @@
       <div class="sectionTitleWrapper" style="background:{{partial "colorextr" $color}}">
         <h2 style="color:{{partial "colorextr" $tcolor}}">{{.name}}</h2>
       </div>
-      <div class="SectionTeaserBackground" style="background-image:url({{partial "imgUrl" (dict "img" $bckgrd "params" "c_scale,w_2500,f_auto" )}})"></div>
       {{if gt (len $teaser) 0}}
       <div class="SectionTeaser">
         <div>{{$teaser|safeHTML}}</div>
@@ -80,7 +79,7 @@
             style="color:{{if gt (len $sccolor) 0}}{{partial "colorextr" $sccolor}}{{else}}inherit{{end}}" 
             class="content"
             >
-            {{.text |safeHTML}}
+            {{.text |replaceRE "href=" "target='_blank' href="|safeHTML}}
             </div>
           </div>
           {{$slastcolor = $scolor}}
@@ -98,6 +97,8 @@
         {{end}}
         {{end}}
       </div>
+      <div class="SectionTeaserBackground" style="background-image:url({{partial "imgUrl" (dict "img" $bckgrd "params" "c_scale,w_2500,f_auto" )}})"></div>
+      
       <div class="SubNavWrapOuter">
           <div class="SubNavWrap ui sticky" id="nav-{{md5 $section.name}}">
               <div class="subnavTitle">{{.name}}</div>

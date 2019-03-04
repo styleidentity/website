@@ -449,6 +449,7 @@ section .SectionTeaserBackground {
   height: 12vw;
   position: absolute;
   z-index: 0;
+  top: 0;
 }
 @media only screen and (max-width: 768px) {
   section .SectionTeaserBackground {
@@ -491,15 +492,21 @@ section .BildTeaser .content em {
 section#ss8c0f686f2ce4f02bd5d3baefe1d95d7a .BildTeaser {
   padding: 30vh!important;
 }
+section .Subsections {
+  z-index: 1!important;
+}
 section .Subsection {
+  z-index: 1!important;
   padding: 3vw 17.5vw 3vw 37.5vw;
 }
 section .Subsection p {
+  z-index: 1;
   color: inherit!important;
 }
 section .Subsection p a {
   color: inherit!important;
   text-decoration: underline;
+  cursor: pointer!important;
 }
 section .Subsection p a:-webkit-any-link {
   color: inherit!important;
