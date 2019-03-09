@@ -1,7 +1,6 @@
 ---
 label: ThemenHeader
 hide_body: true
-is_partial: true
 fields:
 - type: field_group
   name: farbe

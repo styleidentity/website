@@ -1,7 +1,6 @@
 ---
 label: Color
 hide_body: true
-is_partial: true
 fields:
 - type: select
   config:

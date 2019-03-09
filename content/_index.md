@@ -129,11 +129,14 @@ page_sections:
     farbe: creme:#fffaf5
     untertitel: "<p>INDIVIDUELLE GESCHÄFTSKLEIDUNG:<br>EIN STATEMENT FÜR DEN STIL
       IHRES HAUSES</p>"
-    text: "<p>Eigenständige Schnitte, vollkommen individuelle Ausgestaltung der Details
-      und exklusive Ausstrahlung signalisieren Führungsanspruch in einer immer gleichförmigeren
-      Geschäftswelt. Bisher ausschließlich dem privaten Made-to-measure Kunden vorbehalten,
-      eröffnet &nbsp;<strong>STYLE IDENTITY</strong> &nbsp;diesen Service auch Unternehmen
-      für ihre Arbeits- und Geschäftskleidung.</p>"
+    text: "<p>Individuelles Design und eigenständige Schnitte sind diejenigen Merkmale
+      einer Businessbekleidung, die den Stil Ihres Hauses auf den ersten Blick und
+      in spürbarem Maße ersichtlich machen.\L <br>Dazu zählen selbstverständlich auch
+      die Ausgestaltung der Details und Accessoires, welche Ihrer Corporate Fashion
+      jene Note der Exklusivität verleihen, um sie zu einem unverwechselbaren Element
+      Ihrer Unternehmensidentität werden zu lassen.</p><p>Bisher fast ausschließlich
+      Privatkunden vorbehalten, eröffnet  <strong>STYLE IDENTITY  </strong>diesen
+      Service auch Unternehmen für Ihre Arbeits- und Geschäftskleidung.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
