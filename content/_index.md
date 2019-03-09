@@ -133,10 +133,10 @@ page_sections:
       einer Businessbekleidung, die den Stil Ihres Hauses auf den ersten Blick und
       in spürbarem Maße ersichtlich machen.\L <br>Dazu zählen selbstverständlich auch
       die Ausgestaltung der Details und Accessoires, welche Ihrer Corporate Fashion
-      jene Note der Exklusivität verleihen, um sie zu einem unverwechselbaren Element
-      Ihrer Unternehmensidentität werden zu lassen.</p><p>Bisher fast ausschließlich
-      Privatkunden vorbehalten, eröffnet  <strong>STYLE IDENTITY  </strong>diesen
-      Service auch Unternehmen für Ihre Arbeits- und Geschäftskleidung.</p>"
+      jene Note an Exklusivität verleihen, die ein unverwechselbares Element Ihrer
+      Unternehmensidentität erfordert.</p><p>Bisher fast ausschließlich Privatkunden
+      vorbehalten, eröffnet  <strong>STYLE IDENTITY  </strong>diesen Service auch
+      Unternehmen für Ihre Arbeits- und Geschäftskleidung.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
