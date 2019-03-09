@@ -109,22 +109,6 @@ page_sections:
     bild: "/uploads/2019/01/21/Scabal_Leistungen_C3.jpg"
   - template: themenabschnitt
     type: ta
-    farbe: creme:#fffaf5
-    titel: "<p>PRODUKTION</p>"
-    untertitel: "<p>FERTIGUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
-    text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
-      der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
-      Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
-      erfolgt nach höchsten ökologischen Standards und unter fairsten Bedingungen
-      für die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
-      in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
-      beauftragen.</p>"
-    textfarbe_titel_und_content:
-      farbe: nautique:#1D2642
-    textfarbe_content:
-      farbe: charbon:#656565
-  - template: themenabschnitt
-    type: ta
     titel: "<p>Design</p>"
     farbe: creme:#fffaf5
     untertitel: "<p>INDIVIDUELLE GESCHÄFTSKLEIDUNG:<br>EIN STATEMENT FÜR DEN STIL
@@ -137,6 +121,22 @@ page_sections:
       Unternehmensidentität erfordert.</p><p>Bisher fast ausschließlich Privatkunden
       vorbehalten, eröffnet  <strong>STYLE IDENTITY  </strong>diesen Service auch
       Unternehmen für Ihre Arbeits- und Geschäftskleidung.</p>"
+    textfarbe_titel_und_content:
+      farbe: nautique:#1D2642
+    textfarbe_content:
+      farbe: charbon:#656565
+  - template: themenabschnitt
+    type: ta
+    farbe: creme:#fffaf5
+    titel: "<p>PRODUKTION</p>"
+    untertitel: "<p>FERTIGUNG IHRER BRAND-FASHION:<br>NACHHALTIG UND FAIR</p>"
+    text: "<p>Natürlich gehört neben dem Consulting auch die Übernahme und Koordination
+      der Herstellung Ihrer individuellen Garderobe zu unseren zentralen Aufgaben.</p><p>Die
+      Produktion in Deutschland und in den unmittelbar angrenzenden Nachbarstaaten
+      erfolgt nach höchsten ökologischen Standards und unter fairsten Bedingungen
+      für die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
+      in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
+      beauftragen.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
