@@ -336,16 +336,18 @@ page_sections:
     farbe: grano:#EEE3CE
     titel: "<p>Andere über uns</p>"
     untertitel: "<p>Kundenfeedback</p>"
-    text: <p>&nbsp;</p><h3>"DIE BESTE MASSNAHME FÜR WIRKSAMES MARKETING IM BEZUG AUF
-      UNSERE BELEGSCHAFT, DIE IN MEINER GESAMTEN KARRIERE ERLEBT HABE!"</h3><p>BERND
-      BÖKENKRÜGER<br>Geschäftsführer der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>"SERIÖS,
-      KREATIV UND HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>CoO der GROSS+FUCHS-Group
+    text: '<p>&nbsp;</p><h3>"DIE BESTE MASSNAHME FÜR WIRKSAMES MARKETING IM BEZUG
+      AUF UNSERE BELEGSCHAFT, DIE IN MEINER GESAMTEN KARRIERE ERLEBT HABE!"</h3><p>BERND
+      BÖKENKRÜGER<br>Geschäftsführer der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>"BERATUNG:
+      SPITZE!"</h3><p>HARTMUT BANNERT<br>GF der ALLERGIKA GmbH (2013)</p><p>&nbsp;</p><h3>"SERIÖS,
+      KREATIV UND HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>COO der GROSS+FUCHS-Group
       (2014)</p><p>&nbsp;</p><h3>"EIN RIESENGROSSES »DANKE« FÜR DIESEN GELUNGENEN
       WORKSHOP AN DAS GESAMTE TEAM VON STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP
-      BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"WIR FÜHLTEN UNS
-      MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES VORHABENS
-      BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
-      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p>
+      BMW Brand Experience, BMW Group (2015)</p><p>&nbsp;</p><h3>"SERIÖS, KREATIV
+      UND HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>CEO shoepassion.com (2016)</p><p>&nbsp;</p><h3>"WIR
+      FÜHLTEN UNS MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES
+      VORHABENS BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
+      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p>'
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
