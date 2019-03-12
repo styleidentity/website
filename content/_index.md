@@ -348,7 +348,7 @@ page_sections:
       NICHT DIE REGEL."</h3><p>TIM KEDING<br>CEO shoepassion.com (2016)</p><p>&nbsp;</p><h3>"WIR
       FÜHLTEN UNS MIT STYLE IDENTITY VON BEGINN AN AUFGEHOBEN UND GANZ IM SINNE UNSERES
       VORHABENS BERATEN. TAUSEND DANK AN HERRN GOSS UND SEINE MITARBEITER."</h3><p>MAXIMILIAN
-      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p>
+      HARTBERGER<br>Geschäftsführer von Käfer Gut Kaltenbrunn GmbH (2017)</p><p></p>
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
