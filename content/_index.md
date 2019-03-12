@@ -339,7 +339,7 @@ page_sections:
     text: <p>&nbsp;</p><h3>"DIE BESTE MASSNAHME FÜR WIRKSAMES MARKETING IM BEZUG AUF
       UNSERE BELEGSCHAFT, DIE IN MEINER GESAMTEN KARRIERE ERLEBT HABE!"</h3><p>BERND
       BÖKENKRÜGER<br>Geschäftsführer der Oldorid Kunststoffe GmbH (2012)</p><p>&nbsp;</p><h3>"EINFACH
-      SPITZE!"</h3><p>HARTMUT BANNERT<br>GF der ALLERGIKA GmbH (2013)</p><p>&nbsp;</p><h3>"SERIÖS,
+      SPITZE!"</h3><p>HARTMUT BANNERT<br>Geschäftsführer der ALLERGIKA GmbH (2013)</p><p>&nbsp;</p><h3>"SERIÖS,
       KREATIV UND HOCHKOMPETENT."</h3><p>VIKTOR FUCHS<br>COO der GROSS+FUCHS-Group
       (2014)</p><p>&nbsp;</p><h3>"EIN RIESENGROSSES »DANKE« FÜR DIESEN GELUNGENEN
       WORKSHOP AN DAS GESAMTE TEAM VON STYLE IDENTITY."</h3><p>JÖRG REIMANN<br>VP
