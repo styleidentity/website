@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2018-07-06 18:19:54 +0000
+date: '2018-07-06T18:19:54.000+00:00'
 type: page
 seo_description: ''
 page_sections:
@@ -35,6 +35,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
@@ -55,6 +56,7 @@ page_sections:
       farbe: charbon:#656565
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
+    inaktiv: false
   menue: true
   farbe_menu:
     farbe: chameau:#D5C1A0
@@ -83,6 +85,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>CORPORATE BUSINESS-WEAR</p>"
@@ -102,6 +105,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: bildteaser
     type: bt
     text: "<p>DIE BESTE VISITENKARTE IHRES UNTERNEHMENS?</p><p>NACH IHRER CI GEKLEIDETE
@@ -125,6 +129,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
@@ -141,6 +146,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>TRACHT IM BUSINESS</p>"
@@ -156,6 +162,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: bildteaser
     type: bt
     text: "<p>TRACHT IST IN WIRKLICHKEIT NUR EIN KONSTRUKT, EINE IDEE.</p><p>VIELE
@@ -187,6 +194,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     farbe: creme:#fffaf5
@@ -215,6 +223,8 @@ page_sections:
       farbe: graphite:#404040
     textfarbe:
       farbe: weiss:#ffffff
+    hintergrundbild: ''
+    teaser: ''
   - template: themenabschnitt
     type: ta
     titel: "<p>Projekte</p>"
@@ -222,18 +232,18 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a> &nbsp;
-      &nbsp; · &nbsp; &nbsp; <a href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>
-      &nbsp; &nbsp; · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp;
-      &nbsp; <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn" title="Käfer
-      Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp;
-      <a href="http://www.shoepassion.de/" title="shoepassion.com">shoepassion.com</a>
-      &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.juwelier-hilscher.de/" title="Juwelier
-      Hilscher">Juwelier Hilscher</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.allergika.de/"
-      title="Allergika GmbH">Allergika GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.constantin-film.de/"
-      title="Constantin Film">Constantin Film Produktion GmbH</a></p><p></p>
+    text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a>     ·     <a
+      href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>     ·     Oldorid
+      Kunststoffe GmbH     ·     <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn"
+      title="Käfer Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a>      ·     <a href="http://www.shoepassion.de/"
+      title="shoepassion.com">shoepassion.com</a>     ·     <a href="http://www.juwelier-hilscher.de/"
+      title="Juwelier Hilscher">Juwelier Hilscher</a>     ·     <a href="https://www.allergika.de/"
+      title="Allergika GmbH">Allergika GmbH</a>     ·     <a href="http://www.constantin-film.de/"
+      title="Constantin Film">Constantin Film Produktion GmbH</a>     ·     <a href="http://www.hotelbelavista.net"
+      title="Bela Vista - Hotel &amp; Spa">Bela Vista - Hotel &amp; Spa</a></p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     farbe: graphite:#404040
@@ -255,6 +265,7 @@ page_sections:
       <a href="http://natalicheva.com/" title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
+    inaktiv: false
   menue: true
   farbe_menu:
     farbe: graphite:#404040
@@ -286,6 +297,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>Leistungsversprechen</p>"
@@ -302,6 +314,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>Markus Goss</p>"
@@ -313,9 +326,11 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: bildteaser
     type: bt
     bild: "/uploads/2019/02/11/markus_goss_portrait.jpg"
+    text: ''
   - template: themenabschnitt
     type: ta
     titel: "<p>Team style identity</p>"
@@ -331,6 +346,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     farbe: grano:#EEE3CE
@@ -353,6 +369,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   menue: true
   farbe_menu:
     farbe: malachit:#393B1B
@@ -381,6 +398,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   menue: true
   farbe_menu:
     farbe: siena:#5C1414
@@ -408,6 +426,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: nautique:#1D2642
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>Haftungsausschluss</p>"
@@ -449,6 +468,7 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
   - template: themenabschnitt
     type: ta
     titel: "<p>Datenschutz</p>"
@@ -838,8 +858,11 @@ page_sections:
       farbe: nautique:#1D2642
     textfarbe_content:
       farbe: charbon:#656565
+    inaktiv: false
+    untertitel: ''
   farbe_menu:
     farbe: esche:#A7A7A7
+  menue: false
 startgrafik: "/uploads/2018/11/02/startbild.jpg"
 startgrafik_logo: "/uploads/2019/03/13/Start-Logo_Kraut.png"
 footer:
