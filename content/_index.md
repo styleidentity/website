@@ -232,15 +232,18 @@ page_sections:
     textfarbe_titel_und_content:
       farbe: weiss:#ffffff
     untertitel: "<p>EIN AUSZUG UNSERER BISHERIGEN LEISTUNGEN</p>"
-    text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a>     ·     <a
-      href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>     ·     Oldorid
-      Kunststoffe GmbH     ·     <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn"
-      title="Käfer Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a>      ·     <a href="http://www.shoepassion.de/"
-      title="shoepassion.com">shoepassion.com</a>     ·     <a href="http://www.juwelier-hilscher.de/"
-      title="Juwelier Hilscher">Juwelier Hilscher</a>     ·     <a href="https://www.allergika.de/"
-      title="Allergika GmbH">Allergika GmbH</a>     ·     <a href="http://www.constantin-film.de/"
-      title="Constantin Film">Constantin Film Produktion GmbH</a>     ·     <a href="http://www.hotelbelavista.net"
-      title="Bela Vista - Hotel &amp; Spa">Bela Vista - Hotel &amp; Spa</a></p><p></p>
+    text: <p><a href="https://www.bmw-welt.com" title="BMW Welt">BMW Welt</a> &nbsp;
+      &nbsp; · &nbsp; &nbsp; <a href="http://www.gross-fuchs.com" title="Gross+Fuchs-Group">Gross+Fuchs-Group</a>
+      &nbsp; &nbsp; · &nbsp; &nbsp; Oldorid Kunststoffe GmbH &nbsp; &nbsp; · &nbsp;
+      &nbsp; <a href="https://www.feinkost-kaefer.de/gutkaltenbrunn" title="Käfer
+      Gut Kaltenbrunn">Käfer Gut Kaltenbrunn GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp;
+      <a href="http://www.shoepassion.de/" title="shoepassion.com">shoepassion.com</a>
+      &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.juwelier-hilscher.de/" title="Juwelier
+      Hilscher">Juwelier Hilscher</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.allergika.de/"
+      title="Allergika GmbH">Allergika GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.constantin-film.de/"
+      title="Constantin Film">Constantin Film Produktion GmbH</a> &nbsp; &nbsp; ·
+      &nbsp; &nbsp; <a href="http://www.hotelbelavista.net" title="Bela Vista - Hotel
+      &amp; Spa">Bela Vista - Hotel &amp; Spa</a></p><p></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
     inaktiv: false
