@@ -258,11 +258,10 @@ page_sections:
       | design</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://de.gmund.com/" title="GMUND
       Papier">GMUND Papier</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.fabrik3.de/"
       title="fabrik 3 Photografie und Mediendesign">fabrik 3</a> &nbsp; &nbsp; · &nbsp;
-      &nbsp; <a href="https://www.trachten-greif.de/" title="Trachten Greif">Greif
-      Trachten</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl
-      GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/"
-      title="Kostüm-KiT">KiT Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp;
-      <a href="http://natalicheva.com/" title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
+      &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl GmbH</a> &nbsp; &nbsp;
+      · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/" title="Kostüm-KiT">KiT
+      Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://natalicheva.com/"
+      title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
     inaktiv: false
