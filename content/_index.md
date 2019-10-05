@@ -265,7 +265,7 @@ page_sections:
       · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/" title="Kostüm-KiT">KiT
       Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://natalicheva.com/"
       title="Iryna Natalicheva">IRYNA NATALICHEVA</a> &nbsp; &nbsp; · &nbsp; &nbsp;
-      vanBaal Arts &amp; Antiquités</p>
+      Van Baal Arts &amp; Antiquités</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
     inaktiv: false
