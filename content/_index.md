@@ -256,15 +256,14 @@ page_sections:
     untertitel: "<p>UNTERNEHMEN, DIE UNS SEIT LANGEM FREUNDLICH UNTERSTÜTZEN.<br>VON
       HERZEN EIN GROSSES DANKESCHÖN AN:</p>"
     text: <p><a href="http://www.proservice-cargo.com/" title="Pro Service Cargo">ProService
-      GmbH</a> &nbsp; &nbsp; · &nbsp; &nbsp; b-coding UG &amp; Co. KG &nbsp; &nbsp;
-      · &nbsp; &nbsp; <a href="http://elvirabeck-design.de/" title="Elvira Beck Design">elvira.beck
-      | design</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://de.gmund.com/" title="GMUND
-      Papier">GMUND Papier</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://www.fabrik3.de/"
-      title="fabrik 3 Photografie und Mediendesign">fabrik 3</a> &nbsp; &nbsp; · &nbsp;
-      &nbsp; <a href="http://www.goessl.com" title="gössl">Gössl GmbH</a> &nbsp; &nbsp;
-      · &nbsp; &nbsp; <a href="http://www.kostuem-kit.de/" title="Kostüm-KiT">KiT
-      Kostümfundus im Tauwerk</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="http://natalicheva.com/"
-      title="Iryna Natalicheva">IRYNA NATALICHEVA</a></p>
+      GmbH</a>     ·     b-coding UG &amp; Co. KG     ·     <a href="http://elvirabeck-design.de/"
+      title="Elvira Beck Design">elvira.beck | design</a>     ·     <a href="https://de.gmund.com/"
+      title="GMUND Papier">GMUND Papier</a>     ·     <a href="https://www.fabrik3.de/"
+      title="fabrik 3 Photografie und Mediendesign">fabrik 3</a>     ·     <a href="http://www.goessl.com"
+      title="gössl">Gössl GmbH</a>     ·     <a href="http://www.kostuem-kit.de/"
+      title="Kostüm-KiT">KiT Kostümfundus im Tauwerk</a>     ·     <a href="http://natalicheva.com/"
+      title="Iryna Natalicheva">IRYNA NATALICHEVA</a>     ·     vanBaal Arts &amp;
+      Antiquités</p>
     textfarbe_content:
       farbe: pietra:#E8E8E8
     inaktiv: false
