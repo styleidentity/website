@@ -141,7 +141,7 @@ page_sections:
       erfolgt nach höchsten ökologischen Standards und unter fairsten Bedingungen
       für die Beschäftigten. In der Mehrzahl sind es Familienbetriebe mit langer Erfahrung
       in der Textilproduktion, die wir mit der Fertigung Ihrer Unternehmensbekleidung
-      beauftragen.</p>"
+      betrauen.</p>"
     textfarbe_titel_und_content:
       farbe: nautique:#1D2642
     textfarbe_content:
